@@ -1,0 +1,6 @@
+Changelog:
+Bareback Horse Riding
+https://curseforge.com/minecraft/mc-mods/bareback-horse-riding
+
+=========
+v1.0: Initial release of Bareback Horse Riding.
