@@ -3,6 +3,9 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.16: Added the mixin config class for pre-NeoForge versions as well, to improve compatibility.
+
+=========
 v7.15: Further improvements to Collective's in-game config screen.
 
 =========
