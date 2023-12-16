@@ -143,6 +143,10 @@
 		"fabric" : 531272,
 		"forge" : 345973
 	},
+	"Cycle Title Screen Splash" : {
+		"fabric" : -1,
+		"forge" : 950586
+	},
 	"Death Backup" : {
 		"fabric" : 531270,
 		"forge" : 411571
@@ -570,6 +574,10 @@
 	"The Vanilla Experience" : {
 		"fabric" : -1,
 		"forge" : 454414
+	},
+	"Thorny Bush Protection" : {
+		"fabric" : -1,
+		"forge" : 950546
 	},
 	"TNT Breaks Bedrock" : {
 		"fabric" : 527766,

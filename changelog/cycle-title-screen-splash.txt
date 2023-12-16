@@ -1,0 +1,6 @@
+Changelog:
+Cycle Title Screen Splash
+https://curseforge.com/minecraft/mc-mods/cycle-title-screen-splash
+
+=========
+v1.0: Initial release of Cycle Title Screen Splash.
