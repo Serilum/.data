@@ -383,6 +383,10 @@
 		"fabric" : 529673,
 		"forge" : 342097
 	},
+	"No Feather Trample" : {
+		"fabric" : -1,
+		"forge" : 950746
+	},
 	"No Hostiles Around Campfire" : {
 		"fabric" : 539639,
 		"forge" : 347394

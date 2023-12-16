@@ -1,0 +1,6 @@
+Changelog:
+No Feather Trample
+https://curseforge.com/minecraft/mc-mods/no-feather-trample
+
+=========
+v1.0: Initial release of No Feather Trample.
