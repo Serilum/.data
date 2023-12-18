@@ -3,6 +3,11 @@ Nether Portal Spread
 https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread
 
 =========
+v7.8: Improved mod icon compression, which lowers the jar file size.
+Updated mod URLs to the new GitHub location.
+(NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.
+
+=========
 v7.7: Improved compatibility with other mods.
 
 =========

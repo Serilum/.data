@@ -3,6 +3,11 @@ Ore Discovery Broadcast
 https://curseforge.com/minecraft/mc-mods/ore-discovery-broadcast
 
 =========
+v2.1: Improved mod icon compression, which lowers the jar file size.
+Updated mod URLs to the new GitHub location.
+(NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.
+
+=========
 v2.0: Updated backend code.
 Ore blocks placed by players will now not be broadcasted when mined.
 Added another config file where a specific colour can be specified for each ore block.

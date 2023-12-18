@@ -3,6 +3,11 @@ Current Game Music Track
 https://curseforge.com/minecraft/mc-mods/current-game-music-track
 
 =========
+v1.3: Improved mod icon compression, which lowers the jar file size.
+Updated mod URLs to the new GitHub location.
+(NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.
+
+=========
 v1.2: (1.20.2) Added extra checks which mixins should be loaded, to prevent unwanted behaviour on NeoForge.
 
 =========

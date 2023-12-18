@@ -3,4 +3,9 @@ Cycle Title Screen Splash
 https://curseforge.com/minecraft/mc-mods/cycle-title-screen-splash
 
 =========
+v1.1: Improved mod icon compression, which lowers the jar file size.
+Updated mod URLs to the new GitHub location.
+(NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.
+
+=========
 v1.0: Initial release of Cycle Title Screen Splash.

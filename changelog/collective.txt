@@ -3,6 +3,14 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.20-7.21: (1.20.4) Updated the modEventBus field in NeoForge to the new format.
+Updated mods.toml and fabric.mod.json data.
+Added 'type="required"' line, needed in the latest NeoForge version.
+
+=========
+v7.17-7.19: Added ScreenFunctions related to client-side sign editing.
+
+=========
 v7.16: Added the mixin config class for pre-NeoForge versions as well, to improve compatibility.
 
 =========

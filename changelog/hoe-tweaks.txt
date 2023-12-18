@@ -3,6 +3,11 @@ Hoe Tweaks
 https://curseforge.com/minecraft/mc-mods/hoe-tweaks
 
 =========
+v3.4: Improved mod icon compression, which lowers the jar file size.
+Updated mod URLs to the new GitHub location.
+(NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.
+
+=========
 v3.3: (1.20.*) Added official support for NeoForge. Just like Fabric and Forge, in the same jar!
 Updated structure and content of mod info files.
 

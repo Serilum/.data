@@ -3,6 +3,11 @@ Hidden Recipe Book
 https://curseforge.com/minecraft/mc-mods/hidden-recipe-book
 
 =========
+v4.4: Improved mod icon compression, which lowers the jar file size.
+Updated mod URLs to the new GitHub location.
+(NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.
+
+=========
 v4.3: (1.20.2) Fixed NeoForge not loading correctly.
 Updated mod description.
 
