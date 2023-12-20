@@ -3,6 +3,10 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.23: Updated Spawn A Mob code.
+It's been cleaned up, and added an option to only spawn mobs below the surface.
+
+=========
 v7.22: Added access transformer and function related to entity flags.
 
 =========

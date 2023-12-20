@@ -91,6 +91,10 @@
 		"fabric" : 541268,
 		"forge" : 452484
 	},
+	"Cave Spider Spawn" : {
+		"fabric" : -1,
+		"forge" : 952294
+	},
 	"Collective" : {
 		"fabric" : 526606,
 		"forge" : 342584

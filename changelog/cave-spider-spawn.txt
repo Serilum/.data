@@ -1,0 +1,6 @@
+Changelog:
+Cave Spider Spawn
+https://curseforge.com/minecraft/mc-mods/cave-spider-spawn
+
+=========
+v1.0: Initial release of Cave Spider Spawn.
