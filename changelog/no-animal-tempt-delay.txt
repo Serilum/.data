@@ -1,0 +1,6 @@
+Changelog:
+No Animal Tempt Delay
+https://curseforge.com/minecraft/mc-mods/no-animal-tempt-delay
+
+=========
+v1.0: Initial release of No Animal Tempt Delay.

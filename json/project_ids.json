@@ -387,6 +387,10 @@
 		"fabric" : 529673,
 		"forge" : 342097
 	},
+	"No Animal Tempt Delay" : {
+		"fabric" : -1,
+		"forge" : 952356
+	},
 	"No Feather Trample" : {
 		"fabric" : -1,
 		"forge" : 950746
