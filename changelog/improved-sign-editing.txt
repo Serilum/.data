@@ -1,0 +1,6 @@
+Changelog:
+Improved Sign Editing
+https://curseforge.com/minecraft/mc-mods/improved-sign-editing
+
+=========
+v1.0: Initial release of Improved Sign Editing.

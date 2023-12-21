@@ -319,6 +319,10 @@
 		"fabric" : 539830,
 		"forge" : 390161
 	},
+	"Improved Sign Editing" : {
+		"fabric" : -1,
+		"forge" : 952629
+	},
 	"Infinite Trading" : {
 		"fabric" : 529960,
 		"forge" : 348964
