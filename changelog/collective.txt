@@ -3,6 +3,15 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.26: Fixed Common mixins not loading correctly in NeoForge.
+
+=========
+v7.25: Made the MixinConfigPlugin check less specific to allow mixin files in Common.
+
+=========
+v7.24: Added an extra option to specify a maximum Y value in the Spawn A Mob code.
+
+=========
 v7.23: Updated Spawn A Mob code.
 It's been cleaned up, and added an option to only spawn mobs below the surface.
 
