@@ -3,4 +3,7 @@ Improved Sign Editing
 https://curseforge.com/minecraft/mc-mods/improved-sign-editing
 
 =========
+v1.1: Moved mixin files to the Common source folder to make future development easier.
+
+=========
 v1.0: Initial release of Improved Sign Editing.

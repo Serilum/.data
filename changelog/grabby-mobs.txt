@@ -3,6 +3,9 @@ Grabby Mobs
 https://curseforge.com/minecraft/mc-mods/grabby-mobs
 
 =========
+v1.5: Moved mixin files to the Common source folder to make future development easier.
+
+=========
 v1.4: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

@@ -3,6 +3,9 @@ Giant Spawn
 https://www.curseforge.com/minecraft/mc-mods/giant-spawn
 
 =========
+v5.0: Moved mixin files to the Common source folder to make future development easier.
+
+=========
 v4.9: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

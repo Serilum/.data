@@ -3,6 +3,9 @@ Passive Endermen
 https://www.curseforge.com/minecraft/mc-mods/passive-endermen
 
 =========
+v4.6: Moved mixin files to the Common source folder to make future development easier.
+
+=========
 v4.5: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

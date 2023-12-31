@@ -3,6 +3,9 @@ Bareback Horse Riding
 https://curseforge.com/minecraft/mc-mods/bareback-horse-riding
 
 =========
+v1.3: Moved mixin files to the Common source folder to make future development easier.
+
+=========
 v1.2: Fixed a crash in the renderer.
 
 =========

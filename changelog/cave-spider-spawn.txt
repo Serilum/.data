@@ -3,4 +3,8 @@ Cave Spider Spawn
 https://curseforge.com/minecraft/mc-mods/cave-spider-spawn
 
 =========
+v1.1: Added config options to only spawn cave spiders below a certain y level.
+Can be used to make them only spawn within deepslate.
+
+=========
 v1.0: Initial release of Cave Spider Spawn.
