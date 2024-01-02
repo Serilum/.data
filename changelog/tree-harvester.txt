@@ -3,6 +3,13 @@ Tree Harvester
 https://www.curseforge.com/minecraft/mc-mods/tree-harvester
 
 =========
+v8.6: Fixed the last update not loading correctly on Forge.
+
+=========
+v8.5: Fixed huge brown mushrooms not being harvested correctly.
+Improved compatibility with other mods.
+
+=========
 v8.4: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.
