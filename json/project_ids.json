@@ -539,6 +539,10 @@
 		"fabric" : 528123,
 		"forge" : 304077
 	},
+	"Simple Menu" : {
+		"fabric" : -1,
+		"forge" : 977300
+	},
 	"Skeleton Horse Spawn" : {
 		"fabric" : 528077,
 		"forge" : 346219

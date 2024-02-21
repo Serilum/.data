@@ -1,0 +1,10 @@
+Changelog:
+Simple Menu
+https://curseforge.com/minecraft/mc-mods/simple-menu
+
+=========
+v1.1: Removed the Realms icons from the main menu when the button is disabled.
+Fixed the mod not being ignored correctly when loaded on a server.
+
+=========
+v1.0: Initial release of Simple Menu.
