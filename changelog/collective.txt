@@ -3,6 +3,12 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.32: Updated WorldFunctions. Cleaned it up and added extra functions related to the world folder.
+
+=========
+v7.31: Fixed the in-game config screen height, so the buttons no longer overlap incorrectly.
+
+=========
 v7.29-7.30: Updated PlayerFunctions.
 Added support for a custom player spawn point.
 Added extra logging and an option to disable the spawn check in the 'isJoiningWorldForTheFirstTime' function.
