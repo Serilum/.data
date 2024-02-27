@@ -3,6 +3,13 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.35-7.36: Added GearFunctions. For saving, managing and reading player inventories.
+
+=========
+v7.33-7.34: Added Multiloader Networking features to Collective.
+Based on the common-networking code from @mysticdrew <3
+
+=========
 v7.32: Updated WorldFunctions. Cleaned it up and added extra functions related to the world folder.
 
 =========

@@ -3,6 +3,48 @@ Starter Kit
 https://www.curseforge.com/minecraft/mc-mods/starter-kit
 
 =========
+v6.0: The big 6.0 update!
+Without extra configuration, the mod remains the same. '/starterkit set' still exists.
+Old starterkit files are automatically converted to the new format.
+See the description for examples!
+
+There are (a few) extra features:
+Improved tracking to see if a kit should be given. Inside the world folder.
+Added support for potion effects to give alongside the starterkit gear.
+You can add multiple kits, with an option to let players choose or give one randomly.
+Players can choose kits, when enabled, via a custom GUI inventory screen.
+If the mod is not installed on the client, players can still choose a kit via commands.
+Kit descriptions! Give your instance more of an RPG-vibe with kit backstories.
+
+There are 3 new (inactive) default starterkits, as an example of how the configuration works.
+These kits are the inactive folder by default: Archer, Lumberjack and Witch.
+
+Added an alias for /starterkit, /sk.
+
+As an admin you can use the following new commands:
+  /sk add (kit_name)
+    Adds your current inventory to the active kits.
+  /sk set (kit_name)
+    Sets your current inventory as the only active kit.
+
+  /sk give <player> (kit_name)
+    Give a player a random (or specific) starter kit.
+
+  /sk activate <kit_name>/_all
+    Moves kit_name or all kits from inactive to active.
+  /sk deactivate <kit_name>/_all
+    Moves kit_name or all kits from active to inactive.
+
+  /sk list (inactive)
+    Lists all active (or inactive) kits.
+  /sk reset
+    Resets all tracking. Players receive another kit on join.
+  /sk reload
+    Reloads starter kit changes from the config folder.
+
+...and probably some more I forgot. Hope you like the new changes!
+
+=========
 v5.5: Added enablePlayerMustBeNearSpawnForKitCheck config option.
 Increased the delay before giving a kit from 5 to 10 ticks.
 
