@@ -3,6 +3,10 @@ Areas
 https://www.curseforge.com/minecraft/mc-mods/areas
 
 =========
+v5.4: Teleporting out of an area now shows the leave message, instead of "area removed".
+Fixed the /areas command not finding hanging signs.
+
+=========
 v5.3: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

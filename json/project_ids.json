@@ -651,6 +651,10 @@
 		"fabric" : 551222,
 		"forge" : 551215
 	},
+	"What Durability" : {
+		"fabric" : -1,
+		"forge" : 981008
+	},
 	"Wool Tweaks" : {
 		"fabric" : 527586,
 		"forge" : 414111

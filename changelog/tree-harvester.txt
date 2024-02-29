@@ -3,6 +3,10 @@ Tree Harvester
 https://www.curseforge.com/minecraft/mc-mods/tree-harvester
 
 =========
+v8.7: Added an extra check if a tree contains leaves placed by players. If found, the tree harvest feature is disabled.
+Thanks to @zf-moth on GitHub!
+
+=========
 v8.6: Fixed the last update not loading correctly on Forge.
 
 =========

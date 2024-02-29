@@ -3,6 +3,9 @@ Difficulty Lock
 https://www.curseforge.com/minecraft/mc-mods/difficulty-lock
 
 =========
+v4.1: Fixed the difficulty button being inactive on the world creation screen despite all config settings being disabled.
+
+=========
 v4.0: The Create World Screen now correctly shows the settings and prevents users from changing them.
 Added the config options 'forceHardcoreMode', 'disableCreativeModeSelection' and 'forceCheatsDisabled'.
 Updated backend code.

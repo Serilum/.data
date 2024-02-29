@@ -3,6 +3,11 @@ First Join Message
 https://www.curseforge.com/minecraft/mc-mods/first-join-message
 
 =========
+v3.4: The mod now has the possibility to also broadcast a message to the server whenever a new player joins.
+Disabled by default, but can be enabled by inputting a string in the 'serverBroadcastMessage' config.
+Thanks to @xNicklaj for the work.
+
+=========
 v3.3: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

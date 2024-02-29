@@ -3,6 +3,16 @@ Omega Mute
 https://www.curseforge.com/minecraft/mc-mods/omega-mute
 
 =========
+v4.0: The big OmegaMute 4.0 update!
+Rewrote and cleaned up backend code.
+Fixed some modded sounds not being muted.
+Removed the dot hotkey to reload. Use the /omegamute reload command instead.
+Fixed a crash with a mod sending a sound on a chat message, causing an infinite loop with /omegamute listen.
+Changed /omegamute listen to only listen to sounds once, for a better overview.
+Added /omegamute listen all to listen to all sounds.
+Improved the listen message formatting for better readability.
+
+=========
 v3.4: Updated Omega Mute to work with the latest NeoForge update.
 
 =========

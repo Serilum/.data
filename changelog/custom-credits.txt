@@ -3,6 +3,9 @@ Custom Credits
 https://curseforge.com/minecraft/mc-mods/custom-credits
 
 =========
+v1.5: Correctly closed the file readers for better memory management.
+
+=========
 v1.4: Moved mixin files to the Common source folder to make future development easier.
 
 =========

@@ -3,6 +3,14 @@ Starter Kit
 https://www.curseforge.com/minecraft/mc-mods/starter-kit
 
 =========
+v6.2: Updated backend code.
+(1.20.1) Fixed the choose kit screen background not loading correctly.
+(1.19.2) Fixed the choose kit screen buttons being cut off.
+
+=========
+v6.1: Adds backwards compatibility when updating from Starter Kit version 5.5 to 6.0+.
+
+=========
 v6.0: The big 6.0 update!
 Without extra configuration, the mod remains the same. '/starterkit set' still exists.
 Old starterkit files are automatically converted to the new format.
