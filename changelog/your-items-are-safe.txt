@@ -3,6 +3,16 @@ Your Items Are Safe
 https://curseforge.com/minecraft/mc-mods/your-items-are-safe
 
 =========
+v4.0: The big Your Items Are Safe 4.0 update!
+When a player dies in the void, a chest will be placed above the death coordinates.
+Death coordinates will now be sent in the chat when a player dies, can be turned off.
+Chests are now used before planks as a material on death.
+Fixed dying from creepers not spawning the chest correctly.
+Fixed the totem of undying functionality being incorrect when dying in the void.
+Fixed Curse of Vanishing not being parsed correctly.
+Updated backend code.
+
+=========
 v3.6: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

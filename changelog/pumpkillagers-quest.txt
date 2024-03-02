@@ -3,6 +3,11 @@ Pumpkillager's Quest
 https://curseforge.com/minecraft/mc-mods/pumpkillagers-quest
 
 =========
+v3.7: The two quest books are invulnerable to explosions.
+Added the /pumpkillager book command to receive the quest books manually.
+Fixed a modded incompatibility when breaking a skull block.
+
+=========
 v3.6: Moved mixin files to the Common source folder to make future development easier.
 
 =========

@@ -3,6 +3,10 @@ Just Player Heads
 https://www.curseforge.com/minecraft/mc-mods/just-player-heads
 
 =========
+v3.4: Heads generated from the command now go directly into the player's inventory.
+Changed the head generate command to /jph head <player_name> (amount).
+
+=========
 v3.3: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.
