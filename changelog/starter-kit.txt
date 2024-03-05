@@ -3,6 +3,9 @@ Starter Kit
 https://www.curseforge.com/minecraft/mc-mods/starter-kit
 
 =========
+v6.3: Fixed a NullPointerException when ran on a dedicated server.
+
+=========
 v6.2: Updated backend code.
 (1.20.1) Fixed the choose kit screen background not loading correctly.
 (1.19.2) Fixed the choose kit screen buttons being cut off.

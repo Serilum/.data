@@ -1,0 +1,10 @@
+Changelog:
+April Fools
+https://curseforge.com/minecraft/mc-mods/april-fools
+
+=========
+v1.1: Improved the "is it april the 1st" check's efficiency.
+Added new features!
+
+=========
+v1.0: Initial release of the April Fools mod.

@@ -23,6 +23,10 @@
 		"fabric" : 531465,
 		"forge" : 523801
 	},
+	"April Fools" : {
+		"fabric" : -1,
+		"forge" : 982952
+	},
 	"Areas" : {
 		"fabric" : 681975,
 		"forge" : 391701
