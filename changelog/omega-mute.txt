@@ -3,6 +3,9 @@ Omega Mute
 https://www.curseforge.com/minecraft/mc-mods/omega-mute
 
 =========
+v4.1: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
+
+=========
 v4.0: The big OmegaMute 4.0 update!
 Rewrote and cleaned up backend code.
 Fixed some modded sounds not being muted.

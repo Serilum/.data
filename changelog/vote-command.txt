@@ -3,6 +3,9 @@ Vote Command
 https://www.curseforge.com/minecraft/mc-mods/vote-command
 
 =========
+v3.3: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
+
+=========
 v3.2: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

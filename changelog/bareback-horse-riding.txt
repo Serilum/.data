@@ -3,6 +3,9 @@ Bareback Horse Riding
 https://curseforge.com/minecraft/mc-mods/bareback-horse-riding
 
 =========
+v2.0: Added the slowness effect to the horse and player as the default when riding without a saddle.
+
+=========
 v1.3: Moved mixin files to the Common source folder to make future development easier.
 
 =========

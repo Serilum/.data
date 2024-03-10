@@ -3,6 +3,12 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.38-7.39: Added player head caching functionality to Collective. Will only be enabled if a dependent mod uses it.
+
+=========
+v7.37: Added function and access transformer/widener related to BlockSetType in BlockFunctions.
+
+=========
 v7.35-7.36: Added GearFunctions. For saving, managing and reading player inventories.
 
 =========

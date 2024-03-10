@@ -3,6 +3,9 @@ Nether Portal Spread
 https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread
 
 =========
+v8.1: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
+
+=========
 v8.0: Converted blocks will now keep the original state, such as a direction, if possible.
 Added a more strict nether portal check, improves mod compatibility.
 (1.20.4) Renamed grass to short_grass in DefaultConfigs.

@@ -3,6 +3,12 @@ Areas
 https://www.curseforge.com/minecraft/mc-mods/areas
 
 =========
+v5.6: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
+
+=========
+v5.5: Fixed a mod incompatibility with bigger signs.
+
+=========
 v5.4: Teleporting out of an area now shows the leave message, instead of "area removed".
 Fixed the /areas command not finding hanging signs.
 

@@ -3,6 +3,17 @@ Double Doors
 https://www.curseforge.com/minecraft/mc-mods/double-doors
 
 =========
+v5.4: The mod now checks the BlockSetType of door blocks correctly to see if it can be opened.
+
+=========
+v5.3: Moved the open door functionality to mixins.
+^ This make it compatible with other mods such as FramedBlocks.
+Fixed crouching not always ignoring the double door functionality.
+Fixed the sound playing incorrectly for each trapdoor.
+Fixed levers not opening double doors correctly.
+Fixed buttons opening doors from too far away.
+
+=========
 v5.2: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

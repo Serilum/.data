@@ -3,6 +3,9 @@ First Join Message
 https://www.curseforge.com/minecraft/mc-mods/first-join-message
 
 =========
+v3.5: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
+
+=========
 v3.4: The mod now has the possibility to also broadcast a message to the server whenever a new player joins.
 Disabled by default, but can be enabled by inputting a string in the 'serverBroadcastMessage' config.
 Thanks to @xNicklaj for the work.

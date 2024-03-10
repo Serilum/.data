@@ -3,6 +3,13 @@ Your Items Are Safe
 https://curseforge.com/minecraft/mc-mods/your-items-are-safe
 
 =========
+v4.2: Updated mod to work with the new player head caching feature in Collective.
+This will cache any player head on login. Which fixes any query delay on player death.
+
+=========
+v4.1: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
+
+=========
 v4.0: The big Your Items Are Safe 4.0 update!
 When a player dies in the void, a chest will be placed above the death coordinates.
 Death coordinates will now be sent in the chat when a player dies, can be turned off.

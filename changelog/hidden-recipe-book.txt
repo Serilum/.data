@@ -3,6 +3,9 @@ Hidden Recipe Book
 https://curseforge.com/minecraft/mc-mods/hidden-recipe-book
 
 =========
+v4.6: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
+
+=========
 v4.5: Updated Hidden Recipe Book to work with the latest NeoForge update.
 
 =========

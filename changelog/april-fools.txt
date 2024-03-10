@@ -3,6 +3,14 @@ April Fools
 https://curseforge.com/minecraft/mc-mods/april-fools
 
 =========
+v1.3: Added the 'april1stChanceMultiplier' config option.
+^ Can be used to increase feature chances for April Fools' and allow them to work sometimes outside of it.
+Added the 'chancePotatoCropDropsPoisonous' config option instead of true/false.
+
+=========
+v1.2: Updated mod icon.
+
+=========
 v1.1: Improved the "is it april the 1st" check's efficiency.
 Added new features!
 
