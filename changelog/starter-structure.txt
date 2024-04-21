@@ -3,6 +3,13 @@ Starter Structure
 https://curseforge.com/minecraft/mc-mods/starter-structure
 
 =========
+v3.6: Fixed the structure offset position not being parsed correctly.
+
+=========
+v3.5: Overhauled the backend spawn mechanics of the mod, which fixes some issues.
+Fixed underground bunkers not spawning as intended.
+
+=========
 v3.4: The mod now correctly ignores StructureVoidBlocks in structures when enabled in the config.
 
 =========

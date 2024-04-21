@@ -3,6 +3,24 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.41: Overhauled Player Head functionality, used by dependent mods.
+Picking up player heads will now keep the player name.
+Improved effiency via caching and the MinecraftSessionService.
+
+=========
+v7.40: No code changes, but thought this was the best way to reach everyone.
+Windows Defender has had issues this past week with some mods falsely flagging the mod as a "Trojan:Script/Wacatac.B!ml".
+This is a false positive. Microsoft has fixed this in their latest Defender update. The solution is to update Windows Defender's definitions.
+
+This can be done via Windows Update, or alternatively via these steps:
+1. Open command prompt as administrator.
+2. Run the following, without the “-quotes: 
+
+“cd C:\Program Files\Windows Defender && MpCmdRun.exe -removedefinitions -dynamicsignatures && MpCmdRun.exe -SignatureUpdate”
+
+That's it! I wish I could do more. I can assure you there is nothing wrong with the mod. Hopefully in a few days Defender will be updated automatically for everyone.
+
+=========
 v7.38-7.39: Added player head caching functionality to Collective. Will only be enabled if a dependent mod uses it.
 
 =========

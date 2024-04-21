@@ -3,6 +3,11 @@ Just Player Heads
 https://www.curseforge.com/minecraft/mc-mods/just-player-heads
 
 =========
+v4.0: Updated Just Player Heads to use the improved Collective code.
+Placed and picked up heads will now keep the player name.
+The efficiency and caching has been improved.
+
+=========
 v3.6: Updated mod to work with the new player head caching feature in Collective.
 This will cache any player head on login. Which fixes any query delay on player death.
 
