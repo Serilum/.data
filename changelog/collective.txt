@@ -3,6 +3,9 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.42: Improved GameProfile handling when null for player heads.
+
+=========
 v7.41: Overhauled Player Head functionality, used by dependent mods.
 Picking up player heads will now keep the player name.
 Improved effiency via caching and the MinecraftSessionService.
