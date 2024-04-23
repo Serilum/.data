@@ -3,6 +3,10 @@ Double Doors
 https://www.curseforge.com/minecraft/mc-mods/double-doors
 
 =========
+v5.5: Fixed double fence gates not opening correctly.
+Fixed the other fence gate sometimes opening in the wrong direction.
+
+=========
 v5.4: The mod now checks the BlockSetType of door blocks correctly to see if it can be opened.
 
 =========

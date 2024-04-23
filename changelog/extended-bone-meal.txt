@@ -3,6 +3,9 @@ Extended Bone Meal
 https://www.curseforge.com/minecraft/mc-mods/extended-bone-meal
 
 =========
+v3.4: Fixed the main hand item being used with bone meal in the offhand.
+
+=========
 v3.3: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

@@ -3,6 +3,22 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.48-7.49: Updated ItemEntityMixin for Fabric to be able to edit itemstack data on pickup.
+
+=========
+v7.47: Fixed mob heads not being named correctly.
+
+=========
+v7.46: Changed the functionality of how player textures are parsed.
+
+=========
+v7.44-7.45: Collective now uses the GameProfileCache function to get UUID data instead of via the Mojang API.
+Updated backend code.
+
+=========
+v7.43: Updated CropFunctions to use a specific hand or itemstack as input.
+
+=========
 v7.42: Improved GameProfile handling when null for player heads.
 
 =========

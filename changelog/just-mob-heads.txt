@@ -3,6 +3,10 @@ Just Mob Heads
 https://www.curseforge.com/minecraft/mc-mods/just-mob-heads
 
 =========
+v7.7: Updated Just Mob Heads to work with Collective's update.
+Mob heads are now renamed on pickup, using the Name tag field. This improves performance.
+
+=========
 v7.6: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
 
 =========
