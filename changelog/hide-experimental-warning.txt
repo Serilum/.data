@@ -1,0 +1,6 @@
+Changelog:
+Hide Experimental Warning
+https://curseforge.com/minecraft/mc-mods/hide-experimental-warning
+
+=========
+v1.0: Initial release of Hide Experimental Warning.

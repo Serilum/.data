@@ -3,6 +3,9 @@ Mineral Chance
 https://curseforge.com/minecraft/mc-mods/mineral-chance
 
 =========
+v3.6: Fixed a crash while using a modded quarry when the Mineral Chance attempted to send a message.
+
+=========
 v3.5: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
 
 =========

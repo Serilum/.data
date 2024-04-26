@@ -3,6 +3,9 @@ Global Narration Toggle
 https://curseforge.com/minecraft/mc-mods/global-narration-toggle
 
 =========
+v1.3: Fixed the mod not loading correctly on Linux and Mac OS.
+
+=========
 v1.2: Moved mixin files to the Common source folder to make future development easier.
 
 =========

@@ -303,6 +303,10 @@
 		"fabric" : -1,
 		"forge" : 459727
 	},
+	"Hide Experimental Warning" : {
+		"fabric" : -1,
+		"forge" : 1009556
+	},
 	"Hide Hands" : {
 		"fabric" : 539845,
 		"forge" : 379688

@@ -3,6 +3,12 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.51: Added code related to hiding the Experimental Settings Warning, specifically in a development environment.
+
+=========
+v7.50: Added a TeleportHelper class to use the separate mod loader's teleport code in Common.
+
+=========
 v7.48-7.49: Updated ItemEntityMixin for Fabric to be able to edit itemstack data on pickup.
 
 =========
