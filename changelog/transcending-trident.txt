@@ -3,6 +3,9 @@ Transcending Trident
 https://www.curseforge.com/minecraft/mc-mods/transcending-trident
 
 =========
+v4.7: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
+
+=========
 v4.6: Moved mixin files to the Common source folder to make future development easier.
 
 =========

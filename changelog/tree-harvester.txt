@@ -3,6 +3,12 @@ Tree Harvester
 https://www.curseforge.com/minecraft/mc-mods/tree-harvester
 
 =========
+v8.9: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
+
+=========
+v8.8: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
+
+=========
 v8.7: Added an extra check if a tree contains leaves placed by players. If found, the tree harvest feature is disabled.
 Thanks to @zf-moth on GitHub!
 

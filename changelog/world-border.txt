@@ -3,6 +3,12 @@ World Border
 https://www.curseforge.com/minecraft/mc-mods/world-border
 
 =========
+v4.6: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
+
+=========
+v4.5: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
+
+=========
 v4.4: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
 
 =========

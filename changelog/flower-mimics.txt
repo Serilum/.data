@@ -3,6 +3,9 @@ Flower Mimics
 https://curseforge.com/minecraft/mc-mods/flower-mimics
 
 =========
+v1.8: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
+
+=========
 v1.7: Moved mixin files to the Common source folder to make future development easier.
 
 =========

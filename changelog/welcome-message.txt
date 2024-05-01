@@ -3,6 +3,9 @@ Welcome Message
 https://curseforge.com/minecraft/mc-mods/welcome-message
 
 =========
+v2.5: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
+
+=========
 v2.4: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
 
 =========

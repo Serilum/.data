@@ -3,6 +3,9 @@ Nether Portal Spread
 https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread
 
 =========
+v8.2: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
+
+=========
 v8.1: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
 
 =========

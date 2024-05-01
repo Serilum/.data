@@ -3,6 +3,9 @@ Thorny Bush Protection
 https://curseforge.com/minecraft/mc-mods/thorny-bush-protection
 
 =========
+v1.3: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
+
+=========
 v1.2: Moved mixin files to the Common source folder to make future development easier.
 
 =========

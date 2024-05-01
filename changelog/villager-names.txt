@@ -3,6 +3,9 @@ Villager Names
 https://www.curseforge.com/minecraft/mc-mods/villager-names
 
 =========
+v7.4: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
+
+=========
 v7.3: Moved mixin files to the Common source folder to make future development easier.
 
 =========

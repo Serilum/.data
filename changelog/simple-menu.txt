@@ -3,6 +3,9 @@ Simple Menu
 https://curseforge.com/minecraft/mc-mods/simple-menu
 
 =========
+v1.2: Fixed the mod not loading correctly due to the background setting.
+
+=========
 v1.1: Removed the Realms icons from the main menu when the button is disabled.
 Fixed the mod not being ignored correctly when loaded on a server.
 

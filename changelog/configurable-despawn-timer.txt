@@ -3,6 +3,15 @@ Configurable Despawn Timer
 https://www.curseforge.com/minecraft/mc-mods/configurable-despawn-timer
 
 =========
+v4.0: The big 4.0 update!
+Support has been added for experience orbs, alongside items.
+There is now a config option, disabled by default, to never despawn player-dropped items.
+A config file is generated containing each item, where specific despawn times can be set.
+There is a reload command for this config file.
+Fixed the /give command dropping a duplicated item.
+Updated the mod icon.
+
+=========
 v3.4: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

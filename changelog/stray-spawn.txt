@@ -3,6 +3,9 @@ Stray Spawn
 https://www.curseforge.com/minecraft/mc-mods/stray-spawn
 
 =========
+v3.6: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
+
+=========
 v3.5: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

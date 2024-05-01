@@ -3,6 +3,9 @@ Your Items Are Safe
 https://curseforge.com/minecraft/mc-mods/your-items-are-safe
 
 =========
+v4.4: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
+
+=========
 v4.3: Updated the mod to use Collective's improved player head code.
 Placed and picked up heads will now keep the player name.
 The efficiency and caching has been improved.

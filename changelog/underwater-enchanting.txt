@@ -3,6 +3,9 @@ Underwater Enchanting
 https://www.curseforge.com/minecraft/mc-mods/underwater-enchanting
 
 =========
+v2.8: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
+
+=========
 v2.7: Moved mixin files to the Common source folder to make future development easier.
 
 =========

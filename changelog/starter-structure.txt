@@ -3,6 +3,9 @@ Starter Structure
 https://curseforge.com/minecraft/mc-mods/starter-structure
 
 =========
+v3.7: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
+
+=========
 v3.6: Fixed the structure offset position not being parsed correctly.
 
 =========

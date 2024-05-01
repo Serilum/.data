@@ -3,6 +3,9 @@ Difficulty Lock
 https://www.curseforge.com/minecraft/mc-mods/difficulty-lock
 
 =========
+v4.2: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
+
+=========
 v4.1: Fixed the difficulty button being inactive on the world creation screen despite all config settings being disabled.
 
 =========

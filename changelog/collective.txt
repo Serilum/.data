@@ -3,6 +3,22 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.55: (1.20.6) Added a GUI callback to Collective to use within the common code.
+Mostly due to Forge having removed the event.
+
+=========
+v7.54: Changed the sign check order to fix hanging sign functionality.
+Updated HeadFunctions to replace any spaces from the entity name.
+(1.20.5) Changed the way a Holder is wrapped for mob effects.
+(1.20.5 Neo) Updated to work with NeoForge's TickEvent update in 20.5.14.
+
+=========
+v7.53: Replaced a boolean that was inverted incorrectly.
+
+=========
+v7.52: Fixed the experimental settings warning showing when it shouldn't.
+
+=========
 v7.51: Added code related to hiding the Experimental Settings Warning, specifically in a development environment.
 
 =========

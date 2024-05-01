@@ -3,6 +3,9 @@ No Hostiles Around Campfire
 https://www.curseforge.com/minecraft/mc-mods/no-hostiles-around-campfire
 
 =========
+v6.0: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
+
+=========
 v5.9: Fixed an UnsupportedOperationException in Forge.
 
 =========

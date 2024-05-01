@@ -3,6 +3,9 @@ Campfire Spawn and Tweaks
 https://curseforge.com/minecraft/mc-mods/campfire-spawn-and-tweaks
 
 =========
+v3.8: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
+
+=========
 v3.7: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
 
 =========

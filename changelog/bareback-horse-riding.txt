@@ -3,6 +3,9 @@ Bareback Horse Riding
 https://curseforge.com/minecraft/mc-mods/bareback-horse-riding
 
 =========
+v2.1: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
+
+=========
 v2.0: Added the slowness effect to the horse and player as the default when riding without a saddle.
 
 =========

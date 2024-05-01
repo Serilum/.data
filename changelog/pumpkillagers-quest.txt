@@ -3,6 +3,9 @@ Pumpkillager's Quest
 https://curseforge.com/minecraft/mc-mods/pumpkillagers-quest
 
 =========
+v3.8: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
+
+=========
 v3.7: The two quest books are invulnerable to explosions.
 Added the /pumpkillager book command to receive the quest books manually.
 Fixed a modded incompatibility when breaking a skull block.

@@ -3,6 +3,9 @@ Advancement Screenshot
 https://curseforge.com/minecraft/mc-mods/advancement-screenshot
 
 =========
+v4.8: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
+
+=========
 v4.7: Moved mixin files to the Common source folder to make future development easier.
 
 =========
