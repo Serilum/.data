@@ -3,6 +3,16 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.58: (1.20.6 Neo) Updated Collective to work with NeoForge version 20.6.50-beta+.
+
+=========
+v7.57: Fixed mob heads being generated with a set name longer than 16, which is not allowed by the game.
+
+=========
+v7.56: Added compatibility with more modded villager entities.
+(Neo 1.20.6) Fixed the experimental world settings showing up on load in dev.
+
+=========
 v7.55: (1.20.6) Added a GUI callback to Collective to use within the common code.
 Mostly due to Forge having removed the event.
 

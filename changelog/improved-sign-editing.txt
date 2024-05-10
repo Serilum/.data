@@ -3,6 +3,10 @@ Improved Sign Editing
 https://curseforge.com/minecraft/mc-mods/improved-sign-editing
 
 =========
+v1.3: Fixed the mod not working with hanging signs.
+Set the ClientTickEvent to correctly use its subclass.
+
+=========
 v1.2: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
 
 =========

@@ -3,6 +3,12 @@ GUI Compass
 https://www.curseforge.com/minecraft/mc-mods/gui-compass
 
 =========
+v4.6: Fixed the mod crashing when leaving the Format config field empty.
+
+=========
+v4.5: (1.20.6) Fixed the mod not being ignored correctly when loaded in a server environment.
+
+=========
 v4.4: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

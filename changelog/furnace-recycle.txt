@@ -3,6 +3,9 @@ Furnace Recycle
 https://curseforge.com/minecraft/mc-mods/furnace-recycle
 
 =========
+v2.3: (1.20.6) Fixed the smelting recipes not being parsed correctly.
+
+=========
 v2.2: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

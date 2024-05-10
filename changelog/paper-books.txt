@@ -3,6 +3,9 @@ Paper Books
 https://www.curseforge.com/minecraft/mc-mods/paper-books
 
 =========
+v3.3: (1.20.6) Fixed the book recipe not being parsed correctly.
+
+=========
 v3.2: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

@@ -3,6 +3,12 @@ Difficulty Lock
 https://www.curseforge.com/minecraft/mc-mods/difficulty-lock
 
 =========
+v4.4: (1.20.6) Fixed incorrect mixin file reference.
+
+=========
+v4.3: (Neo) Fixed the onClienTick function not being static.
+
+=========
 v4.2: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
 
 =========

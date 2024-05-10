@@ -3,6 +3,10 @@ Pumpkillager's Quest
 https://curseforge.com/minecraft/mc-mods/pumpkillagers-quest
 
 =========
+v3.9: Set the client tick event to correctly use its subclass.
+Updated the mod to use Collective's new head functions.
+
+=========
 v3.8: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
 
 =========

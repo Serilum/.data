@@ -3,6 +3,9 @@ End Portal Recipe
 https://www.curseforge.com/minecraft/mc-mods/end-portal-recipe
 
 =========
+v5.3: (1.20.6) Fixed the end portal recipe not being parsed correctly.
+
+=========
 v5.2: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

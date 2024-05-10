@@ -3,6 +3,9 @@ Recast
 https://curseforge.com/minecraft/mc-mods/recast
 
 =========
+v3.4: Set the PlayerTickEvent to correctly use its subclass.
+
+=========
 v3.3: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
 
 =========

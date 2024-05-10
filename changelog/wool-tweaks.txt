@@ -3,6 +3,9 @@ Wool Tweaks
 https://curseforge.com/minecraft/mc-mods/wool-tweaks
 
 =========
+v3.5: (1.20.6) Fixed the wool tweaks recipes not being parsed correctly.
+
+=========
 v3.4: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
 
 =========
