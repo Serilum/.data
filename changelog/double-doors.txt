@@ -3,6 +3,13 @@ Double Doors
 https://www.curseforge.com/minecraft/mc-mods/double-doors
 
 =========
+v5.8: (1.20.4 Neo) Fixed an incorrect mixin file reference.
+
+=========
+v5.7: Added an extra check for incompatibility with other mods that add double doors functionality.
+Fixes an issue with doors not opening due to code being run twice.
+
+=========
 v5.6: (1.20.6) Fixed double doors not being opened correctly when clicked on.
 
 =========

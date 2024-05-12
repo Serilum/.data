@@ -3,6 +3,9 @@ Difficulty Lock
 https://www.curseforge.com/minecraft/mc-mods/difficulty-lock
 
 =========
+v4.5: (1.20.4 Neo) Fixed an incorrect mixin file reference.
+
+=========
 v4.4: (1.20.6) Fixed incorrect mixin file reference.
 
 =========

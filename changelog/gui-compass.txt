@@ -3,6 +3,9 @@ GUI Compass
 https://www.curseforge.com/minecraft/mc-mods/gui-compass
 
 =========
+v4.7: (1.20.4 Neo) Fixed an incorrect mixin file reference.
+
+=========
 v4.6: Fixed the mod crashing when leaving the Format config field empty.
 
 =========
