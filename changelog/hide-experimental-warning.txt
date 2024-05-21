@@ -3,4 +3,7 @@ Hide Experimental Warning
 https://curseforge.com/minecraft/mc-mods/hide-experimental-warning
 
 =========
+v1.1: The mod now also removes the experimental warning from the world list correctly.
+
+=========
 v1.0: Initial release of Hide Experimental Warning.
