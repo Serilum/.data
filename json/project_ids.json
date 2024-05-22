@@ -427,6 +427,10 @@
 		"fabric" : -1,
 		"forge" : 946767
 	},
+	"Ore Harvester" : {
+		"fabric" : -1,
+		"forge" : 1022944
+	},
 	"Overworld Piglins" : {
 		"fabric" : -1,
 		"forge" : 881363

@@ -3,6 +3,12 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.60: Added functions related to getting the item dropped by blocks, specifically ores.
+
+=========
+v7.59: Cleaned up BlockPosFunctions and added a function to recursively get connected blocks via BlockTags.
+
+=========
 v7.58: (1.20.6 Neo) Updated Collective to work with NeoForge version 20.6.50-beta+.
 
 =========

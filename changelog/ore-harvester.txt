@@ -1,0 +1,6 @@
+Changelog:
+Ore Harvester
+https://curseforge.com/minecraft/mc-mods/ore-harvester
+
+=========
+v1.0: Initial release of Ore Harvester.
