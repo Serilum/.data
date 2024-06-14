@@ -3,6 +3,9 @@ April Fools
 https://curseforge.com/minecraft/mc-mods/april-fools
 
 =========
+v1.4: (1.21.0) Updated CameraMixin to new float values.
+
+=========
 v1.3: Added the 'april1stChanceMultiplier' config option.
 ^ Can be used to increase feature chances for April Fools' and allow them to work sometimes outside of it.
 Added the 'chancePotatoCropDropsPoisonous' config option instead of true/false.

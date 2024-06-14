@@ -3,6 +3,10 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.61: Added a fuzzy check to the isOre function, using its raw name.
+Improves mod compatibility with ore blocks not having set a block tag.
+
+=========
 v7.60: Added functions related to getting the item dropped by blocks, specifically ores.
 
 =========

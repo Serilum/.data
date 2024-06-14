@@ -3,6 +3,9 @@ Beautified Chat Client
 https://curseforge.com/minecraft/mc-mods/beautified-chat-client
 
 =========
+v2.5: Skipping the ChatType variable, as the mod didn't use it, which fixes a rare problem with world loading.
+
+=========
 v2.4: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.
