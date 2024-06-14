@@ -3,6 +3,10 @@ Configurable Despawn Timer
 https://www.curseforge.com/minecraft/mc-mods/configurable-despawn-timer
 
 =========
+v4.1: Fixed ghost items being dropped on the floor when using /give and a despawn setting > 6000.
+Fixed wrong command documentation.
+
+=========
 v4.0: The big 4.0 update!
 Support has been added for experience orbs, alongside items.
 There is now a config option, disabled by default, to never despawn player-dropped items.
