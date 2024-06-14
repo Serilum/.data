@@ -3,6 +3,9 @@ Simple Menu
 https://curseforge.com/minecraft/mc-mods/simple-menu
 
 =========
+v1.3: Changed the default config value of 'hideMinecraftRealmsButton' from true to false.
+
+=========
 v1.2: Fixed the mod not loading correctly due to the background setting.
 
 =========

@@ -1,0 +1,6 @@
+Changelog:
+Breeze Spawn
+https://curseforge.com/minecraft/mc-mods/breeze-spawn
+
+=========
+v1.0: Initial release of Breeze Spawn.

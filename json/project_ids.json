@@ -75,6 +75,10 @@
 		"fabric" : 695239,
 		"forge" : 695238
 	},
+	"Bogged Spawn" : {
+		"fabric" : -1,
+		"forge" : 1036810
+	},
 	"Bottle Your Xp" : {
 		"fabric" : 531299,
 		"forge" : 344020
@@ -90,6 +94,10 @@
 	"Breedable Killer Rabbit" : {
 		"fabric" : 541281,
 		"forge" : 342154
+	},
+	"Breeze Spawn" : {
+		"fabric" : -1,
+		"forge" : 1036823
 	},
 	"Campfire Spawn and Tweaks" : {
 		"fabric" : 541268,
