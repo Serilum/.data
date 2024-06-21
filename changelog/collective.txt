@@ -3,6 +3,9 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.62: (Fabric) Fixed horses taking fall damage when they shouldn't.
+
+=========
 v7.61: Added a fuzzy check to the isOre function, using its raw name.
 Improves mod compatibility with ore blocks not having set a block tag.
 

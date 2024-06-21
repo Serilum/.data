@@ -3,6 +3,9 @@ End Portal Recipe
 https://www.curseforge.com/minecraft/mc-mods/end-portal-recipe
 
 =========
+v5.4: (1.21.0) Fixed recipe not being applied correctly.
+
+=========
 v5.3: (1.20.6) Fixed the end portal recipe not being parsed correctly.
 
 =========

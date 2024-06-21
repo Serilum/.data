@@ -3,6 +3,9 @@ Furnace Recycle
 https://curseforge.com/minecraft/mc-mods/furnace-recycle
 
 =========
+v2.4: (1.21.0) Fixed recipes not being applied correctly.
+
+=========
 v2.3: (1.20.6) Fixed the smelting recipes not being parsed correctly.
 
 =========

@@ -3,6 +3,9 @@ Paper Books
 https://www.curseforge.com/minecraft/mc-mods/paper-books
 
 =========
+v3.4: (1.21.0) Fixed recipe not being applied correctly.
+
+=========
 v3.3: (1.20.6) Fixed the book recipe not being parsed correctly.
 
 =========

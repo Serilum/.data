@@ -3,6 +3,9 @@ Name Tag Tweaks
 https://www.curseforge.com/minecraft/mc-mods/name-tag-tweaks
 
 =========
+v3.6: (1.21.0) Fixed recipe not being applied correctly.
+
+=========
 v3.5: (1.20.6) Fixed the name tag not being able to name entities due to it using an incorrect name data field.
 
 =========

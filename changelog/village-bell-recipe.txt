@@ -3,6 +3,9 @@ Village Bell Recipe
 https://curseforge.com/minecraft/mc-mods/village-bell-recipe
 
 =========
+v3.5: (1.21.0) Fixed recipe not being applied correctly.
+
+=========
 v3.4: (1.20.6) Fixed the village bell recipe not being parsed correctly.
 
 =========
