@@ -3,6 +3,9 @@ Manure
 https://curseforge.com/minecraft/mc-mods/manure
 
 =========
+v3.5: Simplified registering items with Collective's helper functions.
+
+=========
 v3.4: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
 
 =========

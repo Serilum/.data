@@ -3,6 +3,9 @@ Areas
 https://www.curseforge.com/minecraft/mc-mods/areas
 
 =========
+v5.9: Fixed a crash when setting a radius that included letters.
+
+=========
 v5.8: (1.20.6) Fixed the mod not loading correctly in a server environment.
 
 =========

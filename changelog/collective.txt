@@ -3,6 +3,13 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.64: Fixed isNumber function returning a false positive.
+Added missing CreativeModTabFunctions.
+
+=========
+v7.63: Added helper functions to add blocks and items via the Common source.
+
+=========
 v7.62: (Fabric) Fixed horses taking fall damage when they shouldn't.
 
 =========

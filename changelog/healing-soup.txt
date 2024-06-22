@@ -3,6 +3,9 @@ Healing Soup
 https://www.curseforge.com/minecraft/mc-mods/healing-soup
 
 =========
+v4.8: Simplified registering items with Collective's helper functions.
+
+=========
 v4.7: (1.21.0) Fixed recipes not being applied correctly.
 
 =========
