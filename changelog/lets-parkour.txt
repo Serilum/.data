@@ -1,0 +1,6 @@
+Changelog:
+Let's Parkour
+https://curseforge.com/minecraft/mc-mods/lets-parkour
+
+=========
+v1.0: Initial release of Let's Parkour.

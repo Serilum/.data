@@ -363,6 +363,10 @@
 		"fabric" : 539824,
 		"forge" : 367598
 	},
+	"Let's Parkour" : {
+		"fabric" : -1,
+		"forge" : 1048375
+	},
 	"Manure" : {
 		"fabric" : 699581,
 		"forge" : 699577
