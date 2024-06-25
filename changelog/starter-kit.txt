@@ -3,6 +3,17 @@ Starter Kit
 https://www.curseforge.com/minecraft/mc-mods/starter-kit
 
 =========
+v7.0: You can now give starter kits via command blocks.
+
+=========
+v6.9: The client can now correctly read kit data from the server, without having the files.
+Description files now ignore capitalization of the file name to match a kit.
+
+=========
+v6.8: Fixed the client crashing with the GUI kit screen enabled.
+Updated the default kits to the new component format.
+
+=========
 v6.7: Set the client tick event to correctly use its subclass.
 
 =========

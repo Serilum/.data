@@ -3,6 +3,9 @@ Ore Harvester
 https://curseforge.com/minecraft/mc-mods/ore-harvester
 
 =========
+v1.3: Improved the spawn location of ore drops and stopping their velocity.
+
+=========
 v1.2: Improved compatibility with modded ores by enabling fuzzy search to determine what's an ore block.
 Can be configured via the 'enableFuzzyOreSearch' config option if need be.
 
