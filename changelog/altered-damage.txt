@@ -3,6 +3,9 @@ Altered Damage
 https://www.curseforge.com/minecraft/mc-mods/altered-damage
 
 =========
+v3.4: (1.21.0 Neo) Updated mod to work with NeoForge version 21.0.31+.
+
+=========
 v3.3: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

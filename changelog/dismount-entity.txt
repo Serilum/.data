@@ -3,6 +3,10 @@ Dismount Entity
 https://www.curseforge.com/minecraft/mc-mods/dismount-entity
 
 =========
+v3.3: Fixed being able to dismount other players.
+Can be toggled back on via the 'beAbleToDismountOtherPlayers' config option.
+
+=========
 v3.2: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

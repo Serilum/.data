@@ -3,6 +3,9 @@ Starter Structure
 https://curseforge.com/minecraft/mc-mods/starter-structure
 
 =========
+v3.8: (1.21.0 Neo) Updated mod to work with NeoForge version 21.0.31+.
+
+=========
 v3.7: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
 
 =========

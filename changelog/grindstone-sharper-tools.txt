@@ -3,6 +3,9 @@ Grindstone Sharper Tools
 https://www.curseforge.com/minecraft/mc-mods/grindstone-sharper-tools
 
 =========
+v3.6: (1.21.0 Neo) Updated mod to work with NeoForge version 21.0.31+.
+
+=========
 v3.5: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
 
 =========

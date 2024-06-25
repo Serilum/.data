@@ -3,6 +3,9 @@ Beautified Chat Server
 https://curseforge.com/minecraft/mc-mods/beautified-chat-server
 
 =========
+v2.5: Fixed chat messages not being logged in the server.
+
+=========
 v2.4: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

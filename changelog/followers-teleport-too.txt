@@ -3,6 +3,9 @@ Followers Teleport Too
 https://curseforge.com/minecraft/mc-mods/followers-teleport-too
 
 =========
+v2.5: (1.21.0 Neo) Updated mod to work with NeoForge version 21.0.31+.
+
+=========
 v2.4: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

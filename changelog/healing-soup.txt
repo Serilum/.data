@@ -3,6 +3,9 @@ Healing Soup
 https://www.curseforge.com/minecraft/mc-mods/healing-soup
 
 =========
+v4.9: Added compatibility for mods that increase the player's max health.
+
+=========
 v4.8: Simplified registering items with Collective's helper functions.
 
 =========

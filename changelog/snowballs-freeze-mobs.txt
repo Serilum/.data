@@ -3,6 +3,9 @@ Snowballs Freeze Mobs
 https://www.curseforge.com/minecraft/mc-mods/snowballs-freeze-mobs
 
 =========
+v3.6: (1.21.0 Neo) Updated mod to work with NeoForge version 21.0.31+.
+
+=========
 v3.5: (1.20.6 Neo) Set the EntityTickEvent to correctly use its subclass.
 
 =========
