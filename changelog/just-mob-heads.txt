@@ -3,6 +3,16 @@ Just Mob Heads
 https://www.curseforge.com/minecraft/mc-mods/just-mob-heads
 
 =========
+v8.1: Mob heads are now compatible with note blocks!
+Just place them on top and they'll make the mob's sound.
+Thank you to @A11v1r15 on GitHub for the work.
+
+=========
+v8.0: Added autocomplete to the /jmh head command with head names.
+Fixed the Blaze head being white due to a helmet layer, thanks @James103!
+(1.20.6) Fixed 1.20.5+ mobs not dropping heads.
+
+=========
 v7.9: (1.20.6 Neo) Updated mod to work with NeoForge version 20.6.78+.
 
 =========

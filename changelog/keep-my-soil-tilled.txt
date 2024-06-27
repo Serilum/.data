@@ -3,6 +3,9 @@ Keep My Soil Tilled
 https://curseforge.com/minecraft/mc-mods/keep-my-soil-tilled
 
 =========
+v2.3: Fixed manually placed blocks below crops being turned into farmland even if they're not dirt.
+
+=========
 v2.2: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

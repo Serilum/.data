@@ -3,6 +3,17 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.67: Added support for note block sounds for player heads.
+
+=========
+v7.66: Added note block sound support for textured mob heads.
+(1.21.0 Neo) Fixed versionRange being set incorrectly.
+
+=========
+v7.65: Updated ToolFunctions to improve compatibility.
+(1.21.0 Neo) Updated Collective to work with NeoForge version 21.0.40+.
+
+=========
 v7.64: Fixed isNumber function returning a false positive.
 Added missing CreativeModTabFunctions.
 

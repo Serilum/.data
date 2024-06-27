@@ -3,6 +3,9 @@ Passive Endermen
 https://www.curseforge.com/minecraft/mc-mods/passive-endermen
 
 =========
+v4.7: (1.21.0) Fixed endermen being able to pick up blocks.
+
+=========
 v4.6: Moved mixin files to the Common source folder to make future development easier.
 
 =========

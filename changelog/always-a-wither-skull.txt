@@ -3,6 +3,9 @@ Always a Wither Skull
 https://www.curseforge.com/minecraft/mc-mods/always-a-wither-skull
 
 =========
+v3.3: Updated loot table file.
+
+=========
 v3.2: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.
