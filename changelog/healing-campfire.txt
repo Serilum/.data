@@ -3,6 +3,9 @@ Healing Campfire
 https://www.curseforge.com/minecraft/mc-mods/healing-campfire
 
 =========
+v6.0: The mod has been rewritten to drastically improve performance.
+
+=========
 v5.4: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
 
 =========

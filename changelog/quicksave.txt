@@ -1,0 +1,6 @@
+Changelog:
+Quicksave
+https://curseforge.com/minecraft/mc-mods/quicksave
+
+=========
+v1.0: Initial release of Quicksave.

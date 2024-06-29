@@ -487,6 +487,10 @@
 		"fabric" : -1,
 		"forge" : 689943
 	},
+	"Quicksave" : {
+		"fabric" : -1,
+		"forge" : 1053008
+	},
 	"Quick Paths" : {
 		"fabric" : 539614,
 		"forge" : 382877

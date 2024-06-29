@@ -3,4 +3,18 @@ Let's Parkour
 https://curseforge.com/minecraft/mc-mods/lets-parkour
 
 =========
+v1.4: Fixed a desync with the client and server when placing parkour slabs.
+
+=========
+v1.3: Bypass "moved too quickly" check entirely, for fast parkour slabs.
+
+=========
+v1.2: Fixes a desync issue between client and server while on parkour blocks.
+Thanks @hama and @Tropheus Jay!
+
+=========
+v1.1: Speed parkour slabs now only influence player movement when not jumping.
+Disabled the "moved too quickly" check in servers when on top of speed parkour slabs.
+
+=========
 v1.0: Initial release of Let's Parkour.

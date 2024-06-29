@@ -3,6 +3,9 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.68: Added improved BlockEntity caching, only active if a dependent mod enables it for a specific type.
+
+=========
 v7.67: Added support for note block sounds for player heads.
 
 =========
