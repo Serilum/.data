@@ -1,0 +1,6 @@
+Changelog:
+Quicksaving
+https://curseforge.com/minecraft/mc-mods/quicksaving
+
+=========
+v1.0: Initial release of Quicksaving.
