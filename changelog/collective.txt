@@ -3,6 +3,9 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.69-7.70: Updated and extended TeleportHelper functions.
+
+=========
 v7.68: Added improved BlockEntity caching, only active if a dependent mod enables it for a specific type.
 
 =========

@@ -3,6 +3,9 @@ Let's Parkour
 https://curseforge.com/minecraft/mc-mods/lets-parkour
 
 =========
+v1.5: Made trapdoor parkour slabs more stable to stand on before collapsing.
+
+=========
 v1.4: Fixed a desync with the client and server when placing parkour slabs.
 
 =========

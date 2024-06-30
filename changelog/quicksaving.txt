@@ -3,4 +3,7 @@ Quicksaving
 https://curseforge.com/minecraft/mc-mods/quicksaving
 
 =========
+v1.1: Added support for interdimensional quicksave and -loading.
+
+=========
 v1.0: Initial release of Quicksaving.
