@@ -3,6 +3,9 @@ Let's Parkour
 https://curseforge.com/minecraft/mc-mods/lets-parkour
 
 =========
+v1.6: Fixed a StackOverflowError during block height calculation.
+
+=========
 v1.5: Made trapdoor parkour slabs more stable to stand on before collapsing.
 
 =========
