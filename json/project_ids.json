@@ -187,6 +187,10 @@
 		"fabric" : 530658,
 		"forge" : 302422
 	},
+	"Easy Elevators" : {
+		"fabric" : -1,
+		"forge" : 1064344
+	},
 	"Easy Elytra Takeoff" : {
 		"fabric" : 530654,
 		"forge" : 347898

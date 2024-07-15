@@ -1,0 +1,6 @@
+Changelog:
+Easy Elevators
+https://curseforge.com/minecraft/mc-mods/easy-elevators
+
+=========
+v1.0: Initial release of Easy Elevators.

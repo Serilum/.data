@@ -3,6 +3,9 @@ Dismount Entity
 https://www.curseforge.com/minecraft/mc-mods/dismount-entity
 
 =========
+v3.4: Fixed incorrectly set Minecraft version.
+
+=========
 v3.3: Fixed being able to dismount other players.
 Can be toggled back on via the 'beAbleToDismountOtherPlayers' config option.
 

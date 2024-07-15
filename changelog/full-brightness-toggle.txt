@@ -3,6 +3,9 @@ Full Brightness Toggle
 https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle
 
 =========
+v4.1: Only set initial gamma on first main menu load.
+
+=========
 v4.0: The fullbright state is now persistent across game launches. Saved in: ./config/fullbrightnesstoggle/laststate.txt
 
 =========
