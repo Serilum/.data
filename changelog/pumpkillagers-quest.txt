@@ -3,6 +3,11 @@ Pumpkillager's Quest
 https://curseforge.com/minecraft/mc-mods/pumpkillagers-quest
 
 =========
+v4.3: Fixed the Pumpkillager not summoning correctly.
+Fixed the quest book formatting.
+Fixed player head being named incorrectly.
+
+=========
 v4.2: (1.21.0 Neo) Updated mod to work with NeoForge version 21.0.31+.
 
 =========
