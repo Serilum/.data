@@ -3,6 +3,9 @@ Recipe Commands
 https://curseforge.com/minecraft/mc-mods/recipe-commands
 
 =========
+v3.4: Improved error handling.
+
+=========
 v3.3: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
 
 =========

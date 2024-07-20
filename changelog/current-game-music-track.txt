@@ -3,6 +3,9 @@ Current Game Music Track
 https://curseforge.com/minecraft/mc-mods/current-game-music-track
 
 =========
+v2.0: Made the song track names that are displayed more specific.
+
+=========
 v1.7: (1.20.6) Fixed the mod not being ignored correctly when loaded in a server environment.
 
 =========

@@ -471,6 +471,10 @@
 		"fabric" : 539627,
 		"forge" : 344884
 	},
+	"Piglin Names" : {
+		"fabric" : -1,
+		"forge" : 1067331
+	},
 	"Placeable Blaze Rods" : {
 		"fabric" : 576756,
 		"forge" : 390121
