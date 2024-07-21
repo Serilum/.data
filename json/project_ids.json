@@ -615,6 +615,10 @@
 		"fabric" : -1,
 		"forge" : 746391
 	},
+	"Sticky Enchanting Lapis" : {
+		"fabric" : -1,
+		"forge" : 1068275
+	},
 	"Stray Spawn" : {
 		"fabric" : 527818,
 		"forge" : 348172

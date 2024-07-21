@@ -1,0 +1,6 @@
+Changelog:
+Sticky Enchanting Lapis
+https://curseforge.com/minecraft/mc-mods/sticky-enchanting-lapis
+
+=========
+v1.0: Initial release of Sticky Enchanting Lapis.
