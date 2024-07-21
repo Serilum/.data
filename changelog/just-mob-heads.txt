@@ -3,6 +3,9 @@ Just Mob Heads
 https://www.curseforge.com/minecraft/mc-mods/just-mob-heads
 
 =========
+v8.2: Fixed the Slime head being white due to a helmet layer, thanks @James103!
+
+=========
 v8.1: Mob heads are now compatible with note blocks!
 Just place them on top and they'll make the mob's sound.
 Thank you to @A11v1r15 on GitHub for the work.

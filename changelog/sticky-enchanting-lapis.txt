@@ -3,6 +3,9 @@ Sticky Enchanting Lapis
 https://curseforge.com/minecraft/mc-mods/sticky-enchanting-lapis
 
 =========
+v1.2: Fixed enchanting screens of different tables syncing incorrectly.
+
+=========
 v1.1: Updated mod icon.
 
 =========
