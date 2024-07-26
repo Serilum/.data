@@ -3,6 +3,9 @@ Serilum's Extra Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-extra-bundle
 
 =========
+v1.2: Fixed multiple bundles combined not loading correctly on NeoForge.
+
+=========
 v1.1: Bigger Sponge Absorption Radius: 3.5 -> 3.6
 
 =========

@@ -3,4 +3,7 @@ Serilum's Spawn Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-spawn-bundle
 
 =========
+v1.1: Fixed multiple bundles combined not loading correctly on NeoForge.
+
+=========
 v1.0: Initial release of Serilum's Spawn Bundle.

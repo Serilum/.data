@@ -3,4 +3,7 @@ Serilum's RPG Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-rpg-bundle
 
 =========
+v1.1: Fixed multiple bundles combined not loading correctly on NeoForge.
+
+=========
 v1.0: Initial release of Serilum's RPG Bundle.

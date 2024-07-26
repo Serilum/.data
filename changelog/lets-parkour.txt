@@ -3,6 +3,10 @@ Let's Parkour
 https://curseforge.com/minecraft/mc-mods/lets-parkour
 
 =========
+v1.7: Disabled fall damage on jump parkour slabs.
+Added MapColors to all parkour slabs.
+
+=========
 v1.6: Fixed a StackOverflowError during block height calculation.
 
 =========

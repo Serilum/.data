@@ -3,6 +3,12 @@ Serilum's Client Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-client-bundle
 
 =========
+v1.3: Hide Hands: v4.2 -> v4.3
+
+=========
+v1.2: Fixed multiple bundles combined not loading correctly on NeoForge.
+
+=========
 v1.1: Current Game Music Track: 2.0 -> 2.1
 
 =========
