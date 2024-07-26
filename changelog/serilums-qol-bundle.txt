@@ -3,4 +3,7 @@ Serilum's QoL Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-qol-bundle
 
 =========
+v1.1: Always a Wither Skull: 3.3 -> 3.4
+
+=========
 v1.0: Initial release of Serilum's QoL Bundle.
