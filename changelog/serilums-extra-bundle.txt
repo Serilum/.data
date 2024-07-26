@@ -1,0 +1,6 @@
+Changelog:
+Serilum's Extra Bundle
+https://curseforge.com/minecraft/mc-mods/serilums-extra-bundle
+
+=========
+v1.0: Initial release of Serilum's Extra Bundle.

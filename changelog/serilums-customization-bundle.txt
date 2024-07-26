@@ -1,0 +1,6 @@
+Changelog:
+Serilum's Customization Bundle
+https://curseforge.com/minecraft/mc-mods/serilums-customization-bundle
+
+=========
+v1.0: Initial release of Serilum's Customization Bundle.

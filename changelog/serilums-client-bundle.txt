@@ -1,0 +1,10 @@
+Changelog:
+Serilum's Client Bundle
+https://curseforge.com/minecraft/mc-mods/serilums-client-bundle
+
+=========
+v1.1: Mod Version Changes:
+ Current Game Music Track: 2.0 -> 2.1
+
+=========
+v1.0: Initial release of Serilum's Client Bundle.

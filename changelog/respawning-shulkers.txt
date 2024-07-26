@@ -3,6 +3,9 @@ Respawning Shulkers
 https://curseforge.com/minecraft/mc-mods/respawning-shulkers
 
 =========
+v3.9: Added compatibility with the Flower Mimics mod, so shulker mimics don't respawn.
+
+=========
 v3.8: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
 
 =========

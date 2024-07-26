@@ -3,6 +3,15 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.74: Removed the anti-repost check from Collective.
+
+=========
+v7.73: Fixed the config screens not showing correctly.
+
+=========
+v7.72: Improved the config loading sequence with multiple mods.
+
+=========
 v7.71: Fixed a NullPointerException in TeleportHelper.
 
 =========

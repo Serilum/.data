@@ -1,0 +1,361 @@
+{
+	"Advancement Screenshot" : "client",
+	
+	"All Loot Drops" : "extra",
+	
+	"Altered Damage" : "customization",
+	
+	"Alternative World Save Location" : "customization",
+	
+	"Always a Wither Skull" : "qol",
+	
+	"Anvil Restoration" : "rpg",
+	
+	"April Fools" : "extra",
+	
+	"Areas" : "rpg",
+	
+	"Automatic Doors" : "qol",
+	
+	"Automatic Operator" : "",
+	
+	"Bamboo Spreads" : "extra",
+	
+	"Bareback Horse Riding" : "rpg",
+	
+	"Beautified Chat Client" : "client",
+	
+	"Beautified Chat Server" : "",
+	
+	"Better Beacon Placement" : "qol",
+	
+	"Better Conduit Placement" : "qol",
+	
+	"Better Spawner Control" : "qol",
+	
+	"Bigger Sponge Absorption Radius" : "extra",
+	
+	"Biome Spawn Point" : "customization",
+	
+	"Bogged Spawn" : "spawn",
+	
+	"Bottle Your Xp" : "rpg",
+	
+	"Bottled Air" : "qol",
+	
+	"Bouncier Beds" : "extra",
+	
+	"Breedable Killer Rabbit" : "",
+	
+	"Breeze Spawn" : "spawn",
+	
+	"Campfire Spawn and Tweaks" : "rpg",
+	
+	"Cave Spider Spawn" : "spawn",
+	
+	"Collective" : "",
+	
+	"Compact Help Command" : "qol",
+	
+	"Conduits Prevent Drowned" : "qol",
+	
+	"Configurable Despawn Timer" : "customization",
+	
+	"Configurable Extra Mob Drops" : "customization",
+	
+	"Configurable Furnace Burn Time" : "customization",
+	
+	"Configurable Mob Potion Effects" : "customization",
+	
+	"Creative Block Replacer" : "",
+	
+	"Current Game Music Track" : "client",
+	
+	"Custom Credits" : "customization",
+	
+	"Crying Ghasts" : "extra",
+	
+	"Crying Portals" : "extra",
+	
+	"Cycle Paintings" : "qol",
+	
+	"Cycle Title Screen Splash" : "customization",
+	
+	"Death Backup" : "extra",
+	
+	"Despawning Eggs Hatch" : "rpg",
+	
+	"Difficulty Lock" : "customization",
+	
+	"Dismount Entity" : "qol",
+	
+	"Double Doors" : "rpg",
+	
+	"Dragon Drops Elytra" : "rpg",
+	
+	"Easy Elevators" : "extra",
+	
+	"Easy Elytra Takeoff" : "qol",
+	
+	"Edibles" : "extra",
+	
+	"Enchanting Commands" : "qol",
+	
+	"End Portal Recipe" : "rpg",
+	
+	"Entity Information" : "",
+	
+	"Eroding Stone Entities" : "rpg",
+	
+	"Extended Bone Meal" : "qol",
+	
+	"Extended Creative Inventory" : "",
+	
+	"Extract Poison" : "extra",
+	
+	"Fall Through Slime" : "extra",
+	
+	"Faster Crouching" : "extra",
+	
+	"Fire Spread Tweaks" : "",
+	
+	"First Join Message" : "customization",
+	
+	"Fish On The Line" : "rpg",
+	
+	"Fixed Anvil Repair Cost" : "extra",
+	
+	"Flower Mimics" : "rpg",
+	
+	"Followers Teleport Too" : "",
+	
+	"Full Brightness Toggle" : "client",
+	
+	"Furnace Recycle" : "qol",
+	
+	"Giant Spawn" : "spawn",
+	
+	"Global Narration Toggle" : "client",
+	
+	"Grabby Mobs" : "rpg",
+	
+	"Grass Seeds" : "extra",
+	
+	"Grindstone Sharper Tools" : "rpg",
+	
+	"GUI Clock" : "client",
+	
+	"GUI Compass" : "client",
+	
+	"GUI Followers" : "client",
+	
+	"Hand Over Your Items" : "extra",
+	
+	"Healing Campfire" : "rpg",
+	
+	"Healing Soup" : "",
+	
+	"Hidden Recipe Book" : "",
+	
+	"Hide Experimental Warning" : "customization",
+	
+	"Hide Hands" : "client",
+	
+	"Hoe Tweaks" : "qol",
+	
+	"Humbling Bundle" : "",
+	
+	"Husk Spawn" : "spawn",
+	
+	"Ice Prevents Crop Growth" : "rpg",
+	
+	"Improved Sign Editing" : "client",
+	
+	"Infinite Trading" : "extra",
+	
+	"Inventory Totem" : "qol",
+	
+	"Just Mob Heads" : "rpg",
+	
+	"Just Player Heads" : "rpg",
+	
+	"Keep My Soil Tilled" : "qol",
+	
+	"Kelp Fertilizer" : "qol",
+	
+	"Let's Parkour" : "",
+	
+	"Manure" : "",
+	
+	"Milk All The Mobs" : "extra",
+	
+	"Mineral Chance" : "rpg",
+	
+	"Mooshroom Spawn" : "spawn",
+	
+	"Mooshroom Tweaks" : "spawn",
+	
+	"More Zombie Villagers" : "spawn",
+	
+	"Move Boats" : "qol",
+	
+	"Move Minecarts" : "qol",
+	
+	"Name Tag Tweaks" : "extra",
+	
+	"Naturally Charged Creepers" : "rpg",
+	
+	"Nether Portal Spread" : "rpg",
+	
+	"No Animal Tempt Delay" : "qol",
+	
+	"No Feather Trample" : "qol",
+	
+	"No Hostiles Around Campfire" : "rpg",
+	
+	"Nutritious Milk" : "qol",
+	
+	"Omega Mute" : "client",
+	
+	"OP Permission Fallback" : "",
+	
+	"Ore Discovery Broadcast" : "",
+	
+	"Ore Harvester" : "qol",
+	
+	"Overworld Piglins" : "rpg",
+	
+	"Paper Books" : "extra",
+	
+	"Passive Endermen" : "extra",
+	
+	"Passive Shield" : "client",
+	
+	"Persistent Inventory Search" : "client",
+	
+	"Pet Names" : "rpg",
+	
+	"Piglin Names" : "rpg",
+	
+	"Placeable Blaze Rods" : "extra",
+	
+	"Player Death Kick" : "",
+	
+	"Player Tracking" : "",
+	
+	"Player Tracking Compass" : "",
+	
+	"Pumpkillager's Quest" : "rpg",
+	
+	"Quicksaving" : "",
+	
+	"Quick Paths" : "qol",
+	
+	"Quick Right-Click" : "qol",
+	
+	"Rain Be Gone Ritual" : "rpg",
+	
+	"Random Bone Meal Flowers" : "extra",
+	
+	"Random Mob Effects" : "",
+	
+	"Random Sheep Colours" : "extra",
+	
+	"Random Shulker Colours" : "extra",
+	
+	"Random Village Names" : "rpg",
+	
+	"Realistic Bees" : "rpg",
+	
+	"Recast" : "qol",
+	
+	"Recipe Commands" : "",
+	
+	"Replanting Crops" : "qol",
+	
+	"Respawn Delay" : "",
+	
+	"Respawning Shulkers" : "qol",
+	
+	"Save and Load Inventories" : "customization",
+	
+	"Scaffolding Drops Nearby" : "qol",
+	
+	"Set World Spawn Point" : "customization",
+	
+	"Shulker Drops Two" : "extra",
+	
+	"Silence Mobs" : "",
+	
+	"Simple Menu" : "customization",
+	
+	"Skeleton Horse Spawn" : "spawn",
+	
+	"Sleep Sooner" : "qol",
+	
+	"Smaller Nether Portals" : "rpg",
+	
+	"Snowballs Freeze Mobs" : "rpg",
+	
+	"Softer Hay Bales" : "qol",
+	
+	"Spiders Produce Webs" : "rpg",
+	
+	"Stack Refill" : "qol",
+	
+	"Starter Kit" : "customization",
+	
+	"Starter Structure" : "customization",
+	
+	"Sticky Enchanting Lapis" : "qol",
+	
+	"Stray Spawn" : "spawn",
+	
+	"Superflat World No Slimes" : "qol",
+	
+	"Surface Mushrooms" : "qol",
+	
+	"The Vanilla Experience" : "",
+	
+	"Thorny Bush Protection" : "qol",
+	
+	"TNT Breaks Bedrock" : "extra",
+	
+	"Trample Everything" : "",
+	
+	"Transcending Trident" : "extra",
+	
+	"Tree Harvester" : "qol",
+	
+	"Underwater Enchanting" : "qol",
+	
+	"Vanilla Zoom" : "client",
+	
+	"Village Bell Recipe" : "qol",
+	
+	"Village Spawn Point" : "rpg",
+	
+	"Villager Death Messages" : "extra",
+	
+	"Villager Names" : "rpg",
+	
+	"Vote Command" : "",
+	
+	"Weaker Spiderwebs" : "rpg",
+	
+	"Welcome Message" : "",
+	
+	"What Durability" : "",
+	
+	"Wool Tweaks" : "qol",
+	
+	"World Border" : "",
+	
+	"Your Items Are Safe" : "qol",
+	
+	"Zombie Horse Spawn" : "spawn",
+	
+	"Zombie Proof Doors" : "qol",
+	
+	"Zombie Villagers From Spawner" : "spawn"
+}

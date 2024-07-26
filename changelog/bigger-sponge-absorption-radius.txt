@@ -3,6 +3,9 @@ Bigger Sponge Absorption Radius
 https://www.curseforge.com/minecraft/mc-mods/bigger-sponge-absorption-radius
 
 =========
+v3.6: Improved compatibility with other mods, fixing a crash.
+
+=========
 v3.5: Moved mixin files to the Common source folder to make future development easier.
 
 =========

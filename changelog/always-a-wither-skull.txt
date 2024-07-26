@@ -3,6 +3,9 @@ Always a Wither Skull
 https://www.curseforge.com/minecraft/mc-mods/always-a-wither-skull
 
 =========
+v3.4: The mod has been rewritten to increase compatibility with other mods.
+
+=========
 v3.3: Updated loot table file.
 
 =========

@@ -1,0 +1,6 @@
+Changelog:
+Serilum's QoL Bundle
+https://curseforge.com/minecraft/mc-mods/serilums-qol-bundle
+
+=========
+v1.0: Initial release of Serilum's QoL Bundle.
