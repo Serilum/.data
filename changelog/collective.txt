@@ -3,6 +3,9 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.79: Simplified the should load check for mixins.
+
+=========
 v7.78: Updated ModLoaderHelper functions.
 Added a more generic check to see if a mod should be loaded, used in bundles.
 
