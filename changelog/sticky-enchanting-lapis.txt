@@ -3,6 +3,10 @@ Sticky Enchanting Lapis
 https://curseforge.com/minecraft/mc-mods/sticky-enchanting-lapis
 
 =========
+v1.3: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v1.2: Fixed enchanting screens of different tables syncing incorrectly.
 
 =========

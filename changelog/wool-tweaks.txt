@@ -3,6 +3,10 @@ Wool Tweaks
 https://curseforge.com/minecraft/mc-mods/wool-tweaks
 
 =========
+v3.7: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.6: (1.21.0) Fixed recipes not being applied correctly.
 
 =========

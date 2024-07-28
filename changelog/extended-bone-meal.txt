@@ -3,6 +3,10 @@ Extended Bone Meal
 https://www.curseforge.com/minecraft/mc-mods/extended-bone-meal
 
 =========
+v3.5: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.4: Fixed the main hand item being used with bone meal in the offhand.
 
 =========

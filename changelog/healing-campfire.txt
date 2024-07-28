@@ -3,6 +3,10 @@ Healing Campfire
 https://www.curseforge.com/minecraft/mc-mods/healing-campfire
 
 =========
+v6.1: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v6.0: The mod has been rewritten to drastically improve performance.
 
 =========

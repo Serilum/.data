@@ -3,6 +3,10 @@ Simple Menu
 https://curseforge.com/minecraft/mc-mods/simple-menu
 
 =========
+v1.4: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v1.3: Changed the default config value of 'hideMinecraftRealmsButton' from true to false.
 
 =========

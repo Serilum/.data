@@ -3,6 +3,10 @@ Superflat World No Slimes
 https://www.curseforge.com/minecraft/mc-mods/superflat-world-no-slimes
 
 =========
+v3.4: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.3: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
 
 =========

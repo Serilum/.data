@@ -3,6 +3,10 @@ Respawning Shulkers
 https://curseforge.com/minecraft/mc-mods/respawning-shulkers
 
 =========
+v4.0: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.9: Added compatibility with the Flower Mimics mod, so shulker mimics don't respawn.
 
 =========

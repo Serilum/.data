@@ -3,6 +3,10 @@ Milk All The Mobs
 https://www.curseforge.com/minecraft/mc-mods/milk-all-the-mobs
 
 =========
+v3.3: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.2: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

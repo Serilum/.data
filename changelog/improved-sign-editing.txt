@@ -3,6 +3,10 @@ Improved Sign Editing
 https://curseforge.com/minecraft/mc-mods/improved-sign-editing
 
 =========
+v1.4: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v1.3: Fixed the mod not working with hanging signs.
 Set the ClientTickEvent to correctly use its subclass.
 

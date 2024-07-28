@@ -3,6 +3,10 @@ Pumpkillager's Quest
 https://curseforge.com/minecraft/mc-mods/pumpkillagers-quest
 
 =========
+v4.4: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.3: Fixed the Pumpkillager not summoning correctly.
 Fixed the quest book formatting.
 Fixed player head being named incorrectly.

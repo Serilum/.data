@@ -3,6 +3,10 @@ Infinite Trading
 https://www.curseforge.com/minecraft/mc-mods/infinite-trading
 
 =========
+v4.5: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.4: Prevent trade reset code from running on the client, as it's server-side only.
 
 =========

@@ -3,6 +3,10 @@ GUI Compass
 https://www.curseforge.com/minecraft/mc-mods/gui-compass
 
 =========
+v4.8: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.7: (1.20.4 Neo) Fixed an incorrect mixin file reference.
 
 =========

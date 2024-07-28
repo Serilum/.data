@@ -3,6 +3,10 @@ Bigger Sponge Absorption Radius
 https://www.curseforge.com/minecraft/mc-mods/bigger-sponge-absorption-radius
 
 =========
+v3.7: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.6: Improved compatibility with other mods, fixing a crash.
 
 =========

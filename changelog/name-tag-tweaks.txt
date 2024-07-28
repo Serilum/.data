@@ -3,6 +3,10 @@ Name Tag Tweaks
 https://www.curseforge.com/minecraft/mc-mods/name-tag-tweaks
 
 =========
+v3.7-3.8: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.6: (1.21.0) Fixed recipe not being applied correctly.
 
 =========

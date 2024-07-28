@@ -3,6 +3,10 @@ Hide Hands
 https://www.curseforge.com/minecraft/mc-mods/hide-hands
 
 =========
+v4.4: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.3: Changed the default value of alwaysHideEmptyMainHand to false.
 
 =========

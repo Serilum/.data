@@ -3,6 +3,10 @@ Hand Over Your Items
 https://curseforge.com/minecraft/mc-mods/hand-over-your-items
 
 =========
+v3.5: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.4: (1.20.6 Neo) Updated mod to work with NeoForge version 20.6.78+.
 
 =========

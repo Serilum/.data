@@ -3,4 +3,8 @@ Piglin Names
 https://curseforge.com/minecraft/mc-mods/piglin-names
 
 =========
+v1.1: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v1.0: Initial release of Piglin Names.

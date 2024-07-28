@@ -3,6 +3,10 @@ Ore Harvester
 https://curseforge.com/minecraft/mc-mods/ore-harvester
 
 =========
+v1.4: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v1.3: Improved the spawn location of ore drops and stopping their velocity.
 
 =========

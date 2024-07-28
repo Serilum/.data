@@ -3,6 +3,10 @@ April Fools
 https://curseforge.com/minecraft/mc-mods/april-fools
 
 =========
+v1.5: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v1.4: (1.21.0) Updated CameraMixin to new float values.
 
 =========

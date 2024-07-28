@@ -3,6 +3,10 @@ GUI Clock
 https://www.curseforge.com/minecraft/mc-mods/gui-clock
 
 =========
+v4.6: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.5: (1.20.6) Fixed the mod not being ignored correctly when loaded in a server environment.
 
 =========

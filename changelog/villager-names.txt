@@ -3,6 +3,10 @@ Villager Names
 https://www.curseforge.com/minecraft/mc-mods/villager-names
 
 =========
+v8.1: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v8.0: Added commands to unname, name and rename loaded villagers.
 The custom name config now splits names on both ',' and new lines.
 

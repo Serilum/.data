@@ -3,6 +3,10 @@ Followers Teleport Too
 https://curseforge.com/minecraft/mc-mods/followers-teleport-too
 
 =========
+v2.6: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v2.5: (1.21.0 Neo) Updated mod to work with NeoForge version 21.0.31+.
 
 =========

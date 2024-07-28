@@ -3,6 +3,10 @@ Configurable Despawn Timer
 https://www.curseforge.com/minecraft/mc-mods/configurable-despawn-timer
 
 =========
+v4.2: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.1: Fixed ghost items being dropped on the floor when using /give and a despawn setting > 6000.
 Fixed wrong command documentation.
 

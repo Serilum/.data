@@ -3,6 +3,10 @@ Flower Mimics
 https://curseforge.com/minecraft/mc-mods/flower-mimics
 
 =========
+v2.0: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v1.9: Fixed "Unable to find itemstack from NBT" being output incorrectly in the console logs.
 
 =========

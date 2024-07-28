@@ -3,6 +3,10 @@ Just Mob Heads
 https://www.curseforge.com/minecraft/mc-mods/just-mob-heads
 
 =========
+v8.3: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v8.2: Fixed the Slime head being white due to a helmet layer, thanks @James103!
 
 =========

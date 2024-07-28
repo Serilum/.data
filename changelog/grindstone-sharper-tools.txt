@@ -3,6 +3,10 @@ Grindstone Sharper Tools
 https://www.curseforge.com/minecraft/mc-mods/grindstone-sharper-tools
 
 =========
+v3.7: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.6: (1.21.0 Neo) Updated mod to work with NeoForge version 21.0.31+.
 
 =========

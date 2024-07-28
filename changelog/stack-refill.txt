@@ -3,6 +3,10 @@ Stack Refill
 https://curseforge.com/minecraft/mc-mods/stack-refill
 
 =========
+v4.5: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.4: Improved exception handling.
 
 =========

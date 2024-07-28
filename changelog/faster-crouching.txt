@@ -3,6 +3,10 @@ Faster Crouching
 https://curseforge.com/minecraft/mc-mods/faster-crouching
 
 =========
+v2.6: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v2.5: Moved mixin files to the Common source folder to make future development easier.
 
 =========

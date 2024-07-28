@@ -3,6 +3,10 @@ Sleep Sooner
 https://www.curseforge.com/minecraft/mc-mods/sleep-sooner
 
 =========
+v4.6: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.5: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
 
 =========

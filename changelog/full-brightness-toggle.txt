@@ -3,6 +3,10 @@ Full Brightness Toggle
 https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle
 
 =========
+v4.2: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.1: Only set initial gamma on first main menu load.
 
 =========

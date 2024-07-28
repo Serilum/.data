@@ -3,6 +3,9 @@ Serilum's Spawn Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-spawn-bundle
 
 =========
+v2.0: Bundle version 2.0! Added config options to enable/disable included mods, directly from the bundle!
+
+=========
 v1.1: Fixed multiple bundles combined not loading correctly on NeoForge.
 
 =========

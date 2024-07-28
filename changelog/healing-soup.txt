@@ -3,6 +3,10 @@ Healing Soup
 https://www.curseforge.com/minecraft/mc-mods/healing-soup
 
 =========
+v5.0: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.9: Added compatibility for mods that increase the player's max health.
 
 =========

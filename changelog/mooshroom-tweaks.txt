@@ -3,6 +3,10 @@ Mooshroom Tweaks
 https://www.curseforge.com/minecraft/mc-mods/mooshroom-tweaks
 
 =========
+v3.5: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.4: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

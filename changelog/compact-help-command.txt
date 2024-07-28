@@ -3,6 +3,10 @@ Compact Help Command
 https://curseforge.com/minecraft/mc-mods/compact-help-command
 
 =========
+v2.7: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v2.6: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
 
 =========

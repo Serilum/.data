@@ -3,6 +3,10 @@ Placeable Blaze Rods
 https://www.curseforge.com/minecraft/mc-mods/placeable-blaze-rods
 
 =========
+v3.6: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.5: Simplified registering blocks with Collective's helper functions.
 
 =========

@@ -3,6 +3,10 @@ Automatic Doors
 https://www.curseforge.com/minecraft/mc-mods/automatic-doors
 
 =========
+v4.8: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.7: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
 
 =========

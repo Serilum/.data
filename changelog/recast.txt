@@ -3,6 +3,10 @@ Recast
 https://curseforge.com/minecraft/mc-mods/recast
 
 =========
+v3.5: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.4: Set the PlayerTickEvent to correctly use its subclass.
 
 =========

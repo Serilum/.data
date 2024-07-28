@@ -3,6 +3,10 @@ Passive Endermen
 https://www.curseforge.com/minecraft/mc-mods/passive-endermen
 
 =========
+v4.8: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.7: (1.21.0) Fixed endermen being able to pick up blocks.
 
 =========

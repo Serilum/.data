@@ -3,6 +3,10 @@ Just Player Heads
 https://www.curseforge.com/minecraft/mc-mods/just-player-heads
 
 =========
+v4.1: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.0: Updated Just Player Heads to use the improved Collective code.
 Placed and picked up heads will now keep the player name.
 The efficiency and caching has been improved.

@@ -3,6 +3,10 @@ Cycle Title Screen Splash
 https://curseforge.com/minecraft/mc-mods/cycle-title-screen-splash
 
 =========
+v1.3: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v1.2: Moved mixin files to the Common source folder to make future development easier.
 
 =========

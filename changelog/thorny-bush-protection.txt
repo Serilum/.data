@@ -3,6 +3,10 @@ Thorny Bush Protection
 https://curseforge.com/minecraft/mc-mods/thorny-bush-protection
 
 =========
+v1.4: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v1.3: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
 
 =========

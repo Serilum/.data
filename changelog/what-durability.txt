@@ -1,13 +1,13 @@
 Changelog:
-Quicksaving
-https://curseforge.com/minecraft/mc-mods/quicksaving
+What Durability
+https://www.curseforge.com/minecraft/mc-mods/what-durability
 
 =========
 v1.2: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 
 =========
-v1.1: Added support for interdimensional quicksave and -loading.
+v1.1: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
 
 =========
-v1.0: Initial release of Quicksaving.
+v1.0: Initial release of What Durability.

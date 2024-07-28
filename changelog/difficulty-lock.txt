@@ -3,6 +3,10 @@ Difficulty Lock
 https://www.curseforge.com/minecraft/mc-mods/difficulty-lock
 
 =========
+v4.6: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.5: (1.20.4 Neo) Fixed an incorrect mixin file reference.
 
 =========

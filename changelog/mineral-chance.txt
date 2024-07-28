@@ -3,6 +3,10 @@ Mineral Chance
 https://curseforge.com/minecraft/mc-mods/mineral-chance
 
 =========
+v3.7: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.6: Fixed a crash while using a modded quarry when the Mineral Chance attempted to send a message.
 
 =========

@@ -3,6 +3,10 @@ Zombie Villagers From Spawner
 https://www.curseforge.com/minecraft/mc-mods/zombie-villagers-from-spawner
 
 =========
+v3.9: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.8: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
 
 =========

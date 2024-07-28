@@ -3,6 +3,13 @@ Vanilla Zoom
 https://curseforge.com/minecraft/mc-mods/vanilla-zoom
 
 =========
+v2.7: Added extra null check for the zoom hotkey.
+
+=========
+v2.6: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v2.5: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
 
 =========

@@ -3,6 +3,10 @@ Village Spawn Point
 https://www.curseforge.com/minecraft/mc-mods/village-spawn-point
 
 =========
+v4.4: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v4.3: (1.20.5) Fixed the pack.mcmeta file having an incorrect structure.
 
 =========

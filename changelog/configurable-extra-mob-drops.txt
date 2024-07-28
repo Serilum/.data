@@ -3,6 +3,10 @@ Configurable Extra Mob Drops
 https://curseforge.com/minecraft/mc-mods/configurable-extra-mob-drops
 
 =========
+v3.4: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.3: Updated the mod to use the Collective's improved MessageFunctions instead of StringFunctions.
 
 =========

@@ -3,6 +3,10 @@ Skeleton Horse Spawn
 https://www.curseforge.com/minecraft/mc-mods/skeleton-horse-spawn
 
 =========
+v4.0: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
+(NeoForge) Fixed the in-game config screen not working correctly.
+
+=========
 v3.9: (1.20.5 Neo) Updated to work with NeoForge's TickEvent changes in 20.5.14.
 
 =========
