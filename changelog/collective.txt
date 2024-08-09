@@ -3,6 +3,14 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.81: Fixed a wrong version dependency set in NeoForge.
+Uploaded a new file to help invalidate caches.
+
+=========
+v7.80: Reverted the changes made in Collective version 7.79.
+This fixes a compatibility issue during load.
+
+=========
 v7.79: Simplified the should load check for mixins.
 
 =========
