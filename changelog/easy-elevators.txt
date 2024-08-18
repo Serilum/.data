@@ -3,6 +3,9 @@ Easy Elevators
 https://curseforge.com/minecraft/mc-mods/easy-elevators
 
 =========
+v1.2: (Fabric) Fixed a mixin conflict during load.
+
+=========
 v1.1: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

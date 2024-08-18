@@ -3,6 +3,14 @@ Tree Harvester
 https://www.curseforge.com/minecraft/mc-mods/tree-harvester
 
 =========
+v9.1: Improved mod performance.
+Improved mod compatibility.
+Fixed a server freeze/crash with huge trees.
+Fixed Azalea saplings/bushes not being replanted.
+Fixed tree harvesting speed being able to be cheated via uncrouching during the harvest.
+Fixed the automaticallyFindBottomBlock not working correctly.
+
+=========
 v9.0: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

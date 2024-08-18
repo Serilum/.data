@@ -3,6 +3,9 @@ Simple Menu
 https://curseforge.com/minecraft/mc-mods/simple-menu
 
 =========
+v1.5: (Forge) Fixed the mod not loading correctly due to a mixin conflict.
+
+=========
 v1.4: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

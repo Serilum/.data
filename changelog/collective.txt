@@ -3,6 +3,12 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.84: Added better error handling when generating item drop lists for dependent mods.
+
+=========
+v7.82-7.83: Updated ScreenFunctions to add a widget to an existing screen.
+
+=========
 v7.81: Fixed a wrong version dependency set in NeoForge.
 Uploaded a new file to help invalidate caches.
 
