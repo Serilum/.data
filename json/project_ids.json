@@ -163,6 +163,10 @@
 		"fabric" : -1,
 		"forge" : 950586
 	},
+	"Daily Quests" : {
+		"fabric" : -1,
+		"forge" : 1109595
+	},
 	"Death Backup" : {
 		"fabric" : 531270,
 		"forge" : 411571

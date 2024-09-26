@@ -1,0 +1,18 @@
+Changelog:
+Daily Quests
+https://curseforge.com/minecraft/mc-mods/daily-quests
+
+=========
+v1.3: Lowered the default quest generation time to daytime=20 ticks.
+Fixed SlayMob not progressing correctly.
+Made some tweaks to quest targets.
+
+=========
+v1.2: Added the /dq debug <player> setquest command.
+
+=========
+v1.1: Added the /dq info command.
+Updated the mod icon.
+
+=========
+v1.0: Initial release of Daily Quests!
