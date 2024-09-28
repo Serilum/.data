@@ -3,6 +3,10 @@ Daily Quests
 https://curseforge.com/minecraft/mc-mods/daily-quests
 
 =========
+v1.7: Added the 'disableGUIQuestListEntirely' config option.
+Added the /dq quests command.
+
+=========
 v1.6: Added a daily quests introduction screen for the first in-game day.
 This screen is located inside the quest list, and contains information.
 The function can be disabled entirely or the content changed via the config.
