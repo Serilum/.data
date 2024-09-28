@@ -3,6 +3,20 @@ Daily Quests
 https://curseforge.com/minecraft/mc-mods/daily-quests
 
 =========
+v1.6: Added a daily quests introduction screen for the first in-game day.
+This screen is located inside the quest list, and contains information.
+The function can be disabled entirely or the content changed via the config.
+
+=========
+v1.5: Fixed quests not immediately generating in a new world.
+Fixed the UseItem Shield quest not progressing.
+Fixed some potion quests not progressing correctly.
+
+=========
+v1.4: Added support for automatic lowering of the quest list with the BedrockIfy save icon.
+Can be disabled in the config.
+
+=========
 v1.3: Lowered the default quest generation time to daytime=20 ticks.
 Fixed SlayMob not progressing correctly.
 Made some tweaks to quest targets.
