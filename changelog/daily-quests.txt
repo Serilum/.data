@@ -3,6 +3,9 @@ Daily Quests
 https://curseforge.com/minecraft/mc-mods/daily-quests
 
 =========
+v1.8: Fixed a crash when loading a specific world on Forge.
+
+=========
 v1.7: Added the 'disableGUIQuestListEntirely' config option.
 Added the /dq quests command.
 
