@@ -3,6 +3,9 @@ Let's Parkour
 https://curseforge.com/minecraft/mc-mods/lets-parkour
 
 =========
+v1.9: (1.21.2) Fixed the blocks/items not registering correctly.
+
+=========
 v1.8: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

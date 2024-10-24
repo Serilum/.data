@@ -3,6 +3,21 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.89: (1.21.2) Updated Collective to work with the new block/item registry key process.
+
+=========
+v7.88: (1.21.2 only) Fixed affected explosion blocks not being cleared correctly.
+
+=========
+v7.87: Further extended ExplosionFunctions, to aid in updating dependent mods.
+
+=========
+v7.86: (1.21.2 only) Fixed Collective tasks running more than once.
+
+=========
+v7.85: Added ExplosionFunctions.
+
+=========
 v7.84: Added better error handling when generating item drop lists for dependent mods.
 
 =========

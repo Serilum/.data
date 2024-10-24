@@ -3,6 +3,9 @@ Healing Soup
 https://www.curseforge.com/minecraft/mc-mods/healing-soup
 
 =========
+v5.1: (1.21.2) Fixed the blocks/items not registering correctly.
+
+=========
 v5.0: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 
