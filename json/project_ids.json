@@ -571,6 +571,10 @@
 		"fabric" : 528270,
 		"forge" : 366916
 	},
+	"Shadow Mounts" : {
+		"fabric" : -1,
+		"forge" : 1131807
+	},
 	"Shulker Drops Two" : {
 		"fabric" : 575694,
 		"forge" : 302548

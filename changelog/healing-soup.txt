@@ -3,6 +3,9 @@ Healing Soup
 https://www.curseforge.com/minecraft/mc-mods/healing-soup
 
 =========
+v5.2: (1.21.2) Fixed recipes not being parsed correctly.
+
+=========
 v5.1: (1.21.2) Fixed the blocks/items not registering correctly.
 
 =========

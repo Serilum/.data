@@ -1,0 +1,6 @@
+Changelog:
+Shadow Mounts
+https://curseforge.com/minecraft/mc-mods/shadow-mounts
+
+=========
+v1.0: Initial release of Shadow Mounts.

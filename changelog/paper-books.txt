@@ -3,6 +3,9 @@ Paper Books
 https://www.curseforge.com/minecraft/mc-mods/paper-books
 
 =========
+v3.6: (1.21.2) Fixed recipes not being parsed correctly.
+
+=========
 v3.5: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 
