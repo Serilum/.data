@@ -3,6 +3,9 @@ Shadow Mounts
 https://curseforge.com/minecraft/mc-mods/shadow-mounts
 
 =========
+v1.2: (1.21.4) Fixed missing item textures.
+
+=========
 v1.1: Updated mod description.
 Added support for 1.20.1 and 1.21.3.
 

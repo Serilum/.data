@@ -3,6 +3,9 @@ Manure
 https://curseforge.com/minecraft/mc-mods/manure
 
 =========
+v3.8: (1.21.4) Fixed missing item textures.
+
+=========
 v3.7: (1.21.2) Fixed the blocks/items not registering correctly.
 
 =========
