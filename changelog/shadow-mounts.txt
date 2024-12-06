@@ -3,4 +3,8 @@ Shadow Mounts
 https://curseforge.com/minecraft/mc-mods/shadow-mounts
 
 =========
+v1.1: Updated mod description.
+Added support for 1.20.1 and 1.21.3.
+
+=========
 v1.0: Initial release of Shadow Mounts.
