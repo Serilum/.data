@@ -3,6 +3,10 @@ Manure
 https://curseforge.com/minecraft/mc-mods/manure
 
 =========
+v3.9: (Forge & Neo) Removed redundant event register annotations.
+- This fixes events loading when they shouldn't.
+
+=========
 v3.8: (1.21.4) Fixed missing item textures.
 
 =========

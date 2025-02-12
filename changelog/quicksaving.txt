@@ -3,6 +3,13 @@ Quicksaving
 https://curseforge.com/minecraft/mc-mods/quicksaving
 
 =========
+v1.4: Fixed the hotkey trigger not working correctly.
+
+=========
+v1.3: (Forge & Neo) Removed redundant event register annotations.
+- This fixes events loading when they shouldn't.
+
+=========
 v1.2: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

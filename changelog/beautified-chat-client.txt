@@ -3,6 +3,10 @@ Beautified Chat Client
 https://curseforge.com/minecraft/mc-mods/beautified-chat-client
 
 =========
+v2.7: (Forge & Neo) Removed redundant event register annotations.
+- This fixes events loading when they shouldn't.
+
+=========
 v2.6: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

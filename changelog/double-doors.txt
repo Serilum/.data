@@ -3,6 +3,10 @@ Double Doors
 https://www.curseforge.com/minecraft/mc-mods/double-doors
 
 =========
+v6.1: (Forge & Neo) Removed redundant event register annotations.
+- This fixes events loading when they shouldn't.
+
+=========
 v6.0: (1.21.3) Fixed the mixins not targeting correctly.
 
 =========

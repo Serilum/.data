@@ -3,6 +3,12 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.91: Fixed a bug in the global bundle config enable check function.
+
+=========
+v7.90: Update code related to bundle enable checks to fix some not loading correctly.
+
+=========
 v7.89: (1.21.2) Updated Collective to work with the new block/item registry key process.
 
 =========

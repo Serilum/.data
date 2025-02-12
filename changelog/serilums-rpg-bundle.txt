@@ -3,6 +3,44 @@ Serilum's RPG Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-rpg-bundle
 
 =========
+v2.1: Anvil Restoration: v2.3 -> v2.4
+Areas: v6.0 -> v6.1
+Bareback Horse Riding: v2.2 -> v2.3
+Bottle Your Xp: v3.4 -> v3.5
+Campfire Spawn and Tweaks: v3.9 -> v4.0
+Despawning Eggs Hatch: v4.4 -> v4.5
+Double Doors: v6.0 -> v6.1
+Dragon Drops Elytra: v3.4 -> v3.5
+End Portal Recipe: v5.6 -> v5.7
+Eroding Stone Entities: v4.6 -> v4.7
+Fish On The Line: v3.4 -> v3.5
+Flower Mimics: v2.0 -> v2.1
+Grindstone Sharper Tools: v3.7 -> v3.8
+Healing Campfire: v6.1 -> v6.2
+Ice Prevents Crop Growth: v3.4 -> v3.5
+Just Mob Heads: v8.4 -> v8.5
+Just Player Heads: v4.1 -> v4.2
+Mineral Chance: v3.7 -> v3.8
+Naturally Charged Creepers: v3.5 -> v3.6
+Nether Portal Spread: v8.3 -> v8.4
+No Hostiles Around Campfire: v7.1 -> v7.2
+Pet Names: v3.4 -> v3.5
+Piglin Names: v1.1 -> v1.2
+Pumpkillager's Quest: v4.4 -> v4.5
+Rain Be Gone Ritual: v3.4 -> v3.5
+Random Village Names: v3.7 -> v3.8
+Realistic Bees: v4.0 -> v4.1
+Smaller Nether Portals: v3.8 -> v3.9
+Snowballs Freeze Mobs: v3.7 -> v3.8
+Spiders Produce Webs: v3.5 -> v3.6
+Villager Names: v8.1 -> v8.2
+Village Spawn Point: v4.4 -> v4.5
+Weaker Spiderwebs: v3.7 -> v3.8
+
+=========
+v2.0: Updated bundle to Minecraft version 1.21.4.
+
+=========
 v2.0: Updated bundle to Minecraft version 1.21.1.
 
 =========

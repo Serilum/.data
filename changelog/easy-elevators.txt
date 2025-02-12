@@ -3,6 +3,10 @@ Easy Elevators
 https://curseforge.com/minecraft/mc-mods/easy-elevators
 
 =========
+v1.3: (Forge & Neo) Removed redundant event register annotations.
+- This fixes events loading when they shouldn't.
+
+=========
 v1.2: (Fabric) Fixed a mixin conflict during load.
 
 =========

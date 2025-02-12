@@ -3,6 +3,46 @@ Serilum's QoL Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-qol-bundle
 
 =========
+v2.1: Automatic Doors: v4.8 -> v4.9
+Better Beacon Placement: v3.4 -> v3.5
+Better Conduit Placement: v3.3 -> v3.4
+Better Spawner Control: v4.6 -> v4.7
+Bottled Air: v2.4 -> v2.5
+Compact Help Command: v2.7 -> v2.8
+Conduits Prevent Drowned: v3.8 -> v3.9
+Cycle Paintings: v3.6 -> v3.7
+Dismount Entity: v3.5 -> v3.6
+Easy Elytra Takeoff: v4.4 -> v4.5
+Enchanting Commands: v3.4 -> v3.5
+Extended Bone Meal: v3.5 -> v3.6
+Hoe Tweaks: v3.5 -> v3.6
+Inventory Totem: v3.3 -> v3.4
+Keep My Soil Tilled: v2.4 -> v2.5
+Kelp Fertilizer: v3.3 -> v3.4
+Move Boats: v3.4 -> v3.5
+Move Minecarts: v3.6 -> v3.7
+Nutritious Milk: v3.4 -> v3.5
+Ore Harvester: v1.4 -> v1.5
+Quick Paths: v3.5 -> v3.6
+Quick Right-Click: v1.5 -> v1.6
+Recast: v3.5 -> v3.6
+Replanting Crops: v5.4 -> v5.5
+Respawning Shulkers: v4.0 -> v4.1
+Scaffolding Drops Nearby: v3.3 -> v3.4
+Sleep Sooner: v4.6 -> v4.7
+Softer Hay Bales: v3.3 -> v3.4
+Stack Refill: v4.5 -> v4.6
+Superflat World No Slimes: v3.4 -> v3.5
+Surface Mushrooms: v3.5 -> v3.6
+Tree Harvester: v9.0 -> v9.1
+Wool Tweaks: v3.8 -> v3.9
+Your Items Are Safe: v4.5 -> v4.7
+Zombie Proof Doors: v3.4 -> v3.5
+
+=========
+v2.0: Updated bundle to Minecraft version 1.21.4.
+
+=========
 v2.1: Tree Harvester: v9.0 -> v9.1
 
 =========

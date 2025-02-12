@@ -3,6 +3,10 @@ Daily Quests
 https://curseforge.com/minecraft/mc-mods/daily-quests
 
 =========
+v1.9: (Forge & Neo) Removed redundant event register annotations.
+- This fixes events loading when they shouldn't.
+
+=========
 v1.8: Fixed a crash when loading a specific world on Forge.
 
 =========

@@ -3,6 +3,10 @@ End Portal Recipe
 https://www.curseforge.com/minecraft/mc-mods/end-portal-recipe
 
 =========
+v5.7: (Forge & Neo) Removed redundant event register annotations.
+- This fixes events loading when they shouldn't.
+
+=========
 v5.6: (1.21.2) Fixed recipes not being parsed correctly.
 
 =========

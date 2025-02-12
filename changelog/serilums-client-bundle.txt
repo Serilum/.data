@@ -3,6 +3,21 @@ Serilum's Client Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-client-bundle
 
 =========
+v2.1: Advancement Screenshot: v4.9 -> v5.0
+Beautified Chat Client: v2.6 -> v2.7
+Current Game Music Track: v2.2 -> v2.3
+Full Brightness Toggle: v4.2 -> v4.3
+GUI Followers: v3.8 -> v3.9
+Hide Hands: v4.4 -> v4.5
+Improved Sign Editing: v1.4 -> v1.5
+Omega Mute: v4.2 -> v4.3
+Passive Shield: v3.6 -> v3.7
+Vanilla Zoom: v2.7 -> v2.8
+
+=========
+v2.0: Updated bundle to Minecraft version 1.21.4.
+
+=========
 v2.0: Updated bundle to Minecraft version 1.21.1.
 
 =========

@@ -3,6 +3,10 @@ Healing Soup
 https://www.curseforge.com/minecraft/mc-mods/healing-soup
 
 =========
+v5.4: (Forge & Neo) Removed redundant event register annotations.
+- This fixes events loading when they shouldn't.
+
+=========
 v5.3: (1.21.4) Fixed missing item textures.
 
 =========

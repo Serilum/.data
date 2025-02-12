@@ -3,6 +3,10 @@ Name Tag Tweaks
 https://www.curseforge.com/minecraft/mc-mods/name-tag-tweaks
 
 =========
+v4.0: (Forge & Neo) Removed redundant event register annotations.
+- This fixes events loading when they shouldn't.
+
+=========
 v3.9: (1.21.2) Fixed recipes not being parsed correctly.
 
 =========

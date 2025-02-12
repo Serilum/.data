@@ -3,7 +3,13 @@ Serilum's Spawn Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-spawn-bundle
 
 =========
-v2.0: Updated bundle to Minecraft version 1.21.1.
+v2.1: Giant Spawn: v5.2 -> v5.3
+Mooshroom Tweaks: v3.5 -> v3.6
+Skeleton Horse Spawn: v4.0 -> v4.1
+Zombie Horse Spawn: v5.1 -> v5.2
+
+=========
+v2.0: Updated bundle to Minecraft version 1.21.4.
 
 =========
 v2.0: Bundle version 2.0! Added config options to enable/disable included mods, directly from the bundle!

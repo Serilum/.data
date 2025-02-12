@@ -3,6 +3,10 @@ Areas
 https://www.curseforge.com/minecraft/mc-mods/areas
 
 =========
+v6.1: (Forge & Neo) Removed redundant event register annotations.
+- This fixes events loading when they shouldn't.
+
+=========
 v6.0: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

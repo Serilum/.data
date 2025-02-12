@@ -3,6 +3,10 @@ Your Items Are Safe
 https://curseforge.com/minecraft/mc-mods/your-items-are-safe
 
 =========
+v4.6-4.7: (Forge & Neo) Removed redundant event register annotations.
+Fixes events loading when they shouldn't.
+
+=========
 v4.5: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

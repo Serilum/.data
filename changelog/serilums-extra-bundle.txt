@@ -3,6 +3,31 @@ Serilum's Extra Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-extra-bundle
 
 =========
+v2.2: All Loot Drops: v3.4 -> v3.5
+April Fools: v1.5 -> v1.6
+Bouncier Beds: v2.4 -> v2.5
+Crying Ghasts: v3.5 -> v3.6
+Death Backup: v3.4 -> v3.5
+Easy Elevators: v1.2 -> v1.3
+Edibles: v4.4 -> v4.5
+Extract Poison: v3.4 -> v3.5
+Fall Through Slime: v3.4 -> v3.5
+Fixed Anvil Repair Cost: v3.4 -> v3.5
+Grass Seeds: v3.3 -> v3.4
+Hand Over Your Items: v3.5 -> v3.6
+Infinite Trading: v4.5 -> v4.6
+Milk All The Mobs: v3.3 -> v3.4
+Name Tag Tweaks: v3.9 -> v4.0
+Placeable Blaze Rods: v3.8 -> v3.9
+Random Bone Meal Flowers: v4.6 -> v4.7
+Random Sheep Colours: v3.4 -> v3.5
+Random Shulker Colours: v3.3 -> v3.4
+Shulker Drops Two: v3.4 -> v3.5
+TNT Breaks Bedrock: v3.4 -> v3.5
+Transcending Trident: v4.8 -> v4.9
+Villager Death Messages: v3.5 -> v3.6
+
+=========
 v2.1: Easy Elevators: v1.1 -> v1.2
 
 =========

@@ -3,6 +3,21 @@ Serilum's Customization Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-customization-bundle
 
 =========
+v2.2: Altered Damage: v3.5 -> v3.6
+Biome Spawn Point: v2.3 -> v2.4
+Configurable Despawn Timer: v4.2 -> v4.3
+Configurable Extra Mob Drops: v3.4 -> v3.5
+Configurable Furnace Burn Time: v2.4 -> v2.5
+Configurable Mob Potion Effects: v3.5 -> v3.6
+Custom Credits: v1.6 -> v1.7
+Difficulty Lock: v4.6 -> v4.7
+First Join Message: v3.6 -> v3.7
+Save and Load Inventories: v3.4 -> v3.5
+Set World Spawn Point: v3.4 -> v3.5
+Starter Kit: v7.1 -> v7.2
+Starter Structure: v3.9 -> v4.0
+
+=========
 v2.1: Simple Menu: v1.4 -> v1.5
 
 =========
