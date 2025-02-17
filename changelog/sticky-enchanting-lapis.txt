@@ -3,6 +3,9 @@ Sticky Enchanting Lapis
 https://curseforge.com/minecraft/mc-mods/sticky-enchanting-lapis
 
 =========
+v1.4: Fixed players disconnecting in multiplayer.
+
+=========
 v1.3: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

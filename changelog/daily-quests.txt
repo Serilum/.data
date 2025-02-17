@@ -3,6 +3,9 @@ Daily Quests
 https://curseforge.com/minecraft/mc-mods/daily-quests
 
 =========
+v2.0: Changed packet fields to be non-static to prevent bugs in queued packets.
+
+=========
 v1.9: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

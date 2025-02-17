@@ -1,0 +1,6 @@
+Changelog:
+Inventory Mending
+https://curseforge.com/minecraft/mc-mods/inventory-mending
+
+=========
+v1.0: Initial release of Inventory Mending.

@@ -351,6 +351,10 @@
 		"fabric" : 529960,
 		"forge" : 348964
 	},
+	"Inventory Mending" : {
+		"fabric" : -1,
+		"forge" : 1202499
+	},
 	"Inventory Totem" : {
 		"fabric" : 529954,
 		"forge" : 349071

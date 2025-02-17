@@ -3,6 +3,9 @@ Quicksaving
 https://curseforge.com/minecraft/mc-mods/quicksaving
 
 =========
+v1.5: Changed packet fields to be non-static to prevent bugs in queued packets.
+
+=========
 v1.4: Fixed the hotkey trigger not working correctly.
 
 =========

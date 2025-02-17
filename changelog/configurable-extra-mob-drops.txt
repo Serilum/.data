@@ -3,6 +3,9 @@ Configurable Extra Mob Drops
 https://curseforge.com/minecraft/mc-mods/configurable-extra-mob-drops
 
 =========
+v3.6: (1.21) Fixed drop chance not being parsed correctly.
+
+=========
 v3.5: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

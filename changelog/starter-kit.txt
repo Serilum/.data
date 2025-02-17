@@ -3,6 +3,9 @@ Starter Kit
 https://www.curseforge.com/minecraft/mc-mods/starter-kit
 
 =========
+v7.3: Changed packet fields to be non-static to prevent bugs in queued packets.
+
+=========
 v7.2: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 
