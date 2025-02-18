@@ -571,6 +571,10 @@
 		"fabric" : 528272,
 		"forge" : 412742
 	},
+	"Screenshot Compression" : {
+		"fabric" : -1,
+		"forge" : 1203163
+	},
 	"Set World Spawn Point" : {
 		"fabric" : 528270,
 		"forge" : 366916

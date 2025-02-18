@@ -1,0 +1,6 @@
+Changelog:
+Screenshot Compression
+https://curseforge.com/minecraft/mc-mods/screenshot-compression
+
+=========
+v1.0: Initial release of Screenshot Compression.
