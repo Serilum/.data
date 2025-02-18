@@ -419,6 +419,10 @@
 		"fabric" : 539820,
 		"forge" : 391972
 	},
+	"Natural Charcoal" : {
+		"fabric" : -1,
+		"forge" : 1203418
+	},
 	"Naturally Charged Creepers" : {
 		"fabric" : 529919,
 		"forge" : 324586
