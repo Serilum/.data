@@ -3,4 +3,7 @@ Chorus Fruit Drops Nearby
 https://curseforge.com/minecraft/mc-mods/chorus-fruit-drops-nearby
 
 =========
+v1.1: Fixed incorrect version reference.
+
+=========
 v1.0: Initial release of Chorus Fruit Drops Nearby.

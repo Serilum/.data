@@ -3,6 +3,9 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.92: Extended TaskFunctions to delay a task on the client.
+
+=========
 v7.91: Fixed a bug in the global bundle config enable check function.
 
 =========

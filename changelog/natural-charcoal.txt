@@ -3,4 +3,7 @@ Natural Charcoal
 https://curseforge.com/minecraft/mc-mods/natural-charcoal
 
 =========
+v1.1: Fixed incorrect version reference.
+
+=========
 v1.0: Initial release of Natural Charcoal.
