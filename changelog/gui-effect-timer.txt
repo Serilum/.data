@@ -1,0 +1,6 @@
+Changelog:
+GUI Effect Timer
+https://curseforge.com/minecraft/mc-mods/gui-effect-timer
+
+=========
+v1.0: Initial release of GUI Effect Timer.

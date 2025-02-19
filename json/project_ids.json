@@ -303,6 +303,10 @@
 		"fabric" : 541177,
 		"forge" : 347595
 	},
+	"GUI Effect Timer" : {
+		"fabric" : -1,
+		"forge" : 1203979
+	},
 	"GUI Followers" : {
 		"fabric" : 539849,
 		"forge" : 410911
