@@ -1,0 +1,6 @@
+Changelog:
+Enchantment Level Cap Indicator
+https://curseforge.com/minecraft/mc-mods/enchantment-level-cap-indicator
+
+=========
+v1.0: Initial release of Enchantment Level Cap Indicator.

@@ -211,6 +211,10 @@
 		"fabric" : 530645,
 		"forge" : 341721
 	},
+	"Enchantment Level Cap Indicator" : {
+		"fabric" : -1,
+		"forge" : 1204463
+	},
 	"End Portal Recipe" : {
 		"fabric" : 577002,
 		"forge" : 346030
