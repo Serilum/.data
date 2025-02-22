@@ -3,6 +3,9 @@ Sticky Enchanting Lapis
 https://curseforge.com/minecraft/mc-mods/sticky-enchanting-lapis
 
 =========
+v1.5: Updated packet to use integer positions instead of a BlockPos.
+
+=========
 v1.4: Fixed players disconnecting in multiplayer.
 
 =========

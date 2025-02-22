@@ -691,6 +691,10 @@
 		"fabric" : 527685,
 		"forge" : 367178
 	},
+	"Underground Beacons" : {
+		"fabric" : -1,
+		"forge" : 1206250
+	},
 	"Underwater Enchanting" : {
 		"fabric" : -1,
 		"forge" : 348758

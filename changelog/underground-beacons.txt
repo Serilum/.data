@@ -1,0 +1,6 @@
+Changelog:
+Underground Beacons
+https://curseforge.com/minecraft/mc-mods/underground-beacons
+
+=========
+v1.0: Initial release of Underground Beacons.

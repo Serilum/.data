@@ -3,6 +3,9 @@ Quick Right-Click
 https://curseforge.com/minecraft/mc-mods/quick-right-click
 
 =========
+v1.7: (1.21.4) Fixed quick shulker boxes not saving items correctly
+
+=========
 v1.6: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 
