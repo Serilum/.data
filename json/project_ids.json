@@ -3,6 +3,10 @@
 		"fabric" : 550889,
 		"forge" : 414086
 	},
+	"Adventure Mode Tweaks" : {
+		"fabric" : -1,
+		"forge" : 1205828
+	},
 	"All Loot Drops" : {
 		"fabric" : -1,
 		"forge" : 324863
