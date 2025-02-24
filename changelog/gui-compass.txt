@@ -3,6 +3,9 @@ GUI Compass
 https://www.curseforge.com/minecraft/mc-mods/gui-compass
 
 =========
+v4.9: Improved logic when the GUI elements should be hidden.
+
+=========
 v4.8: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

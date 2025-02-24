@@ -3,6 +3,9 @@ GUI Clock
 https://www.curseforge.com/minecraft/mc-mods/gui-clock
 
 =========
+v4.7: Improved logic when the GUI elements should be hidden.
+
+=========
 v4.6: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

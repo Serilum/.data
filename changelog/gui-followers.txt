@@ -3,6 +3,9 @@ GUI Followers
 https://curseforge.com/minecraft/mc-mods/gui-followers
 
 =========
+v4.0: Improved logic when the GUI elements should be hidden.
+
+=========
 v3.9: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

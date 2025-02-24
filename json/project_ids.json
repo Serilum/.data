@@ -611,6 +611,10 @@
 		"fabric" : 528123,
 		"forge" : 304077
 	},
+	"Silkier Touch" : {
+		"fabric" : -1,
+		"forge" : 1207422
+	},
 	"Simple Menu" : {
 		"fabric" : -1,
 		"forge" : 977300

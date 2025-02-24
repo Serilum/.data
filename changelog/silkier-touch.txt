@@ -1,0 +1,6 @@
+Changelog:
+Silkier Touch
+https://curseforge.com/minecraft/mc-mods/silkier-touch
+
+=========
+v1.0: Initial release of Silkier Touch.

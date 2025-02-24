@@ -3,6 +3,9 @@ Daily Quests
 https://curseforge.com/minecraft/mc-mods/daily-quests
 
 =========
+v2.2: Improved logic when the GUI elements should be hidden.
+
+=========
 v2.1: Fixed a crash on load due to a mod incompatibility.
 Fixed a rare client crash after generating new quests.
 

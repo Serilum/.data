@@ -3,6 +3,9 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.93: Added GUIFunctions. For now to globally check whether elements should be hidden.
+
+=========
 v7.92: Extended TaskFunctions to delay a task on the client.
 
 =========
