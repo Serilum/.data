@@ -3,6 +3,12 @@ Serilum's Extra Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-extra-bundle
 
 =========
+v2.3: Fixed an incorrect version.
+
+Faster Crouching: None -> v2.6
+Paper Books: None -> v3.5
+
+=========
 v2.2: All Loot Drops: v3.4 -> v3.5
 April Fools: v1.5 -> v1.6
 Bouncier Beds: v2.4 -> v2.5

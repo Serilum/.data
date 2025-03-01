@@ -3,6 +3,12 @@ Serilum's Customization Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-customization-bundle
 
 =========
+v2.3: Fixed an incorrect version.
+
+Configurable Extra Mob Drops: v3.5 -> v3.6
+Starter Kit: v7.2 -> v7.3
+
+=========
 v2.2: Altered Damage: v3.5 -> v3.6
 Biome Spawn Point: v2.3 -> v2.4
 Configurable Despawn Timer: v4.2 -> v4.3

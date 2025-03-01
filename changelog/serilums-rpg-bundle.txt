@@ -3,6 +3,11 @@ Serilum's RPG Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-rpg-bundle
 
 =========
+v2.2: Fixed an incorrect version.
+
+Double Doors: v6.1 -> v6.2
+
+=========
 v2.1: Anvil Restoration: v2.3 -> v2.4
 Areas: v6.0 -> v6.1
 Bareback Horse Riding: v2.2 -> v2.3

@@ -727,6 +727,10 @@
 		"fabric" : 527636,
 		"forge" : 348156
 	},
+	"Wandering Trader May Leave" : {
+		"fabric" : -1,
+		"forge" : 1210658
+	},
 	"Weaker Spiderwebs" : {
 		"fabric" : 527588,
 		"forge" : 345293

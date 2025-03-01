@@ -3,6 +3,13 @@ Serilum's QoL Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-qol-bundle
 
 =========
+v2.2: Fixed an incorrect version.
+
+Furnace Recycle: None -> v2.5
+Sticky Enchanting Lapis: v1.3 -> v1.5
+Village Bell Recipe: None -> v3.6
+
+=========
 v2.1: Automatic Doors: v4.8 -> v4.9
 Better Beacon Placement: v3.4 -> v3.5
 Better Conduit Placement: v3.3 -> v3.4
