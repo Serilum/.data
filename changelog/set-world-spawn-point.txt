@@ -3,6 +3,9 @@ Set World Spawn Point
 https://www.curseforge.com/minecraft/mc-mods/set-world-spawn-point
 
 =========
+v3.6: (1.21.5) Fixed a nullpointer exception when loading a spawn point.
+
+=========
 v3.5: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

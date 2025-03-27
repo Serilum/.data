@@ -3,6 +3,12 @@ Cycle Paintings
 https://www.curseforge.com/minecraft/mc-mods/cycle-paintings
 
 =========
+v4.1: Improved compatibility with Fast Paintings.
+
+=========
+v4.0: Added supported compatibility with Fast Paintings.
+
+=========
 v3.7: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

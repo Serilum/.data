@@ -3,6 +3,9 @@ Just Mob Heads
 https://www.curseforge.com/minecraft/mc-mods/just-mob-heads
 
 =========
+v8.6: (1.21.5) Added cold, temperate and warm cow heads.
+
+=========
 v8.5: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

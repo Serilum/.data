@@ -3,6 +3,9 @@ Starter Structure
 https://curseforge.com/minecraft/mc-mods/starter-structure
 
 =========
+v4.1: (1.21.5) Fixed a nullpointer exception when loading a spawn point.
+
+=========
 v4.0: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

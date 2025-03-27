@@ -3,6 +3,9 @@ Piglin Names
 https://curseforge.com/minecraft/mc-mods/piglin-names
 
 =========
+v1.3: Fixed an incorrect mixin reference.
+
+=========
 v1.2: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

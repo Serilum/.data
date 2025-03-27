@@ -3,6 +3,25 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v7.99: (1.21.5) Fixed a nullpointer exception when loading a spawn point.
+
+=========
+v7.98: (1.21.5) Extended EntityFunctions, again.
+Apologies for the repeated uploads, blame Mojang for making things inaccessible!
+
+=========
+v7.97: (1.21.5) Further Extended EntityFunctions, related to painting variants.
+
+=========
+v7.96: (1.21.5) Extended EntityFunctions.
+
+=========
+v7.95: (1.21.5) Extended GearFunctions to return the private equipment field.
+
+=========
+v7.94: Extended ItemFunctions to bypass UseOnContext method protection.
+
+=========
 v7.93: Added GUIFunctions. For now to globally check whether elements should be hidden.
 
 =========

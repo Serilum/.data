@@ -1,0 +1,6 @@
+Changelog:
+Where Did I Die?
+https://www.curseforge.com/minecraft/mc-mods/where-did-i-die
+
+=========
+v1.0: Initial release of Where Did I Die.
