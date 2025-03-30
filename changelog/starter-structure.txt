@@ -3,6 +3,12 @@ Starter Structure
 https://curseforge.com/minecraft/mc-mods/starter-structure
 
 =========
+v4.2: Cleaned up code.
+Alongside the Collective update, fixed structures not spawning correctly.
+Fixed being able to break protected paintings and item frames.
+(Fabric) Fixed being able to place blocks in the protected area.
+
+=========
 v4.1: (1.21.5) Fixed a nullpointer exception when loading a spawn point.
 
 =========

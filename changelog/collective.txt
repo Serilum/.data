@@ -3,6 +3,13 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.1: (Fabric) Improved block place mixin target to fix it not being cancelled correctly.
+
+=========
+v8.0: Updated Collective's schematic parsing code.
+Added support for WorldEdit v3 schematics.
+
+=========
 v7.99: (1.21.5) Fixed a nullpointer exception when loading a spawn point.
 
 =========
