@@ -3,6 +3,10 @@ Village Spawn Point
 https://www.curseforge.com/minecraft/mc-mods/village-spawn-point
 
 =========
+v4.6: Added support for custom village tags, set in the config.
+Can be used to improve compatibility with modded villages.
+
+=========
 v4.5: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

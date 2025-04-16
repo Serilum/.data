@@ -3,6 +3,11 @@ Realistic Bees
 https://www.curseforge.com/minecraft/mc-mods/realistic-bees
 
 =========
+v4.2: Fixed the Total Beelocation advancement not triggering with >= 3 bees.
+(1.21.4/5) Fixed hive space not increasing correctly.
+Fixed an incompatible mixin target.
+
+=========
 v4.1: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

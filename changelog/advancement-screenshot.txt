@@ -3,6 +3,9 @@ Advancement Screenshot
 https://curseforge.com/minecraft/mc-mods/advancement-screenshot
 
 =========
+v5.1: (1.21.5) Fixed the mod not taking screenshots correctly.
+
+=========
 v5.0: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

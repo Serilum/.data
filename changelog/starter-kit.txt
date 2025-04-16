@@ -3,6 +3,9 @@ Starter Kit
 https://www.curseforge.com/minecraft/mc-mods/starter-kit
 
 =========
+v7.4: Increase compatibility with other mods showing GUIs when joining a world.
+
+=========
 v7.3: Changed packet fields to be non-static to prevent bugs in queued packets.
 
 =========
