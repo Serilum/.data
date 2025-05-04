@@ -3,6 +3,9 @@ Enchantment Level Cap Indicator
 https://curseforge.com/minecraft/mc-mods/enchantment-level-cap-indicator
 
 =========
+v1.2: (1.21.5) Fixed the indicator not showing up inside the inventory.
+
+=========
 v1.1: Fixed a mod incompatibility with Enchantment Descriptions.
 
 =========

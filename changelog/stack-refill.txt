@@ -3,6 +3,10 @@ Stack Refill
 https://curseforge.com/minecraft/mc-mods/stack-refill
 
 =========
+v4.7: Fixed items being refilled post-death.
+Fixed ArrayIndexOutOfBoundsException during refill.
+
+=========
 v4.6: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 
