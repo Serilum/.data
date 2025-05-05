@@ -3,6 +3,10 @@ Villager Names
 https://www.curseforge.com/minecraft/mc-mods/villager-names
 
 =========
+v8.3: (1.21.5) Fixed incorrect formatting of the villager profession on the trade screen.
+Thanks @eSonOfAnder for the PR!
+
+=========
 v8.2: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 
