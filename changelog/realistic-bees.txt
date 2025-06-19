@@ -3,6 +3,9 @@ Realistic Bees
 https://www.curseforge.com/minecraft/mc-mods/realistic-bees
 
 =========
+v4.3: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
+
+=========
 v4.2: Fixed the Total Beelocation advancement not triggering with >= 3 bees.
 (1.21.4/5) Fixed hive space not increasing correctly.
 Fixed an incompatible mixin target.

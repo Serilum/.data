@@ -3,6 +3,9 @@ Tree Harvester
 https://www.curseforge.com/minecraft/mc-mods/tree-harvester
 
 =========
+v9.2: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
+
+=========
 v9.1: Improved mod performance.
 Improved mod compatibility.
 Fixed a server freeze/crash with huge trees.

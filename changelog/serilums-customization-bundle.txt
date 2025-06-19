@@ -3,6 +3,10 @@ Serilum's Customization Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-customization-bundle
 
 =========
+v2.4: Starter Kit: v7.3 -> v7.4
+Starter Structure: v4.0 -> v4.2
+
+=========
 v2.3: Fixed an incorrect version.
 
 Configurable Extra Mob Drops: v3.5 -> v3.6

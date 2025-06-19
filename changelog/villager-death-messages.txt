@@ -3,6 +3,9 @@ Villager Death Messages
 https://www.curseforge.com/minecraft/mc-mods/villager-death-messages
 
 =========
+v3.8: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
+
+=========
 v3.7: (1.21.5) Fixed incorrect death message formatting.
 Thanks @craftycorvid for the PR!
 

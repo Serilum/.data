@@ -3,6 +3,9 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.4: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference.
+
+=========
 v8.3: Added support for a custom village tag for getNearbyVillage in BlockPosFunctions.
 
 =========

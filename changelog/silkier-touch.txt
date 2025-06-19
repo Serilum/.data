@@ -3,4 +3,7 @@ Silkier Touch
 https://curseforge.com/minecraft/mc-mods/silkier-touch
 
 =========
+v1.1: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
+
+=========
 v1.0: Initial release of Silkier Touch.

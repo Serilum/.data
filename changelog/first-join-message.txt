@@ -3,6 +3,9 @@ First Join Message
 https://www.curseforge.com/minecraft/mc-mods/first-join-message
 
 =========
+v3.8: Fixed %s not being replaced with the player name correctly.
+
+=========
 v3.7: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

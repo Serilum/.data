@@ -3,6 +3,9 @@ Village Spawn Point
 https://www.curseforge.com/minecraft/mc-mods/village-spawn-point
 
 =========
+v4.7: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
+
+=========
 v4.6: Added support for custom village tags, set in the config.
 Can be used to improve compatibility with modded villages.
 

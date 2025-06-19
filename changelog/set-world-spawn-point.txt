@@ -3,6 +3,9 @@ Set World Spawn Point
 https://www.curseforge.com/minecraft/mc-mods/set-world-spawn-point
 
 =========
+v3.7: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
+
+=========
 v3.6: (1.21.5) Fixed a nullpointer exception when loading a spawn point.
 
 =========

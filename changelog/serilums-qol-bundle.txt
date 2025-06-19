@@ -3,6 +3,14 @@ Serilum's QoL Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-qol-bundle
 
 =========
+v2.3: Cycle Paintings: v3.7 -> v4.1
+Furnace Recycle: None -> v2.5
+Quick Right-Click: None -> v1.6
+Stack Refill: v4.6 -> v4.7
+Thorny Bush Protection: v1.4 -> v1.5
+Village Bell Recipe: None -> v3.6
+
+=========
 v2.2: Fixed an incorrect version.
 
 Furnace Recycle: None -> v2.5

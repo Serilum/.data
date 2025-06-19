@@ -3,6 +3,9 @@ Superflat World No Slimes
 https://www.curseforge.com/minecraft/mc-mods/superflat-world-no-slimes
 
 =========
+v3.6: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
+
+=========
 v3.5: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 
