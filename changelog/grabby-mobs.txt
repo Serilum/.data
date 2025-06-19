@@ -3,6 +3,9 @@ Grabby Mobs
 https://curseforge.com/minecraft/mc-mods/grabby-mobs
 
 =========
+v1.7: (1.21.5) Fixed an incorrect mixin reference.
+
+=========
 v1.6: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

@@ -3,6 +3,9 @@ Crying Portals
 https://curseforge.com/minecraft/mc-mods/crying-portals
 
 =========
+v2.9: (1.21.5) Fixed an incorrect mixin reference.
+
+=========
 v2.8: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 
