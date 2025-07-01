@@ -3,6 +3,9 @@ Serilum's RPG Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-rpg-bundle
 
 =========
+v2.4: Pumpkillager's Quest: v4.5 -> v4.6
+
+=========
 v2.3: Double Doors: v6.2 -> v7.0
 Piglin Names: v1.2 -> v1.3
 Realistic Bees: v4.1 -> v4.2

@@ -3,6 +3,9 @@ Transcending Trident
 https://www.curseforge.com/minecraft/mc-mods/transcending-trident
 
 =========
+v5.0: Fixed an incorrect mixin reference.
+
+=========
 v4.9: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

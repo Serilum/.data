@@ -3,6 +3,9 @@ Daily Quests
 https://curseforge.com/minecraft/mc-mods/daily-quests
 
 =========
+v2.3: (1.21.5) Fixed incorrect mixin references.
+
+=========
 v2.2: Improved logic when the GUI elements should be hidden.
 
 =========

@@ -3,6 +3,9 @@ Serilum's QoL Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-qol-bundle
 
 =========
+v2.4: Stack Refill: v4.7 -> v4.9
+
+=========
 v2.3: Cycle Paintings: v3.7 -> v4.1
 Furnace Recycle: None -> v2.5
 Quick Right-Click: None -> v1.6

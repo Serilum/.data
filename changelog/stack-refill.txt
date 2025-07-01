@@ -3,6 +3,9 @@ Stack Refill
 https://curseforge.com/minecraft/mc-mods/stack-refill
 
 =========
+v4.9: Fixed Forge client events not being static.
+
+=========
 v4.8: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
 
 =========
