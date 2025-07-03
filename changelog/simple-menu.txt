@@ -3,6 +3,10 @@ Simple Menu
 https://curseforge.com/minecraft/mc-mods/simple-menu
 
 =========
+v2.0: Added a config option to expand the Mods button.
+(NeoForge) Fixed the mod not loading correctly.
+
+=========
 v1.5: (Forge) Fixed the mod not loading correctly due to a mixin conflict.
 
 =========

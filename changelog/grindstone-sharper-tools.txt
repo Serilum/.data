@@ -3,6 +3,9 @@ Grindstone Sharper Tools
 https://www.curseforge.com/minecraft/mc-mods/grindstone-sharper-tools
 
 =========
+v3.9: The mod now checks for an instanceof GrindstoneBlock to improve mod compatibility.
+
+=========
 v3.8: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 
