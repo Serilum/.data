@@ -3,6 +3,9 @@ Serilum's Customization Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-customization-bundle
 
 =========
+v2.6: Simple Menu: v1.5 -> v2.0
+
+=========
 v2.5: First Join Message: v3.7 -> v3.8
 
 =========

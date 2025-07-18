@@ -3,6 +3,10 @@ Serilum's RPG Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-rpg-bundle
 
 =========
+v2.5: Double Doors: v7.0 -> v7.1
+Grindstone Sharper Tools: v3.8 -> v3.9
+
+=========
 v2.4: Pumpkillager's Quest: v4.5 -> v4.6
 
 =========
