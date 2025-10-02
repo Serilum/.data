@@ -3,6 +3,9 @@ Full Brightness Toggle
 https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle
 
 =========
+v4.4: Updated mod to use Collective's new RegisterKeyMappingsHelper.
+
+=========
 v4.3: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

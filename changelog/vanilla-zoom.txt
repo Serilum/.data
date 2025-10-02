@@ -3,6 +3,9 @@ Vanilla Zoom
 https://curseforge.com/minecraft/mc-mods/vanilla-zoom
 
 =========
+v2.9: Updated mod to use Collective's new RegisterKeyMappingsHelper.
+
+=========
 v2.8: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

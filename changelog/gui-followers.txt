@@ -3,6 +3,9 @@ GUI Followers
 https://curseforge.com/minecraft/mc-mods/gui-followers
 
 =========
+v4.1: Updated mod to use Collective's new RegisterKeyMappingsHelper.
+
+=========
 v4.0: Improved logic when the GUI elements should be hidden.
 
 =========

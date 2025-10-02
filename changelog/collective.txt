@@ -3,6 +3,9 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.5: Added helper functions to register KeyMappings inside the common code.
+
+=========
 v8.4: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference.
 
 =========

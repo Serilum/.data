@@ -3,6 +3,9 @@ Hidden Recipe Book
 https://curseforge.com/minecraft/mc-mods/hidden-recipe-book
 
 =========
+v5.0: Updated mod to use Collective's new RegisterKeyMappingsHelper.
+
+=========
 v4.9: Fixed the hotkey trigger not working correctly.
 
 =========

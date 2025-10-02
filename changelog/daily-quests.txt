@@ -3,6 +3,9 @@ Daily Quests
 https://curseforge.com/minecraft/mc-mods/daily-quests
 
 =========
+v2.4: Updated mod to use Collective's new RegisterKeyMappingsHelper.
+
+=========
 v2.3: (1.21.5) Fixed incorrect mixin references.
 
 =========
