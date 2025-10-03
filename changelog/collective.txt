@@ -3,6 +3,16 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.8: (1.21.9) Fixed the game crashing when editing config values.
+
+=========
+v8.7: Extended EntityFunctions to be able to set the SkullBlockEntity profiles.
+
+=========
+v8.6: (1.21.9) Fixed Collective not loading correctly in a server environment.
+Fixed an issue generating player heads.
+
+=========
 v8.5: Added helper functions to register KeyMappings inside the common code.
 
 =========
