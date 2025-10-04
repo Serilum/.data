@@ -3,6 +3,9 @@ Simple Menu
 https://curseforge.com/minecraft/mc-mods/simple-menu
 
 =========
+v2.1: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v2.0: Added a config option to expand the Mods button.
 (NeoForge) Fixed the mod not loading correctly.
 

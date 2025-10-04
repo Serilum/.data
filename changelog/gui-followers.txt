@@ -3,6 +3,9 @@ GUI Followers
 https://curseforge.com/minecraft/mc-mods/gui-followers
 
 =========
+v4.2: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v4.1: Updated mod to use Collective's new RegisterKeyMappingsHelper.
 
 =========

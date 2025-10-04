@@ -3,6 +3,9 @@ Omega Mute
 https://www.curseforge.com/minecraft/mc-mods/omega-mute
 
 =========
+v4.4: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v4.3: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

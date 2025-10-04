@@ -3,6 +3,9 @@ Let's Parkour
 https://curseforge.com/minecraft/mc-mods/lets-parkour
 
 =========
+v2.2: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v2.1: (1.21.4) Fixed missing item textures.
 
 =========

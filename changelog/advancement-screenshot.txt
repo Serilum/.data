@@ -3,6 +3,9 @@ Advancement Screenshot
 https://curseforge.com/minecraft/mc-mods/advancement-screenshot
 
 =========
+v5.2: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v5.1: (1.21.5) Fixed the mod not taking screenshots correctly.
 
 =========

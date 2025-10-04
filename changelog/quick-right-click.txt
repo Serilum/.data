@@ -3,6 +3,9 @@ Quick Right-Click
 https://curseforge.com/minecraft/mc-mods/quick-right-click
 
 =========
+v1.8: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v1.7: (1.21.4) Fixed quick shulker boxes not saving items correctly
 
 =========

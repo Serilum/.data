@@ -3,6 +3,9 @@ Always a Wither Skull
 https://www.curseforge.com/minecraft/mc-mods/always-a-wither-skull
 
 =========
+v3.6: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v3.5: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

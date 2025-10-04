@@ -3,6 +3,9 @@ Pumpkillager's Quest
 https://curseforge.com/minecraft/mc-mods/pumpkillagers-quest
 
 =========
+v4.7: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v4.6: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

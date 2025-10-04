@@ -3,6 +3,9 @@ Persistent Inventory Search
 https://curseforge.com/minecraft/mc-mods/persistent-inventory-search
 
 =========
+v1.6: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v1.5: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

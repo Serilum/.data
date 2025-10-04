@@ -3,6 +3,9 @@ Vanilla Zoom
 https://curseforge.com/minecraft/mc-mods/vanilla-zoom
 
 =========
+v3.0: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v2.9: Updated mod to use Collective's new RegisterKeyMappingsHelper.
 
 =========

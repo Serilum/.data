@@ -3,6 +3,9 @@ Quicksaving
 https://curseforge.com/minecraft/mc-mods/quicksaving
 
 =========
+v1.7: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v1.6: Updated mod to use Collective's new RegisterKeyMappingsHelper.
 
 =========

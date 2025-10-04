@@ -3,6 +3,9 @@ Just Mob Heads
 https://www.curseforge.com/minecraft/mc-mods/just-mob-heads
 
 =========
+v8.8: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v8.7: (1.21.6) Added the Happy Ghast and Ghastling head textures.
 
 =========

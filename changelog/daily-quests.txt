@@ -3,6 +3,9 @@ Daily Quests
 https://curseforge.com/minecraft/mc-mods/daily-quests
 
 =========
+v2.5: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v2.4: Updated mod to use Collective's new RegisterKeyMappingsHelper.
 
 =========

@@ -3,6 +3,9 @@ Starter Structure
 https://curseforge.com/minecraft/mc-mods/starter-structure
 
 =========
+v4.4: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v4.3: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
 
 =========

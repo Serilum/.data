@@ -3,6 +3,9 @@ Starter Kit
 https://www.curseforge.com/minecraft/mc-mods/starter-kit
 
 =========
+v7.6: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v7.5: (1.21.8) Fixed selection screen text and armour not being displayed correctly.
 
 =========

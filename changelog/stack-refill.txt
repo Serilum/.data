@@ -3,6 +3,9 @@ Stack Refill
 https://curseforge.com/minecraft/mc-mods/stack-refill
 
 =========
+v5.0: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v4.9: Fixed Forge client events not being static.
 
 =========

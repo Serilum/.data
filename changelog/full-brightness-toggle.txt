@@ -3,6 +3,9 @@ Full Brightness Toggle
 https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle
 
 =========
+v4.5: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v4.4: Updated mod to use Collective's new RegisterKeyMappingsHelper.
 
 =========

@@ -3,6 +3,9 @@ Anvil Restoration
 https://curseforge.com/minecraft/mc-mods/anvil-restoration
 
 =========
+v2.5: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v2.4: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

@@ -3,6 +3,9 @@ Grindstone Sharper Tools
 https://www.curseforge.com/minecraft/mc-mods/grindstone-sharper-tools
 
 =========
+v4.0: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v3.9: The mod now checks for an instanceof GrindstoneBlock to improve mod compatibility.
 
 =========

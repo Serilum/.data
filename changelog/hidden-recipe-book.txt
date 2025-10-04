@@ -3,6 +3,9 @@ Hidden Recipe Book
 https://curseforge.com/minecraft/mc-mods/hidden-recipe-book
 
 =========
+v5.1: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v5.0: Updated mod to use Collective's new RegisterKeyMappingsHelper.
 
 =========

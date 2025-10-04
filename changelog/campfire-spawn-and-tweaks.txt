@@ -3,6 +3,9 @@ Campfire Spawn and Tweaks
 https://curseforge.com/minecraft/mc-mods/campfire-spawn-and-tweaks
 
 =========
+v4.1: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v4.0: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

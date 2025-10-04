@@ -3,6 +3,9 @@ Sleep Sooner
 https://www.curseforge.com/minecraft/mc-mods/sleep-sooner
 
 =========
+v4.9: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v4.8: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
 
 =========

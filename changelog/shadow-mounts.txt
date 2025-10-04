@@ -3,6 +3,9 @@ Shadow Mounts
 https://curseforge.com/minecraft/mc-mods/shadow-mounts
 
 =========
+v1.3: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v1.2: (1.21.4) Fixed missing item textures.
 
 =========

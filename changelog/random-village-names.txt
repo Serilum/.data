@@ -3,6 +3,9 @@ Random Village Names
 https://curseforge.com/minecraft/mc-mods/random-village-names
 
 =========
+v3.9: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v3.8: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

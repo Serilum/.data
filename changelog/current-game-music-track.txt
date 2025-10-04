@@ -3,6 +3,9 @@ Current Game Music Track
 https://curseforge.com/minecraft/mc-mods/current-game-music-track
 
 =========
+v2.5: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v2.4: Improved logic when the GUI elements should be hidden.
 
 =========

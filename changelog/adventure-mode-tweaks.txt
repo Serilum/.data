@@ -3,4 +3,7 @@ Adventure Mode Tweaks
 https://curseforge.com/minecraft/mc-mods/adventure-mode-tweaks
 
 =========
+v1.1: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v1.0: Initial release of Adventure Mode Tweaks.

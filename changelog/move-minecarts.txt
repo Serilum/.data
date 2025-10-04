@@ -3,6 +3,9 @@ Move Minecarts
 https://www.curseforge.com/minecraft/mc-mods/move-minecarts
 
 =========
+v3.8: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
+
+=========
 v3.7: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 
