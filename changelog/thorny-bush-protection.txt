@@ -3,6 +3,9 @@ Thorny Bush Protection
 https://curseforge.com/minecraft/mc-mods/thorny-bush-protection
 
 =========
+v1.6: (1.21.10) Fixed an incorrect mixin reference.
+
+=========
 v1.5: Fixed incorrect mixin reference.
 
 =========
