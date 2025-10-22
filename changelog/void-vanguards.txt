@@ -1,0 +1,6 @@
+Changelog:
+Void Vanguards
+https://curseforge.com/minecraft/mc-mods/void-vanguards
+
+=========
+v1.0: Initial release of Void Vanguards.

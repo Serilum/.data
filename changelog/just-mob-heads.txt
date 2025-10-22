@@ -3,6 +3,9 @@ Just Mob Heads
 https://www.curseforge.com/minecraft/mc-mods/just-mob-heads
 
 =========
+v8.9: (1.21.9/10) Updated the Collective dependency to fix heads dropping twice.
+
+=========
 v8.8: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

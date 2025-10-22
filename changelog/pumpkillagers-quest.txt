@@ -3,6 +3,9 @@ Pumpkillager's Quest
 https://curseforge.com/minecraft/mc-mods/pumpkillagers-quest
 
 =========
+v4.8: (1.21.8/9/10) Fixed the generated quest book formatting.
+
+=========
 v4.7: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

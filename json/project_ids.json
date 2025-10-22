@@ -723,6 +723,10 @@
 		"fabric" : 527638,
 		"forge" : 345854
 	},
+	"Void Vanguards" : {
+		"fabric" : -1,
+		"forge" : 1368839
+	},
 	"Vote Command" : {
 		"fabric" : 527636,
 		"forge" : 348156

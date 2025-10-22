@@ -3,6 +3,15 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.11: Scheduled client tasks now don't increase their tick count when the game is paused.
+
+=========
+v8.10-8.10: Extended HeadFunctions to be able to return a GameProfile directly.
+
+=========
+v8.9: (1.21.9/10) Fixed mob heads dropping twice.
+
+=========
 v8.8: (1.21.9) Fixed the game crashing when editing config values.
 
 =========

@@ -3,6 +3,9 @@ Just Player Heads
 https://www.curseforge.com/minecraft/mc-mods/just-player-heads
 
 =========
+v4.3: (1.21.9/10) Updated the Collective dependency to fix heads dropping twice.
+
+=========
 v4.2: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 
