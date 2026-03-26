@@ -3,6 +3,9 @@ Grindstone Sharper Tools
 https://www.curseforge.com/minecraft/mc-mods/grindstone-sharper-tools
 
 =========
+v4.1: (26.1 NeoForge) Fixed a wrong version dependency set in neoforge.mods.toml which prevented the mod from loading.
+
+=========
 v4.0: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

@@ -3,6 +3,9 @@ Passive Shield
 https://curseforge.com/minecraft/mc-mods/passive-shield
 
 =========
+v3.9: (26.1 NeoForge) Fixed a wrong version dependency set in neoforge.mods.toml which prevented the mod from loading.
+
+=========
 v3.8: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

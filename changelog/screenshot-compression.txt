@@ -3,6 +3,10 @@ Screenshot Compression
 https://curseforge.com/minecraft/mc-mods/screenshot-compression
 
 =========
+v1.2: (26.1) Moved the screenshot log chat message to the next tick to prevent an error.
+Changed screenshot mixin target to improve compatibility.
+
+=========
 v1.1: Fixed incorrect version reference.
 
 =========

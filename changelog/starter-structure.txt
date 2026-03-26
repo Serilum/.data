@@ -3,6 +3,9 @@ Starter Structure
 https://curseforge.com/minecraft/mc-mods/starter-structure
 
 =========
+v4.5: (26.1 NeoForge) Fixed a wrong version dependency set in neoforge.mods.toml which prevented the mod from loading.
+
+=========
 v4.4: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

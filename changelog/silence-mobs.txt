@@ -3,6 +3,9 @@ Silence Mobs
 https://www.curseforge.com/minecraft/mc-mods/silence-mobs
 
 =========
+v3.8: (26.1 NeoForge) Fixed a wrong version dependency set in neoforge.mods.toml which prevented the mod from loading.
+
+=========
 v3.7: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
 
 =========

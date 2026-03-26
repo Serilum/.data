@@ -3,6 +3,9 @@ GUI Followers
 https://curseforge.com/minecraft/mc-mods/gui-followers
 
 =========
+v4.3: (26.1) Moved Minecraft.getInstance() to inside the player tick function to prevent loading order issues.
+
+=========
 v4.2: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

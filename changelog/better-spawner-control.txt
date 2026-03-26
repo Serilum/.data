@@ -3,6 +3,9 @@ Better Spawner Control
 https://www.curseforge.com/minecraft/mc-mods/better-spawner-control
 
 =========
+v4.8: (26.1 NeoForge) Fixed a wrong version dependency set in neoforge.mods.toml which prevented the mod from loading.
+
+=========
 v4.7: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

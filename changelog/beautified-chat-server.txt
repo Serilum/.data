@@ -3,6 +3,12 @@ Beautified Chat Server
 https://curseforge.com/minecraft/mc-mods/beautified-chat-server
 
 =========
+v3.1: (Forge/Neo) Fixed messages being shown twice in the server console.
+
+=========
+v3.0: Adds the possibility to create ranks, used for player colours and prefixes via the /bcs command.
+
+=========
 v2.8: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

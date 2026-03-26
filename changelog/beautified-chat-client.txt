@@ -3,6 +3,9 @@ Beautified Chat Client
 https://curseforge.com/minecraft/mc-mods/beautified-chat-client
 
 =========
+v2.9: (26.1) Removed leftover @OnlyIn annotation.
+
+=========
 v2.8: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

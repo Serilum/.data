@@ -3,6 +3,9 @@ Entity Information
 https://www.curseforge.com/minecraft/mc-mods/entity-information
 
 =========
+v3.7: (26.1 NeoForge) Fixed a wrong version dependency set in neoforge.mods.toml which prevented the mod from loading.
+
+=========
 v3.6: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

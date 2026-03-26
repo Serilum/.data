@@ -3,6 +3,21 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.16: (26.1) Updated all mixin files to their correct targets.
+
+=========
+v8.15: (26.1) Changed the Forge mixin.json file's Java version to 21 to support their outdated Mixin plugin.
+
+=========
+v8.14: (26.1) Fixed Collective's getSurfaceBlockPos function.
+
+=========
+v8.13: Added ClientUtilsHelper, which currently allows setting a block render type in Common code.
+
+=========
+v8.12: Cleaned up DuskConfig.
+
+=========
 v8.11: Scheduled client tasks now don't increase their tick count when the game is paused.
 
 =========

@@ -3,4 +3,7 @@ Underground Beacons
 https://curseforge.com/minecraft/mc-mods/underground-beacons
 
 =========
+v1.1: (26.1) Updated mixin target to updated function .getLightDampening().
+
+=========
 v1.0: Initial release of Underground Beacons.

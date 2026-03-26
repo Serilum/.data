@@ -3,6 +3,9 @@ Shadow Mounts
 https://curseforge.com/minecraft/mc-mods/shadow-mounts
 
 =========
+v1.4: (26.1) Fixed the shadow saddle item being created while the entity type registery was frozen.
+
+=========
 v1.3: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

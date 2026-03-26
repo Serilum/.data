@@ -3,4 +3,7 @@ Void Vanguards
 https://curseforge.com/minecraft/mc-mods/void-vanguards
 
 =========
+v1.1: Fixes some minor bugs in the flow of the questline. No content added.
+
+=========
 v1.0: Initial release of Void Vanguards.

@@ -3,6 +3,12 @@ Adventure Mode Tweaks
 https://curseforge.com/minecraft/mc-mods/adventure-mode-tweaks
 
 =========
+v1.3: (26.1) Actually fixed all incorrect mixin references this time.
+
+=========
+v1.2: (26.1) Fixed an incorrect mixin reference.
+
+=========
 v1.1: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

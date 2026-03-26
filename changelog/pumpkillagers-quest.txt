@@ -3,6 +3,12 @@ Pumpkillager's Quest
 https://curseforge.com/minecraft/mc-mods/pumpkillagers-quest
 
 =========
+v5.0: (26.1) Fixed the light block calculation using the incorrect function.
+
+=========
+v4.9: (26.1) Forge: Fixed ForgePkPlayerEvents static events. NeoForge: Fixed incorrect required version.
+
+=========
 v4.8: (1.21.8/9/10) Fixed the generated quest book formatting.
 
 =========

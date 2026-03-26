@@ -3,6 +3,9 @@ Random Village Names
 https://curseforge.com/minecraft/mc-mods/random-village-names
 
 =========
+v4.1: (26.1) Fixed incorrect Areas dependency version.
+
+=========
 v4.0: Updated the mod loader files to prevent issues with the client-only Areas dependency.
 
 =========

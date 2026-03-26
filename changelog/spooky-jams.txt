@@ -1,0 +1,9 @@
+Changelog:
+Spooky Jams
+https://curseforge.com/minecraft/mc-mods/spooky-jams
+
+=========
+v1.1: Fixed incorrect mods.toml version reference.
+
+=========
+v1.0: Initial release of Spooky Jams.

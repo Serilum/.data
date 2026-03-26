@@ -3,6 +3,10 @@ Daily Quests
 https://curseforge.com/minecraft/mc-mods/daily-quests
 
 =========
+v2.6: (26.1) Moved the tick event to Post.
+[NeoForge] Fixed sheep mixin target.
+
+=========
 v2.5: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

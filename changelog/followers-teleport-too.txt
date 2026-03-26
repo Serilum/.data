@@ -3,6 +3,9 @@ Followers Teleport Too
 https://curseforge.com/minecraft/mc-mods/followers-teleport-too
 
 =========
+v2.8: (26.1 NeoForge) Fixed a wrong version dependency set in neoforge.mods.toml which prevented the mod from loading.
+
+=========
 v2.7: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

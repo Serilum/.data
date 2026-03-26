@@ -3,6 +3,9 @@ Difficulty Lock
 https://www.curseforge.com/minecraft/mc-mods/difficulty-lock
 
 =========
+v4.9: (26.1) Fixed the mod not loading correctly.
+
+=========
 v4.8: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

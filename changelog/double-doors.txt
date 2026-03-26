@@ -3,6 +3,9 @@ Double Doors
 https://www.curseforge.com/minecraft/mc-mods/double-doors
 
 =========
+v7.2: Fixed villagers opening double doors having a chance to crash the game.
+
+=========
 v7.1: Fixed fence gates opening in the wrong direction.
 Fixed a rare crash when villagers were opening double doors.
 By default, trapdoors and fence gates are now disabled in the config.

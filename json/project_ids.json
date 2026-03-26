@@ -643,6 +643,10 @@
 		"fabric" : 527896,
 		"forge" : 345298
 	},
+	"Spooky Jams" : {
+		"fabric" : -1,
+		"forge" : 1375206
+	},
 	"Stack Refill" : {
 		"fabric" : 580682,
 		"forge" : 411813
