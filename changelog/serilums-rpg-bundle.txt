@@ -3,6 +3,10 @@ Serilum's RPG Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-rpg-bundle
 
 =========
+v2.6: Double Doors: v7.1 -> v7.2
+Random Village Names: v3.8 -> v4.0
+
+=========
 v2.5: Double Doors: v7.0 -> v7.1
 Grindstone Sharper Tools: v3.8 -> v3.9
 

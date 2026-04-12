@@ -3,6 +3,12 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.17: Added an optional async update checker for dependent mods.
+Prints e.g. "[Update] Collective has an update available: 8.0 -> 8.13" to the console.
+Will ignore output completely if the server goes down.
+The update checker can be disabled via the 'enableUpdateChecker' config option.
+
+=========
 v8.16: (26.1) Updated all mixin files to their correct targets.
 
 =========

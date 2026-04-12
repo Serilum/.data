@@ -3,6 +3,9 @@ Player Tracking Compass
 https://www.curseforge.com/minecraft/mc-mods/player-tracking-compass
 
 =========
+v3.4: (1.20.1 Forge) Fixed an incorrect service file reference causing a crash.
+
+=========
 v3.3: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 
