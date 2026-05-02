@@ -3,6 +3,14 @@ Villager Names
 https://www.curseforge.com/minecraft/mc-mods/villager-names
 
 =========
+v8.4: Fixed the Wandering Trader's name in the GUI being incorrect.
+Fixed modded professions not being displayed correctly.
+Fixed the custom name list not being parsed correctly with Unix-type line endings.
+Updated the custom name config description to the correct config path.
+Improved compatibility with Origins.
+(26.1) Fixed an incorrect mixin reference.
+
+=========
 v8.3: (1.21.5) Fixed incorrect formatting of the villager profession on the trade screen.
 Thanks @eSonOfAnder for the PR!
 

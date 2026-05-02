@@ -3,6 +3,9 @@ Chorus Fruit Drops Nearby
 https://curseforge.com/minecraft/mc-mods/chorus-fruit-drops-nearby
 
 =========
+v1.2: (26.1.2 NeoForge) Updated to work with NeoForge version 26.1.2.21-beta and above.
+
+=========
 v1.1: Fixed incorrect version reference.
 
 =========

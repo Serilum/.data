@@ -3,6 +3,9 @@ April Fools
 https://curseforge.com/minecraft/mc-mods/april-fools
 
 =========
+v1.9: (26.1.2 NeoForge) Updated to work with NeoForge version 26.1.2.21-beta and above.
+
+=========
 v1.8: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

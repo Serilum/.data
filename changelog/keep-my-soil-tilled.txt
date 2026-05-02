@@ -3,6 +3,9 @@ Keep My Soil Tilled
 https://curseforge.com/minecraft/mc-mods/keep-my-soil-tilled
 
 =========
+v2.6: (26.1.2 NeoForge) Updated to work with NeoForge version 26.1.2.21-beta and above.
+
+=========
 v2.5: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

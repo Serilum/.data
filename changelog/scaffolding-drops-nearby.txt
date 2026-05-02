@@ -3,6 +3,9 @@ Scaffolding Drops Nearby
 https://curseforge.com/minecraft/mc-mods/scaffolding-drops-nearby
 
 =========
+v3.5: (26.1.2 NeoForge) Updated to work with NeoForge version 26.1.2.21-beta and above.
+
+=========
 v3.4: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

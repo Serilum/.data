@@ -3,6 +3,13 @@ Starter Kit
 https://www.curseforge.com/minecraft/mc-mods/starter-kit
 
 =========
+v8.0: Fixed LAN worlds not giving starter kits correctly.
+Fixed existing equipment slots not being kept correctly.
+Improved compatibility with modded startup screens, such as Origins.
+Fixed an incorrect config description.
+Fixed the kit selection screen buttons sometimes not being clickable.
+
+=========
 v7.6: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

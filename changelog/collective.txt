@@ -3,6 +3,18 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.22: Fixed the possibility of a nullpointer exception with Villager Names.
+
+=========
+v8.21: Added extra functions related to MerchantOffers.
+
+=========
+v8.20: Updated PlayerFunctions to fix some respawn related issues.
+
+=========
+v8.18-8.19: (Forge) Fixed the network handler sending some packets twice.
+
+=========
 v8.17: Added an optional async update checker for dependent mods.
 Prints e.g. "[Update] Collective has an update available: 8.0 -> 8.13" to the console.
 Will ignore output completely if the server goes down.

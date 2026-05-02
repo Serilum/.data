@@ -3,6 +3,9 @@ Infinite Trading
 https://www.curseforge.com/minecraft/mc-mods/infinite-trading
 
 =========
+v5.0: Complete overhaul of Infinite Trading mechanics to fix various bugs.
+
+=========
 v4.6: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

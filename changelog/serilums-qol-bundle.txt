@@ -3,6 +3,12 @@ Serilum's QoL Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-qol-bundle
 
 =========
+v2.6: Cycle Paintings: v4.1 -> v4.2
+
+=========
+v2.5: Cycle Paintings: v4.1 -> v4.2
+
+=========
 v2.4: Stack Refill: v4.7 -> v4.9
 
 =========

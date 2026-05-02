@@ -3,6 +3,9 @@ Campfire Spawn and Tweaks
 https://curseforge.com/minecraft/mc-mods/campfire-spawn-and-tweaks
 
 =========
+v4.2: (26.1.2 NeoForge) Updated to work with NeoForge version 26.1.2.21-beta and above.
+
+=========
 v4.1: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

@@ -3,6 +3,9 @@ Ore Discovery Broadcast
 https://curseforge.com/minecraft/mc-mods/ore-discovery-broadcast
 
 =========
+v2.4: (26.1.2 NeoForge) Updated to work with NeoForge version 26.1.2.21-beta and above.
+
+=========
 v2.3: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

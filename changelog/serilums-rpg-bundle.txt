@@ -3,6 +3,12 @@ Serilum's RPG Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-rpg-bundle
 
 =========
+v2.8: Villager Names: v8.3 -> v8.4
+
+=========
+v2.7: Villager Names: v8.2 -> v8.4
+
+=========
 v2.6: Double Doors: v7.1 -> v7.2
 Random Village Names: v3.8 -> v4.0
 

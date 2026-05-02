@@ -3,6 +3,11 @@ Cycle Paintings
 https://www.curseforge.com/minecraft/mc-mods/cycle-paintings
 
 =========
+v4.2: Fixed some Fast Paintings moving a block after a cycle.
+Fixed the mod not loading correctly after leaving and joining a world.
+Fixed a possible NullPointerException with modded paintings.
+
+=========
 v4.1: Improved compatibility with Fast Paintings.
 
 =========
