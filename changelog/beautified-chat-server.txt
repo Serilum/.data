@@ -3,6 +3,10 @@ Beautified Chat Server
 https://curseforge.com/minecraft/mc-mods/beautified-chat-server
 
 =========
+v3.2: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
+For more information see https://serilum.com/translations.
+
+=========
 v3.1: (Forge/Neo) Fixed messages being shown twice in the server console.
 
 =========

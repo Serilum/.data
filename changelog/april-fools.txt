@@ -3,6 +3,10 @@ April Fools
 https://curseforge.com/minecraft/mc-mods/april-fools
 
 =========
+v2.0: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
+For more information see https://serilum.com/translations.
+
+=========
 v1.9: (26.1.2 NeoForge) Updated to work with NeoForge version 26.1.2.21-beta and above.
 
 =========

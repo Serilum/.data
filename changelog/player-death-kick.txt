@@ -3,6 +3,10 @@ Player Death Kick
 https://www.curseforge.com/minecraft/mc-mods/player-death-kick
 
 =========
+v3.5: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
+For more information see https://serilum.com/translations.
+
+=========
 v3.4: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

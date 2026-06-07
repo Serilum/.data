@@ -3,6 +3,10 @@ Configurable Extra Mob Drops
 https://curseforge.com/minecraft/mc-mods/configurable-extra-mob-drops
 
 =========
+v3.7: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
+For more information see https://serilum.com/translations.
+
+=========
 v3.6: (1.21) Fixed drop chance not being parsed correctly.
 
 =========

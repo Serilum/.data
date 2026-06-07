@@ -3,6 +3,10 @@ Starter Kit
 https://www.curseforge.com/minecraft/mc-mods/starter-kit
 
 =========
+v8.1: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
+For more information see https://serilum.com/translations.
+
+=========
 v8.0: Fixed LAN worlds not giving starter kits correctly.
 Fixed existing equipment slots not being kept correctly.
 Improved compatibility with modded startup screens, such as Origins.

@@ -3,6 +3,10 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.25: Added missing Screenshot Compression lang key.
+Fixed update checker showing e.g. 1.2 -> 1.1.
+
+=========
 v8.24: Further extended MessageFunctions in preparation for dependent mod translations.
 
 =========

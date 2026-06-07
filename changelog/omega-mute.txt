@@ -3,6 +3,10 @@ Omega Mute
 https://www.curseforge.com/minecraft/mc-mods/omega-mute
 
 =========
+v4.5: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
+For more information see https://serilum.com/translations.
+
+=========
 v4.4: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

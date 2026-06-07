@@ -3,6 +3,10 @@ Villager Death Messages
 https://www.curseforge.com/minecraft/mc-mods/villager-death-messages
 
 =========
+v3.9: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
+For more information see https://serilum.com/translations.
+
+=========
 v3.8: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
 
 =========

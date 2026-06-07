@@ -3,6 +3,10 @@ Villager Names
 https://www.curseforge.com/minecraft/mc-mods/villager-names
 
 =========
+v8.5: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
+For more information see https://serilum.com/translations.
+
+=========
 v8.4: Fixed the Wandering Trader's name in the GUI being incorrect.
 Fixed modded professions not being displayed correctly.
 Fixed the custom name list not being parsed correctly with Unix-type line endings.
