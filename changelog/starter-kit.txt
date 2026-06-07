@@ -124,7 +124,7 @@ This improves compatibility with other mods.
 
 =========
 v5.1: Fixed the addExistingItemsAfterKitSet config option not working correctly with some items.
-Added support for ง (section sign) in books to colour text.
+Added support for ยง (section sign) in books to colour text.
 
 =========
 v5.0: A big backend update!

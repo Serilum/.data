@@ -59,7 +59,7 @@ v1.9: (Forge 1.18.1 only) Fixed mod not initializing correctly due to missing fi
 v1.8: Fixed mobs with the Misc category not being shown in the mob drop list. Specifically Iron/Snow Golems and Villagers.
 
 =========
-v1.7: The mod now correctly parses all characters in item names, like ¢.
+v1.7: The mod now correctly parses all characters in item names, like Â¢.
 
 =========
 v1.6: Updated source code to work with the official Mojang mappings, in preparation for 1.17 and future mod updates. Does not contain any in-game changes.

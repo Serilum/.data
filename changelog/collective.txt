@@ -3,6 +3,16 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.24: Further extended MessageFunctions in preparation for dependent mod translations.
+
+=========
+v8.23: Adds translations to the Serilum mod collection! Dependent mods will be updated soon.
+If the in-game language is set to something other than English, Collective downloads the specific lang file from https://github.com/Serilum/.translations
+This can be turned off via the 'downloadNonEnglishTranslations' config.
+If you'd like to contribute translations, please visit https://serilum.com/translations
+It's been on the todo list for a while. Hope this is useful for those of you that are not using English, thanks for giving the mod collection a try!
+
+=========
 v8.22: Fixed the possibility of a nullpointer exception with Villager Names.
 
 =========
@@ -259,9 +269,9 @@ This is a false positive. Microsoft has fixed this in their latest Defender upda
 
 This can be done via Windows Update, or alternatively via these steps:
 1. Open command prompt as administrator.
-2. Run the following, without the �-quotes: 
+2. Run the following, without the “-quotes: 
 
-�cd C:\Program Files\Windows Defender && MpCmdRun.exe -removedefinitions -dynamicsignatures && MpCmdRun.exe -SignatureUpdate�
+“cd C:\Program Files\Windows Defender && MpCmdRun.exe -removedefinitions -dynamicsignatures && MpCmdRun.exe -SignatureUpdate”
 
 That's it! I wish I could do more. I can assure you there is nothing wrong with the mod. Hopefully in a few days Defender will be updated automatically for everyone.
 
@@ -1090,7 +1100,7 @@ v1.38: Synced Collective version for all Minecraft versions.
 Improved mod compatibility by catching a rare exception on world load.
 
 =========
-v1.37: [1.16.2 only] Fixes ClassCastException when generating a world.
+v1.37: [1.16.2 only] FixesÂ ClassCastException when generating a world.
 
 =========
 v1.36: [1.16.2 only] Updated collective library to Minecraft version 1.16.2.
@@ -1115,7 +1125,7 @@ v1.31: Extended function to recursively count the amount of blocks placed next t
 v1.30: Added function to recursively count the amount of blocks placed next to each other.
 
 =========
-v1.29: Added getAllTileEntityPositionsNearbyEntity function, used in Named Areas.
+v1.29: AddedÂ getAllTileEntityPositionsNearbyEntity function, used in Named Areas.
 
 =========
 v1.28: Updated findSurfaceBlock function to work in the nether.
@@ -1152,7 +1162,7 @@ v1.20: Fixed RuntimeException from use of Villager Names.
 
 =========
 v1.19: Fixed Block function returning wrong value.
-Fixed NoClassDefFoundError caused by mods without entitymodels when getting an entity string.
+FixedÂ NoClassDefFoundError caused by mods without entitymodels when getting an entity string.
 
 =========
 v1.18: Updated BlockPos function.
