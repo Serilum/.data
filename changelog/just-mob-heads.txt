@@ -3,6 +3,12 @@ Just Mob Heads
 https://www.curseforge.com/minecraft/mc-mods/just-mob-heads
 
 =========
+v9.3: (actually) Fixed translations when only installed on the server for all versions.
+
+=========
+v9.2: Fixed translations when only installed on the server.
+
+=========
 v9.1: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
 For more information see https://serilum.com/translations.
 

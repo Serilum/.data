@@ -3,6 +3,12 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.26-8.27: Added extra config options and functionality to fix translations when Collective is only installed on the server.
+The default option is that it sends all text in the server's language. This means no prompt at all for users.
+Another option is that users can download the translation files as a resource pack when they join the server. This does prompt, but only when optionally enabled.
+See the config list on the project page for more information!
+
+=========
 v8.25: Added missing Screenshot Compression lang key.
 Fixed update checker showing e.g. 1.2 -> 1.1.
 

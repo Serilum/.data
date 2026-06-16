@@ -3,6 +3,9 @@ Entity Information
 https://www.curseforge.com/minecraft/mc-mods/entity-information
 
 =========
+v3.9: Fixed translations not working when the mod was only installed on the server.
+
+=========
 v3.8: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
 For more information see https://serilum.com/translations.
 
