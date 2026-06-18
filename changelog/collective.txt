@@ -3,6 +3,17 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.30: (26.2) Fixed incorrect extractRenderState mixin pointed at Hud.
+
+=========
+v8.29: Update MessageFunctions to safely allow a null colour.
+Added ColourFunctions.
+
+=========
+v8.28: Added a thread pool and url encoding to the update checker.
+If you're interested in the server-side code of it, please visit https://github.com/Serilum/.update-checker.
+
+=========
 v8.26-8.27: Added extra config options and functionality to fix translations when Collective is only installed on the server.
 The default option is that it sends all text in the server's language. This means no prompt at all for users.
 Another option is that users can download the translation files as a resource pack when they join the server. This does prompt, but only when optionally enabled.

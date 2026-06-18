@@ -3,6 +3,9 @@ Just Mob Heads
 https://www.curseforge.com/minecraft/mc-mods/just-mob-heads
 
 =========
+v9.4: Updated to Minecraft version 26.2, added the Sulfur Cube head!
+
+=========
 v9.3: (actually) Fixed translations when only installed on the server for all versions.
 
 =========
