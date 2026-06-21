@@ -3,6 +3,15 @@ Serilum's Customization Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-customization-bundle
 
 =========
+v2.8: Configurable Despawn Timer: v4.4 -> v4.5
+Configurable Extra Mob Drops: v3.6 -> v3.7
+Configurable Mob Potion Effects: v3.7 -> v3.9
+Custom Credits: v1.7 -> v1.9
+Save and Load Inventories: v3.5 -> v3.6
+Starter Kit: v8.0 -> v8.1
+Starter Structure: v4.6 -> v4.7
+
+=========
 v2.7: Starter Kit: v7.4 -> v8.0
 
 =========

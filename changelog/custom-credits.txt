@@ -3,6 +3,9 @@ Custom Credits
 https://curseforge.com/minecraft/mc-mods/custom-credits
 
 =========
+v1.9: (26.1 / 26.2) Fixed the `showMinecraftLogoInCredits` config option not working correctly.
+
+=========
 v1.8: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
 For more information see https://serilum.com/translations.
 

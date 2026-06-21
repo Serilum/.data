@@ -3,6 +3,10 @@ Breedable Killer Rabbit
 https://www.curseforge.com/minecraft/mc-mods/breedable-killer-rabbit
 
 =========
+v4.1: (26.1 / 26.2) Cleaned up some code.
+(26.1.2) Updated to work with the latest NeoForge version.
+
+=========
 v4.0: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
 For more information see https://serilum.com/translations.
 

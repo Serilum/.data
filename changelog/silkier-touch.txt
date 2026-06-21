@@ -3,6 +3,10 @@ Silkier Touch
 https://curseforge.com/minecraft/mc-mods/silkier-touch
 
 =========
+v1.3: (Fabric) Fixed players not being able to place down spawners.
+Fixed tall grass not dropping correctly.
+
+=========
 v1.2: (26.1.2 NeoForge) Updated to work with NeoForge version 26.1.2.21-beta and above.
 
 =========

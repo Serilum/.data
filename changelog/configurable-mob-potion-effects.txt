@@ -3,6 +3,10 @@ Configurable Mob Potion Effects
 https://curseforge.com/minecraft/mc-mods/configurable-mob-potion-effects
 
 =========
+v3.9: (26.1 / 26.2) Cleaned up some code.
+(26.1.2) Updated to work with the latest NeoForge version.
+
+=========
 v3.8: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
 For more information see https://serilum.com/translations.
 

@@ -3,6 +3,13 @@ Serilum's QoL Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-qol-bundle
 
 =========
+v2.7: Compact Help Command: v2.8 -> v2.9
+Enchanting Commands: v3.5 -> v3.6
+Quick Paths: v3.8 -> v3.9
+Quick Right-Click: v1.8 -> v1.9
+Sleep Sooner: v4.9 -> v5.0
+
+=========
 v2.5-2.6: Cycle Paintings: v4.1 -> v4.2
 
 =========

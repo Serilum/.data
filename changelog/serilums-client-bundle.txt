@@ -3,6 +3,9 @@ Serilum's Client Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-client-bundle
 
 =========
+v2.4: Omega Mute: v4.4 -> v4.5
+
+=========
 v2.3: Full Brightness Toggle: v4.3 -> v4.4
 GUI Followers: v4.0 -> v4.1
 Vanilla Zoom: v2.8 -> v2.9

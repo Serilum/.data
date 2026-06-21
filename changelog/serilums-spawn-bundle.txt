@@ -3,6 +3,9 @@ Serilum's Spawn Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-spawn-bundle
 
 =========
+v2.3: Updated bundle.
+
+=========
 v2.2: Fixed an incorrect version.
 
 =========

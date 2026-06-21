@@ -3,4 +3,7 @@ GUI Effect Timer
 https://curseforge.com/minecraft/mc-mods/gui-effect-timer
 
 =========
+v1.1: Fixed the timers not showing up correctly due to an incorrect mixin reference.
+
+=========
 v1.0: Initial release of GUI Effect Timer.

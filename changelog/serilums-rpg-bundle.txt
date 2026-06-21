@@ -3,6 +3,18 @@ Serilum's RPG Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-rpg-bundle
 
 =========
+v2.9: Areas: v6.2 -> v6.3
+Campfire Spawn and Tweaks: v4.2 -> v4.3
+Dragon Drops Elytra: v3.5 -> v3.6
+End Portal Recipe: v5.7 -> v5.8
+Grindstone Sharper Tools: v4.1 -> v4.2
+Just Mob Heads: v9.0 -> v9.3
+Just Player Heads: v4.3 -> v4.4
+Piglin Names: v1.3 -> v1.4
+Pumpkillager's Quest: v5.1 -> v5.3
+Villager Names: v8.4 -> v8.5
+
+=========
 v2.8: Villager Names: v8.3 -> v8.4
 
 =========

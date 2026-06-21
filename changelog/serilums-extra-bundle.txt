@@ -3,6 +3,13 @@ Serilum's Extra Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-extra-bundle
 
 =========
+v2.7: April Fools: v1.9 -> v2.0
+Death Backup: v3.5 -> v3.6
+Hand Over Your Items: v3.7 -> v3.8
+Name Tag Tweaks: v4.0 -> v4.1
+Villager Death Messages: v3.8 -> v3.9
+
+=========
 v2.6: Infinite Trading: v4.6 -> v5.0
 
 =========
