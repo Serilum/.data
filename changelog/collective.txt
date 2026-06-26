@@ -3,6 +3,13 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.32: Add translations for the Brand New Day mod.
+
+=========
+v8.31: Added 'updateMinecraftWindowTitleInDevMode' config, disabled by default and only when ran from an IDE.
+Puts "Dev mode" in the Minecraft screen title. Used in my local development flow.
+
+=========
 v8.30: (26.2) Fixed incorrect extractRenderState mixin pointed at Hud.
 
 =========

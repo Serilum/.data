@@ -1,0 +1,6 @@
+Changelog:
+Brand New Day
+https://curseforge.com/minecraft/mc-mods/brand-new-day
+
+=========
+v1.0: Initial release of Brand New Day.
