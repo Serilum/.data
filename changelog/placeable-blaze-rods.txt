@@ -3,6 +3,9 @@ Placeable Blaze Rods
 https://www.curseforge.com/minecraft/mc-mods/placeable-blaze-rods
 
 =========
+v4.1: (Forge) Fixed placing down blaze rods.
+
+=========
 v4.0: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
 
 =========

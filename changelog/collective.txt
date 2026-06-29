@@ -3,6 +3,18 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.39: Updated MessageFunctions to better handle client-only messages.
+
+=========
+v8.38: Fixed a potential memory leak on the client with one of the campfire mods installed.
+Updated translations for Seaworthy Boats.
+
+=========
+v8.33-8.37: Added a custom entity data system that can be used in all mod loaders and Minecraft versions.
+Added translations for the Seaworthy Boats mod.
+(Forge 26.2) Fixed components rendered in the HUD not being visible.
+
+=========
 v8.32: Add translations for the Brand New Day mod.
 
 =========

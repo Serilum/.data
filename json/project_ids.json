@@ -599,6 +599,10 @@
 		"fabric" : -1,
 		"forge" : 1203163
 	},
+	"Seaworthy Boats" : {
+		"fabric" : -1,
+		"forge" : 1592014
+	},
 	"Set World Spawn Point" : {
 		"fabric" : 528270,
 		"forge" : 366916

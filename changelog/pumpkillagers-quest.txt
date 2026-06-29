@@ -3,6 +3,9 @@ Pumpkillager's Quest
 https://curseforge.com/minecraft/mc-mods/pumpkillagers-quest
 
 =========
+v5.4: (Forge) Fixed not being able to accept the book from the Pumpkillager.
+
+=========
 v5.3: Fixed translations not working when the mod was only installed on the server.
 
 =========

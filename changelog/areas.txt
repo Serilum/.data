@@ -3,6 +3,9 @@ Areas
 https://www.curseforge.com/minecraft/mc-mods/areas
 
 =========
+v6.4: Updated Areas to work with Collective's BlockEntity caching, which will improve client performance a lot.
+
+=========
 v6.3: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
 For more information see https://serilum.com/translations.
 
