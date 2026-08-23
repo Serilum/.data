@@ -3,6 +3,9 @@ Adventure Mode Tweaks
 https://curseforge.com/minecraft/mc-mods/adventure-mode-tweaks
 
 =========
+v1.4: (26.2) Updated the mod to work with the latest changes in NeoForge version 26.2.0.43+.
+
+=========
 v1.3: (26.1) Actually fixed all incorrect mixin references this time.
 
 =========

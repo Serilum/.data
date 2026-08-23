@@ -3,6 +3,9 @@ Hand Over Your Items
 https://curseforge.com/minecraft/mc-mods/hand-over-your-items
 
 =========
+v3.9: (26.2) Updated the mod to work with the latest changes in NeoForge version 26.2.0.43+.
+
+=========
 v3.8: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
 For more information see https://serilum.com/translations.
 

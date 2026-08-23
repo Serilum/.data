@@ -3,6 +3,9 @@ Breedable Killer Rabbit
 https://www.curseforge.com/minecraft/mc-mods/breedable-killer-rabbit
 
 =========
+v4.2: (26.2) Updated the mod to work with the latest changes in NeoForge version 26.2.0.43+.
+
+=========
 v4.1: (26.1 / 26.2) Cleaned up some code.
 (26.1.2) Updated to work with the latest NeoForge version.
 

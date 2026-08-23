@@ -3,6 +3,9 @@ Pumpkillager's Quest
 https://curseforge.com/minecraft/mc-mods/pumpkillagers-quest
 
 =========
+v5.5: (26.2) Updated the mod to work with the latest changes in NeoForge version 26.2.0.43+.
+
+=========
 v5.4: (Forge) Fixed not being able to accept the book from the Pumpkillager.
 
 =========

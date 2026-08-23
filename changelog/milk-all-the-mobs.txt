@@ -3,6 +3,9 @@ Milk All The Mobs
 https://www.curseforge.com/minecraft/mc-mods/milk-all-the-mobs
 
 =========
+v3.5: (26.2) Updated the mod to work with the latest changes in NeoForge version 26.2.0.43+.
+
+=========
 v3.4: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

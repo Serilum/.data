@@ -3,6 +3,9 @@ Move Minecarts
 https://www.curseforge.com/minecraft/mc-mods/move-minecarts
 
 =========
+v3.9: (26.2) Updated the mod to work with the latest changes in NeoForge version 26.2.0.43+.
+
+=========
 v3.8: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========
