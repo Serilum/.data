@@ -3,6 +3,9 @@ Natural Charcoal
 https://curseforge.com/minecraft/mc-mods/natural-charcoal
 
 =========
+v1.2: (NeoForge) Fixed charcoal not dropping correctly.
+
+=========
 v1.1: Fixed incorrect version reference.
 
 =========

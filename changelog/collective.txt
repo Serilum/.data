@@ -3,6 +3,9 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.40: Normalized the indentation of all Collective source files to tabs, no functional changes.
+
+=========
 v8.39: Updated MessageFunctions to better handle client-only messages.
 
 =========

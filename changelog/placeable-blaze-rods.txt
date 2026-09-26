@@ -3,6 +3,10 @@ Placeable Blaze Rods
 https://www.curseforge.com/minecraft/mc-mods/placeable-blaze-rods
 
 =========
+v4.2: Fixed blaze rods being placed when held while opening chests.
+(26.2+) Fixed blaze rods not being picked up correctly.
+
+=========
 v4.1: (Forge) Fixed placing down blaze rods.
 
 =========
