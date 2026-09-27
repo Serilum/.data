@@ -3,6 +3,9 @@ Hidden Recipe Book
 https://curseforge.com/minecraft/mc-mods/hidden-recipe-book
 
 =========
+v5.2: Changed the mod's keybinding code to use InputConstants.
+
+=========
 v5.1: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

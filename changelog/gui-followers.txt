@@ -3,6 +3,9 @@ GUI Followers
 https://curseforge.com/minecraft/mc-mods/gui-followers
 
 =========
+v4.4: Changed the mod's keybinding code to use InputConstants.
+
+=========
 v4.3: (26.1) Moved Minecraft.getInstance() to inside the player tick function to prevent loading order issues.
 
 =========

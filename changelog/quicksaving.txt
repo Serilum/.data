@@ -3,6 +3,9 @@ Quicksaving
 https://curseforge.com/minecraft/mc-mods/quicksaving
 
 =========
+v1.9: Changed the mod's keybinding code to use InputConstants.
+
+=========
 v1.8: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
 For more information see https://serilum.com/translations.
 

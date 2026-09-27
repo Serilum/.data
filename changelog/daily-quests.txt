@@ -3,6 +3,9 @@ Daily Quests
 https://curseforge.com/minecraft/mc-mods/daily-quests
 
 =========
+v3.0: Changed the mod's keybinding code to use InputConstants.
+
+=========
 v2.9: Fixed an incorrect mixin reference.
 
 =========

@@ -3,6 +3,9 @@ Vanilla Zoom
 https://curseforge.com/minecraft/mc-mods/vanilla-zoom
 
 =========
+v3.2: Changed the mod's keybinding code to use InputConstants.
+
+=========
 v3.1: (26.2) Updated the mod to work with the latest changes in NeoForge version 26.2.0.43+.
 
 =========
