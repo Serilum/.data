@@ -3,4 +3,9 @@ Seaworthy Boats
 https://curseforge.com/minecraft/mc-mods/seaworthy-boats
 
 =========
+v1.1: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v1.0: Initial release of Seaworthy Boats.

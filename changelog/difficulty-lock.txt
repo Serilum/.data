@@ -3,6 +3,11 @@ Difficulty Lock
 https://www.curseforge.com/minecraft/mc-mods/difficulty-lock
 
 =========
+v5.0: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v4.9: (26.1) Fixed the mod not loading correctly.
 
 =========

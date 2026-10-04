@@ -3,6 +3,11 @@ Quicksaving
 https://curseforge.com/minecraft/mc-mods/quicksaving
 
 =========
+v2.0: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v1.9: Changed the mod's keybinding code to use InputConstants.
 
 =========

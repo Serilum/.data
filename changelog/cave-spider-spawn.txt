@@ -3,6 +3,11 @@ Cave Spider Spawn
 https://curseforge.com/minecraft/mc-mods/cave-spider-spawn
 
 =========
+v1.3: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v1.2: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 

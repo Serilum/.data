@@ -3,6 +3,11 @@ Respawn Delay
 https://www.curseforge.com/minecraft/mc-mods/respawn-delay
 
 =========
+v5.1: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v5.0: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
 For more information see https://serilum.com/translations.
 

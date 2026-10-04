@@ -3,6 +3,11 @@ Just Mob Heads
 https://www.curseforge.com/minecraft/mc-mods/just-mob-heads
 
 =========
+v9.5: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v9.4: Updated to Minecraft version 26.2, added the Sulfur Cube head!
 
 =========

@@ -3,6 +3,11 @@ Random Village Names
 https://curseforge.com/minecraft/mc-mods/random-village-names
 
 =========
+v4.3: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v4.2: (26.1.1/2) Fixed Areas version reference.
 
 =========

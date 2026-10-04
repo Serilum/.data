@@ -3,6 +3,11 @@ Infinite Trading
 https://www.curseforge.com/minecraft/mc-mods/infinite-trading
 
 =========
+v5.1: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v5.0: Complete overhaul of Infinite Trading mechanics to fix various bugs.
 
 =========

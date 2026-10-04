@@ -3,6 +3,34 @@ Tree Harvester
 https://www.curseforge.com/minecraft/mc-mods/tree-harvester
 
 =========
+v10.0: Lots of bug fixes and improvements for version 10.0! See below.
+
+Fixed log houses and other builds being chopped down when standing next to grass or flowers.
+Fixed stone pillars like deepslate and basalt being seen as tree logs, which could crash the game near mineshafts.
+Fixed a server freeze/crash when harvesting huge trees or forests with connected logs.
+Fixed tree harvesting being able to be cheated by toggling sneak while breaking a log.
+Fixed trees sometimes being harvested without sneaking, or not at all while sneaking.
+Fixed logs reappearing and the tree only falling seconds later in multiplayer.
+The server's harvest settings are now sent to players, so a changed harvest speed or sneak config works correctly in multiplayer.
+Fixed felled logs not dropping with mods or datapacks that require an axe to drop logs.
+Fixed the 'automaticallyFindBottomBlock' config option still felling the logs below when disabled.
+Fixed the 'enableFastLeafDecay' config option not doing anything.
+Fixed the 'replaceMushroomOnMushroomHarvest' config option not doing anything.
+Fixed player-placed leaves near a tree being broken by the fast leaf decay.
+Fixed saplings not being replanted on mud.
+Fixed the wrong sapling type being replanted, like dark oak saplings on a spruce tree.
+Fixed modded tools like Tinkers' Construct axes being deleted when they ran out of durability during a harvest.
+Added the 'preventAxeBreakingOnTreeHarvest' config option. A harvest no longer breaks the axe, it stops at 1 durability and can't fell trees until repaired.
+Added the 'maxAmountOfLogsBrokenPerHarvest' config option to limit how many logs one harvest breaks.
+Leaves cleared after a harvest now drop as if broken with the axe, so a silk touch axe gives leaf blocks.
+Axes from newly installed mods are now added to the axe blacklist file.
+
+=========
+v9.5: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v9.4: (26.1.2 NeoForge) Updated to work with NeoForge version 26.1.2.21-beta and above.
 
 =========

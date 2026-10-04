@@ -3,6 +3,11 @@ Alternative World Save Location (Fabric)
 https://curseforge.com/minecraft/mc-mods/alternative-world-save-location
 
 =========
+v3.8: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v3.7: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

@@ -3,6 +3,11 @@ Shadow Mounts
 https://curseforge.com/minecraft/mc-mods/shadow-mounts
 
 =========
+v1.5: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v1.4: (26.1) Fixed the shadow saddle item being created while the entity type registery was frozen.
 
 =========

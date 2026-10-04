@@ -3,6 +3,11 @@ Hide Hands
 https://www.curseforge.com/minecraft/mc-mods/hide-hands
 
 =========
+v4.7: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v4.6: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

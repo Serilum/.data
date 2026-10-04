@@ -3,6 +3,11 @@ First Join Message
 https://www.curseforge.com/minecraft/mc-mods/first-join-message
 
 =========
+v3.9: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v3.8: Fixed %s not being replaced with the player name correctly.
 
 =========

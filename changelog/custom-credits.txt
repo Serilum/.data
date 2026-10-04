@@ -3,6 +3,11 @@ Custom Credits
 https://curseforge.com/minecraft/mc-mods/custom-credits
 
 =========
+v2.0: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v1.9: (26.1 / 26.2) Fixed the `showMinecraftLogoInCredits` config option not working correctly.
 
 =========

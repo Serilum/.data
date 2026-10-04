@@ -3,6 +3,11 @@ Faster Crouching
 https://curseforge.com/minecraft/mc-mods/faster-crouching
 
 =========
+v2.8: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v2.7: (1.21.4) Fixed a mixin target error.
 
 =========

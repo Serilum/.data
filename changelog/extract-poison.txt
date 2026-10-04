@@ -3,6 +3,11 @@ Extract Poison
 https://www.curseforge.com/minecraft/mc-mods/extract-poison
 
 =========
+v3.7: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v3.6: (26.2) Updated the mod to work with the latest changes in NeoForge version 26.2.0.43+.
 
 =========

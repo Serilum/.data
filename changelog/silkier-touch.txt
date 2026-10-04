@@ -3,6 +3,11 @@ Silkier Touch
 https://curseforge.com/minecraft/mc-mods/silkier-touch
 
 =========
+v1.4: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v1.3: (Fabric) Fixed players not being able to place down spawners.
 Fixed tall grass not dropping correctly.
 

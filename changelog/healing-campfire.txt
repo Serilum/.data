@@ -3,6 +3,11 @@ Healing Campfire
 https://www.curseforge.com/minecraft/mc-mods/healing-campfire
 
 =========
+v6.4: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v6.3: Updated the mod to work with the latest Collective update regarding block entities.
 
 =========

@@ -3,6 +3,11 @@ Zombie Horse Spawn
 https://www.curseforge.com/minecraft/mc-mods/zombie-horse-spawn
 
 =========
+v5.3: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v5.2: (Forge & Neo) Removed redundant event register annotations.
 Fixes events loading when they shouldn't.
 

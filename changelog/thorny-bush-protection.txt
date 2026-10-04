@@ -3,6 +3,11 @@ Thorny Bush Protection
 https://curseforge.com/minecraft/mc-mods/thorny-bush-protection
 
 =========
+v1.7: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v1.6: (1.21.10) Fixed an incorrect mixin reference.
 
 =========

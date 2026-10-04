@@ -3,6 +3,12 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.42: (Forge) Fixed the experimental settings warning still showing when loading a world with Hide Experimental Warning installed.
+
+=========
+v8.41: Updated Collective's mod information in the mods.toml and fabric.mod.json files.
+
+=========
 v8.40: Normalized the indentation of all Collective source files to tabs, no functional changes.
 
 =========

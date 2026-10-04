@@ -3,6 +3,11 @@ Starter Structure
 https://curseforge.com/minecraft/mc-mods/starter-structure
 
 =========
+v4.8: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v4.7: (26.1 / 26.2) Moved the ServerPlayer attack mixin to Player.
 
 =========

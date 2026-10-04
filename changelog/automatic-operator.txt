@@ -3,6 +3,11 @@ Automatic Operator
 https://curseforge.com/minecraft/mc-mods/automatic-operator
 
 =========
+v1.6: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v1.5: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

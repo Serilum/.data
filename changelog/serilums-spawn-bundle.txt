@@ -3,6 +3,34 @@ Serilum's Spawn Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-spawn-bundle
 
 =========
+v2.5: Bogged Spawn: v1.1 -> v1.2
+Breeze Spawn: v1.1 -> v1.2
+Cave Spider Spawn: v1.2 -> v1.3
+Giant Spawn: v5.3 -> v5.4
+Husk Spawn: v3.6 -> v3.7
+Mooshroom Spawn: v3.6 -> v3.7
+Mooshroom Tweaks: v3.6 -> v3.7
+More Zombie Villagers: v3.6 -> v3.7
+Skeleton Horse Spawn: v4.1 -> v4.2
+Stray Spawn: v3.7 -> v3.8
+Zombie Horse Spawn: v5.2 -> v5.3
+Zombie Villagers From Spawner: v3.9 -> v4.0
+
+=========
+v2.4: Bogged Spawn: v1.1 -> v1.2
+Breeze Spawn: v1.1 -> v1.2
+Cave Spider Spawn: v1.2 -> v1.3
+Giant Spawn: v5.3 -> v5.4
+Husk Spawn: v3.6 -> v3.7
+Mooshroom Spawn: v3.6 -> v3.7
+Mooshroom Tweaks: v3.6 -> v3.7
+More Zombie Villagers: v3.6 -> v3.7
+Skeleton Horse Spawn: v4.1 -> v4.2
+Stray Spawn: v3.7 -> v3.8
+Zombie Horse Spawn: v5.2 -> v5.3
+Zombie Villagers From Spawner: v3.9 -> v4.0
+
+=========
 v2.3: Updated bundle.
 
 =========

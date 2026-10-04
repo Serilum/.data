@@ -3,6 +3,14 @@ All Loot Drops
 https://www.curseforge.com/minecraft/mc-mods/all-loot-drops
 
 =========
+v3.8: Removed a leftover old issue link shown when the drops didn't generate.
+
+=========
+v3.7: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v3.6: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

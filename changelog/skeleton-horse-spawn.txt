@@ -3,6 +3,11 @@ Skeleton Horse Spawn
 https://www.curseforge.com/minecraft/mc-mods/skeleton-horse-spawn
 
 =========
+v4.2: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v4.1: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

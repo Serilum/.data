@@ -3,6 +3,11 @@ Humbling Bundle
 https://www.curseforge.com/minecraft/mc-mods/humbling-bundle
 
 =========
+v2.4-2.5: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v2.3: Improved mod icon compression, which lowers the jar file size.
 Updated mod URLs to the new GitHub location.
 (NeoForge) Updated to the new changes: Added 'type=' to mods.toml, and moved the modEventBus field.

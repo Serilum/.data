@@ -3,6 +3,11 @@ Compact Help Command
 https://curseforge.com/minecraft/mc-mods/compact-help-command
 
 =========
+v3.0: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v2.9: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
 For more information see https://serilum.com/translations.
 

@@ -3,6 +3,11 @@ Replanting Crops
 https://www.curseforge.com/minecraft/mc-mods/replanting-crops
 
 =========
+v5.7: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v5.6: (26.1.2 NeoForge) Updated to work with NeoForge version 26.1.2.21-beta and above.
 
 =========

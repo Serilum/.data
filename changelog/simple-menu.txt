@@ -3,6 +3,11 @@ Simple Menu
 https://curseforge.com/minecraft/mc-mods/simple-menu
 
 =========
+v2.3: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v2.2: (26.2) Fixed the background not being replaced correctly.
 
 =========

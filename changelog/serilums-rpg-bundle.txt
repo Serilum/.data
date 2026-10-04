@@ -3,6 +3,80 @@ Serilum's RPG Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-rpg-bundle
 
 =========
+v3.1: Anvil Restoration: v2.5 -> v2.6
+Areas: v6.3 -> v6.5
+Bareback Horse Riding: v2.4 -> v2.5
+Bottle Your Xp: v3.5 -> v3.6
+Campfire Spawn and Tweaks: v4.3 -> v4.4
+Despawning Eggs Hatch: v4.5 -> v4.6
+Double Doors: v7.2 -> v7.3
+Dragon Drops Elytra: v3.6 -> v3.7
+End Portal Recipe: v5.8 -> v5.9
+Eroding Stone Entities: v4.7 -> v4.8
+Fish On The Line: v3.5 -> v3.6
+Flower Mimics: v2.2 -> v2.3
+Grabby Mobs: v1.7 -> v1.8
+Grindstone Sharper Tools: v4.2 -> v4.3
+Healing Campfire: v6.2 -> v6.4
+Ice Prevents Crop Growth: v3.6 -> v3.7
+Just Mob Heads: v9.4 -> v9.5
+Just Player Heads: v4.4 -> v4.5
+Mineral Chance: v3.9 -> v4.0
+Naturally Charged Creepers: v3.6 -> v3.7
+Nether Portal Spread: v8.4 -> v8.5
+No Hostiles Around Campfire: v7.3 -> v7.6
+Overworld Piglins: v1.6 -> v1.7
+Pet Names: v3.5 -> v3.6
+Piglin Names: v1.4 -> v1.5
+Pumpkillager's Quest: v5.3 -> v5.6
+Rain Be Gone Ritual: v3.7 -> v3.8
+Random Village Names: v4.2 -> v4.3
+Realistic Bees: v4.3 -> v4.4
+Smaller Nether Portals: v4.0 -> v4.1
+Snowballs Freeze Mobs: v4.0 -> v4.1
+Spiders Produce Webs: v3.7 -> v3.8
+Villager Names: v8.5 -> v8.7
+Village Spawn Point: v4.7 -> v4.8
+Weaker Spiderwebs: v3.9 -> v4.0
+
+=========
+v3.0: Anvil Restoration: v2.4 -> v2.6
+Areas: v6.3 -> v6.5
+Bareback Horse Riding: v2.3 -> v2.5
+Bottle Your Xp: v3.5 -> v3.6
+Campfire Spawn and Tweaks: v4.3 -> v4.4
+Despawning Eggs Hatch: v4.5 -> v4.6
+Double Doors: v7.2 -> v7.3
+Dragon Drops Elytra: v3.6 -> v3.7
+End Portal Recipe: v5.8 -> v5.9
+Eroding Stone Entities: v4.7 -> v4.8
+Fish On The Line: v3.5 -> v3.6
+Flower Mimics: v2.1 -> v2.3
+Grabby Mobs: v1.6 -> v1.8
+Grindstone Sharper Tools: v4.2 -> v4.3
+Healing Campfire: v6.2 -> v6.4
+Ice Prevents Crop Growth: v3.5 -> v3.7
+Just Mob Heads: v9.3 -> v9.5
+Just Player Heads: v4.4 -> v4.5
+Mineral Chance: v3.8 -> v4.0
+Naturally Charged Creepers: v3.6 -> v3.7
+Nether Portal Spread: v8.4 -> v8.5
+No Hostiles Around Campfire: v7.2 -> v7.6
+Overworld Piglins: v1.5 -> v1.7
+Pet Names: v3.5 -> v3.6
+Piglin Names: v1.4 -> v1.5
+Pumpkillager's Quest: v5.3 -> v5.6
+Rain Be Gone Ritual: v3.5 -> v3.8
+Random Village Names: v4.0 -> v4.3
+Realistic Bees: v4.2 -> v4.4
+Smaller Nether Portals: v3.9 -> v4.1
+Snowballs Freeze Mobs: v3.8 -> v4.1
+Spiders Produce Webs: v3.6 -> v3.8
+Villager Names: v8.5 -> v8.7
+Village Spawn Point: v4.6 -> v4.8
+Weaker Spiderwebs: v3.8 -> v4.0
+
+=========
 v2.9: Areas: v6.2 -> v6.3
 Campfire Spawn and Tweaks: v4.2 -> v4.3
 Dragon Drops Elytra: v3.5 -> v3.6

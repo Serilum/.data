@@ -3,6 +3,95 @@ Serilum's QoL Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-qol-bundle
 
 =========
+v2.9: Always a Wither Skull: v3.6 -> v3.7
+Automatic Doors: v5.0 -> v5.1
+Better Beacon Placement: v3.6 -> v3.7
+Better Conduit Placement: v3.5 -> v3.6
+Better Spawner Control: v4.8 -> v4.9
+Bottled Air: v2.5 -> v2.6
+Compact Help Command: v2.9 -> v3.0
+Conduits Prevent Drowned: v4.0 -> v4.1
+Cycle Paintings: v4.2 -> v4.4
+Dismount Entity: v3.6 -> v3.8
+Easy Elytra Takeoff: v4.5 -> v4.6
+Enchanting Commands: v3.6 -> v3.7
+Extended Bone Meal: v3.6 -> v3.7
+Furnace Recycle: v2.6 -> v2.8
+Hoe Tweaks: v3.6 -> v3.7
+Inventory Totem: v3.4 -> v3.5
+Keep My Soil Tilled: v2.6 -> v2.7
+Kelp Fertilizer: v3.4 -> v3.5
+Move Boats: v3.6 -> v3.8
+Move Minecarts: v3.8 -> v4.0
+No Animal Tempt Delay: v1.2 -> v1.3
+No Feather Trample: v1.3 -> v1.4
+Nutritious Milk: v3.5 -> v3.6
+Ore Harvester: v1.6 -> v1.7
+Quick Paths: v3.9 -> v4.0
+Quick Right-Click: v1.9 -> v2.0
+Recast: v3.7 -> v3.8
+Replanting Crops: v5.6 -> v5.7
+Respawning Shulkers: v4.2 -> v4.3
+Scaffolding Drops Nearby: v3.5 -> v3.6
+Sleep Sooner: v5.0 -> v5.1
+Softer Hay Bales: v3.5 -> v3.6
+Stack Refill: v5.0 -> v5.1
+Sticky Enchanting Lapis: v1.5 -> v1.6
+Superflat World No Slimes: v3.6 -> v3.7
+Surface Mushrooms: v3.7 -> v3.8
+Thorny Bush Protection: v1.6 -> v1.7
+Tree Harvester: v9.4 -> v9.5
+Village Bell Recipe: v3.7 -> v3.8
+Wool Tweaks: v4.0 -> v4.1
+Your Items Are Safe: v4.7 -> v4.8
+Zombie Proof Doors: v3.5 -> v3.6
+
+=========
+v2.8: Always a Wither Skull: v3.5 -> v3.7
+Automatic Doors: v4.9 -> v5.1
+Better Beacon Placement: v3.5 -> v3.7
+Better Conduit Placement: v3.4 -> v3.6
+Better Spawner Control: v4.7 -> v4.9
+Bottled Air: v2.5 -> v2.6
+Compact Help Command: v2.9 -> v3.0
+Conduits Prevent Drowned: v3.9 -> v4.1
+Cycle Paintings: v4.2 -> v4.4
+Dismount Entity: v3.6 -> v3.8
+Easy Elytra Takeoff: v4.5 -> v4.6
+Enchanting Commands: v3.6 -> v3.7
+Extended Bone Meal: v3.6 -> v3.7
+Furnace Recycle: v2.5 -> v2.8
+Hoe Tweaks: v3.6 -> v3.7
+Inventory Totem: v3.4 -> v3.5
+Keep My Soil Tilled: v2.5 -> v2.7
+Kelp Fertilizer: v3.4 -> v3.5
+Move Boats: v3.5 -> v3.8
+Move Minecarts: v3.7 -> v4.0
+No Animal Tempt Delay: v1.2 -> v1.3
+No Feather Trample: v1.3 -> v1.4
+Nutritious Milk: v3.5 -> v3.6
+Ore Harvester: v1.5 -> v1.7
+Quick Paths: v3.9 -> v4.0
+Quick Right-Click: v1.9 -> v2.0
+Recast: v3.6 -> v3.8
+Replanting Crops: v5.5 -> v5.7
+Respawning Shulkers: v4.1 -> v4.3
+Scaffolding Drops Nearby: v3.4 -> v3.6
+Sleep Sooner: v5.0 -> v5.1
+Softer Hay Bales: v3.4 -> v3.6
+Stack Refill: v4.9 -> v5.1
+Sticky Enchanting Lapis: v1.5 -> v1.6
+Superflat World No Slimes: v3.5 -> v3.7
+Surface Mushrooms: v3.6 -> v3.8
+Thorny Bush Protection: v1.5 -> v1.7
+Tree Harvester: v9.1 -> v9.5
+Underwater Enchanting: v2.9 -> v3.0
+Village Bell Recipe: v3.6 -> v3.8
+Wool Tweaks: v3.9 -> v4.1
+Your Items Are Safe: v4.7 -> v4.8
+Zombie Proof Doors: v3.5 -> v3.6
+
+=========
 v2.7: Compact Help Command: v2.8 -> v2.9
 Enchanting Commands: v3.5 -> v3.6
 Quick Paths: v3.8 -> v3.9

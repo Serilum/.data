@@ -3,6 +3,11 @@ Natural Charcoal
 https://curseforge.com/minecraft/mc-mods/natural-charcoal
 
 =========
+v1.3: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v1.2: (NeoForge) Fixed charcoal not dropping correctly.
 
 =========

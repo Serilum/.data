@@ -3,6 +3,11 @@ Fire Spread Tweaks
 https://curseforge.com/minecraft/mc-mods/fire-spread-tweaks
 
 =========
+v2.9: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v2.8: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

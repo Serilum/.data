@@ -3,6 +3,11 @@ Kelp Fertilizer
 https://www.curseforge.com/minecraft/mc-mods/kelp-fertilizer
 
 =========
+v3.5: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v3.4: (Forge & Neo) Removed redundant event register annotations.
 - This fixes events loading when they shouldn't.
 

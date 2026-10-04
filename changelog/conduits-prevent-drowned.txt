@@ -3,6 +3,11 @@ Conduits Prevent Drowned
 https://www.curseforge.com/minecraft/mc-mods/conduits-prevent-drowned
 
 =========
+v4.1: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v4.0: (26.1 NeoForge) Fixed a wrong version dependency set in neoforge.mods.toml which prevented the mod from loading.
 
 =========

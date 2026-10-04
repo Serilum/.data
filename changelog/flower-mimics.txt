@@ -3,6 +3,11 @@ Flower Mimics
 https://curseforge.com/minecraft/mc-mods/flower-mimics
 
 =========
+v2.3: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v2.2: (26.1) Fixed the mod not loading correctly.
 
 =========

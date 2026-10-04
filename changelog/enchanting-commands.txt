@@ -3,6 +3,15 @@ Enchanting Commands
 https://www.curseforge.com/minecraft/mc-mods/enchanting-commands
 
 =========
+v3.8: Upped the maximum enchantment level to 255.
+Fixed a crash when enchanting with an already existing enchantment.
+
+=========
+v3.7: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v3.6: Updated the mod's text to use Collective's new translation system, which adds many languages alongside English!
 For more information see https://serilum.com/translations.
 

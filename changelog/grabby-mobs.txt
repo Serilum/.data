@@ -3,6 +3,11 @@ Grabby Mobs
 https://curseforge.com/minecraft/mc-mods/grabby-mobs
 
 =========
+v1.8: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v1.7: (1.21.5) Fixed an incorrect mixin reference.
 
 =========

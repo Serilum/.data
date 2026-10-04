@@ -3,6 +3,11 @@ Pumpkillager's Quest
 https://curseforge.com/minecraft/mc-mods/pumpkillagers-quest
 
 =========
+v5.6: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v5.5: (26.2) Updated the mod to work with the latest changes in NeoForge version 26.2.0.43+.
 
 =========

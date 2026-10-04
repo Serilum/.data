@@ -3,6 +3,11 @@ Bareback Horse Riding
 https://curseforge.com/minecraft/mc-mods/bareback-horse-riding
 
 =========
+v2.5: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v2.4: (1.21.9 Forge) Fixed incorrect remnant files included in the mod jar.
 
 =========

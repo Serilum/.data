@@ -3,6 +3,11 @@ World Border
 https://www.curseforge.com/minecraft/mc-mods/world-border
 
 =========
+v5.0: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v4.9: (1.21.6 Fabric) Updated callbacks to fix an incorrect reference in the bytecode.
 
 =========

@@ -3,4 +3,9 @@ Brand New Day
 https://curseforge.com/minecraft/mc-mods/brand-new-day
 
 =========
+v1.1: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v1.0: Initial release of Brand New Day.

@@ -3,6 +3,44 @@ Serilum's Customization Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-customization-bundle
 
 =========
+v3.0: Altered Damage: v3.7 -> v3.8
+Alternative World Save Location: v3.7 -> v3.8
+Biome Spawn Point: v2.5 -> v2.6
+Configurable Despawn Timer: v4.5 -> v4.7
+Configurable Extra Mob Drops: v3.7 -> v3.8
+Configurable Furnace Burn Time: v2.5 -> v2.6
+Configurable Mob Potion Effects: v3.9 -> v4.0
+Custom Credits: v1.9 -> v2.0
+Cycle Title Screen Splash: v1.3 -> v1.4
+Difficulty Lock: v4.9 -> v5.0
+First Join Message: v3.8 -> v3.9
+Hide Experimental Warning: v1.2 -> v1.3
+Save and Load Inventories: v3.6 -> v3.7
+Set World Spawn Point: v3.8 -> v3.9
+Simple Menu: v2.2 -> v2.3
+Starter Kit: v8.1 -> v8.3
+Starter Structure: v4.7 -> v4.8
+
+=========
+v2.9: Altered Damage: v3.6 -> v3.8
+Alternative World Save Location: v3.6 -> v3.8
+Biome Spawn Point: v2.4 -> v2.6
+Configurable Despawn Timer: v4.5 -> v4.7
+Configurable Extra Mob Drops: v3.7 -> v3.8
+Configurable Furnace Burn Time: v2.5 -> v2.6
+Configurable Mob Potion Effects: v3.8 -> v4.0
+Custom Credits: v1.8 -> v2.0
+Cycle Title Screen Splash: v1.3 -> v1.4
+Difficulty Lock: v4.7 -> v5.0
+First Join Message: v3.8 -> v3.9
+Hide Experimental Warning: v1.2 -> v1.3
+Save and Load Inventories: v3.6 -> v3.7
+Set World Spawn Point: v3.5 -> v3.9
+Simple Menu: v2.0 -> v2.3
+Starter Kit: v8.1 -> v8.3
+Starter Structure: v4.2 -> v4.8
+
+=========
 v2.8: Configurable Despawn Timer: v4.4 -> v4.5
 Configurable Extra Mob Drops: v3.6 -> v3.7
 Configurable Mob Potion Effects: v3.7 -> v3.9

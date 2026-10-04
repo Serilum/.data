@@ -3,6 +3,11 @@ Global Narration Toggle
 https://curseforge.com/minecraft/mc-mods/global-narration-toggle
 
 =========
+v1.5: Changed the mod's Java package to com.serilum.*.
+Updated mod information in the mods.toml and fabric.mod.json files.
+No functional changes.
+
+=========
 v1.4: Added Bundle support. The mod can now be enabled/disabled via bundle configs.
 (NeoForge) Fixed the in-game config screen not working correctly.
 
