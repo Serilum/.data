@@ -3,6 +3,21 @@ Daily Quests
 https://curseforge.com/minecraft/mc-mods/daily-quests
 
 =========
+v4.0: Fixed dedicated NeoForge and Forge servers crashing on startup.
+Fixed a crash each morning when only a few quest types are enabled.
+Fixed a crash when generating Tame Animal quests with some modded mobs.
+Fixed players being stuck on the introduction screen after relogging or a server restart.
+Fixed the /dq debug generate command not ending the introduction screen.
+Fixed quests not refreshing for players outside the Overworld, or when the time skipped past the refresh time.
+Fixed quest reward items losing what the loot table set on them, like lore, custom names and enchantments.
+Fixed shift-clicked furnace output not counting for Smelt Item quests.
+Fixed quest names and the introduction always showing in English on servers; they now use the player's own language.
+Fixed the /dq info, /dq quests and quest summary headers showing as raw text for players without Collective.
+Removed the 'introductionQuestScreenTitles' and 'introductionQuestScreenDescriptions' config options, as the introduction text is now translated.
+(26.2+) Added the Block Arrow quest type back.
+(26.2+) Fixed Collect Honey quests not counting filled honey bottles.
+
+=========
 v3.1: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

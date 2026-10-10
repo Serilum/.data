@@ -3,6 +3,9 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.44: Add remaining Daily Quests translation lines.
+
+=========
 v8.43: Added Daily Quest translations.
 Added MessageFunctions.getTranslatableMessageComponent function.
 (Forge & Neo) Fixed packets sometimes not being registered when mods load at the same time.
