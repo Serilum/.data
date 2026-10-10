@@ -3,6 +3,11 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.43: Added Daily Quest translations.
+Added MessageFunctions.getTranslatableMessageComponent function.
+(Forge & Neo) Fixed packets sometimes not being registered when mods load at the same time.
+
+=========
 v8.42: (Forge) Fixed the experimental settings warning still showing when loading a world with Hide Experimental Warning installed.
 
 =========

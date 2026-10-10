@@ -3,6 +3,12 @@ Difficulty Lock
 https://www.curseforge.com/minecraft/mc-mods/difficulty-lock
 
 =========
+v5.1: Fixed a possible crash when opening the world creation screen.
+Fixed the world creation screen showing incorrect difficulty and cheats values, and not updating them when switching game modes.
+Fixed Creative mode briefly showing when switching game modes with 'disableCreativeModeSelection' enabled.
+(1.21.1) Fixed the 'forceCheatsDisabled' config option crashing the game on the world creation screen.
+
+=========
 v5.0: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.
