@@ -3,6 +3,23 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.46: (Fabric) Fixed blocks mined through an Immersive Portals portal turning into the block from the other dimension when you stop mining.
+(NeoForge) Fixed mobs from spawners sometimes not being recognised as spawner mobs when another mod changes how spawners work.
+(1.20.1 / 1.21.1) Fixed a startup crash with some Forge mods that change items, such as Everlasting Abilities.
+(1.20.1 Fabric) Fixed a startup crash on Arclight servers.
+
+=========
+v8.45: Fixed mod configs sometimes resetting to their defaults on startup.
+Fixed the update checker still running with 'enableUpdateChecker' disabled due to the config not being loaded.
+Fixed the config screen crashing for mods disabled in a bundle.
+Fixed experience functions not respecting mods that change the level curve.
+(Fabric) Fixed a startup crash with Entity Texture Features and Entity Model Features.
+(Fabric) Fixed a mixin conflict with mods that change item pickups.
+(Fabric) Fixed mobs replaced by the spawn mods not being removed correctly with Moonrise installed.
+(Forge & Neo) Mobs replaced by the spawn mods now fire the living conversion event, so mods like Gateways to Eternity keep track of them.
+(1.20.1 / 1.21.1) Fixed mined player heads losing their name, lore and custom textures.
+
+=========
 v8.44: Add remaining Daily Quests translation lines.
 
 =========

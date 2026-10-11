@@ -3,6 +3,9 @@ Tree Harvester
 https://www.curseforge.com/minecraft/mc-mods/tree-harvester
 
 =========
+v10.1: Fixed wooden builds being chopped down when they have a nether wart or shroomlight ceiling.
+
+=========
 v10.0: Lots of bug fixes and improvements for version 10.0! See below.
 
 Fixed log houses and other builds being chopped down when standing next to grass or flowers.
