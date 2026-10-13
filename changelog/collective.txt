@@ -3,6 +3,18 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.51: Added a cross-loader block break event trigger to the event service.
+Used in Tree Harvester and Ore Harvester to add compatibility with other mods.
+
+=========
+v8.50: Added GUI Followers translations.
+Fixed client-side messages showing their translation key or always being in English.
+
+=========
+v8.49: Added Stack Refill translations.
+(26.2+ Fabric) Fixed the item destroyed event not firing when a tool breaks during mining.
+
+=========
 v8.48: (26.2+) Fixed the nearest ungenerated region lookup not finding any regions.
 
 =========

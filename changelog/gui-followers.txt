@@ -3,6 +3,16 @@ GUI Followers
 https://curseforge.com/minecraft/mc-mods/gui-followers
 
 =========
+v5.0: Added the '/guifollowers hide' and '/guifollowers unhide' client commands, used to hide the pet you're looking at.
+Added the 'entityTypesToIgnore' config option, added the Villager Workers mod by default.
+Added the 'followerListWidthOffset' and 'followerListTextScale' config options.
+Added the 'showFollowerList' config option.
+Added the 'colourFollowerByHealth' and 'followerHealthColours' config options.
+Fixed followers from a previous server or world join staying in the list.
+(1.21.1+) Added the 'showWolfArmour' config option, enabled by default.
+(1.20.1 Forge) Fixed the follower list being drawn multiple times.
+
+=========
 v4.5: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

@@ -3,6 +3,17 @@ Stack Refill
 https://curseforge.com/minecraft/mc-mods/stack-refill
 
 =========
+v6.0: Added a config, with options to turn off each type of refill.
+Added the 'itemBlacklist' and 'itemWhitelist' config options, which support * wildcards.
+Added the /stackrefill command, with 'toggle', 'enable' and 'disable' to turn refilling on or off for yourself.
+Thrown tridents, splash potions, and other used items are now refilled too.
+Refilling now always happens on the server, which fixes ghost blocks and invisible items in multiplayer.
+Fixed an item being deleted from the inventory on death.
+Fixed refills lagging behind when using items quickly, e.g. bone meal with an auto clicker.
+Fixed cc tweaked turtles voiding blocks when placing them.
+(26.2+ Fabric) Fixed broken tools not being replaced from the inventory with the latest Collective update.
+
+=========
 v5.1: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

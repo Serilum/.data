@@ -3,6 +3,13 @@ Tree Harvester
 https://www.curseforge.com/minecraft/mc-mods/tree-harvester
 
 =========
+v10.2: Every felled log now triggers a block break event.
+Fixed felled logs not counting towards the 'Mined' statistic.
+Fixed tree harvesting in creative mode dropping items.
+Fixed logs in spawn protection being felled.
+Added the 'triggerBlockBreakEventPerHarvestedLog', 'axeWhitelist' and 'logBlockBlacklist' config options.
+
+=========
 v10.1: Fixed wooden builds being chopped down when they have a nether wart or shroomlight ceiling.
 
 =========

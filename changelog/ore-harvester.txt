@@ -3,6 +3,25 @@ Ore Harvester
 https://curseforge.com/minecraft/mc-mods/ore-harvester
 
 =========
+v2.0: Version 2.0! A big update with lots of bug fixes and improvements! See below.
+
+Added the 'oreBlockWhitelist' and 'oreBlockBlacklist' config options.
+Added the 'pickaxeWhitelist' config option, for modded tools that aren't detected as a pickaxe. Paxels, hammers and multitools from several mods are included by default.
+Added the 'maxOresPerVein' config option.
+Added the 'triggerBlockBreakEventPerHarvestedOre' config option.
+Every harvested ore now triggers a block break event, which fixes compatibility with mods like Project MMO and claim protection mods.
+Fixed being able to skip the extra harvesting time by crouching or standing up halfway through mining an ore.
+Fixed ore veins being harvested with a pickaxe that can't mine that ore, like diamond ore with a wooden pickaxe.
+Fixed stone and deepslate ores in the same vein not being harvested together.
+Fixed some diagonally connected ores in caves not being harvested.
+Fixed harvested ores not counting towards the 'Mined' statistic.
+Fixed ores that drop more than one kind of item not having all of them collected at the first broken block.
+Fixed ores in spawn protection or outside the world border being harvested as part of a vein.
+Fixed vein harvesting in creative mode dropping items.
+Fixed ores with their own mining behaviour, like the ones from Bedrock Ores, disappearing without dropping anything.
+(Forge & Neo) Fixed the pickaxe losing one extra durability point per harvested vein.
+
+=========
 v1.7: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.
