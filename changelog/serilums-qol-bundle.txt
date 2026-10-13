@@ -3,6 +3,11 @@ Serilum's QoL Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-qol-bundle
 
 =========
+v3.0: Enchanting Commands: v3.7 -> v3.8
+Followers Teleport Too: None -> v2.9
+Tree Harvester: v9.5 -> v10.1
+
+=========
 v2.9: Always a Wither Skull: v3.6 -> v3.7
 Automatic Doors: v5.0 -> v5.1
 Better Beacon Placement: v3.6 -> v3.7

@@ -3,6 +3,10 @@ Player Death Kick
 https://www.curseforge.com/minecraft/mc-mods/player-death-kick
 
 =========
+v3.7: (Fabric) Fixed players being kicked when a Totem of Undying saved them from dying.
+Thanks to @FritzTom on Github for the pull request!
+
+=========
 v3.6: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

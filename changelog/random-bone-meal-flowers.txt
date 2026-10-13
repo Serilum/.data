@@ -3,6 +3,12 @@ Random Bone Meal Flowers
 https://www.curseforge.com/minecraft/mc-mods/random-bone-meal-flowers
 
 =========
+v4.9: Fixed torchflower seeds turning into a random flower when bone mealed.
+Fixed modded flowers that are not regular flower blocks never being randomized, like Ice and Fire's lilies.
+The Growth Totem from Better Archeology is now blacklisted by default.
+(26.2+) Fixed bone meal not randomizing flowers at all, both by hand and from dispensers.
+
+=========
 v4.8: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

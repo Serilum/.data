@@ -3,6 +3,15 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.48: (26.2+) Fixed the nearest ungenerated region lookup not finding any regions.
+
+=========
+v8.47: (26.2+) Fixed GUI overlays like GUI Clock and GUI Compass disappearing when hitboxes, chunk borders or an always-on debug entry are shown.
+Thanks to @decce6 on Github for the pull request!
+(1.20.1) Fixed a crash when placing some custom player heads from other mods.
+Thanks to @VanillaChan6571 on Github for the pull request!
+
+=========
 v8.46: (Fabric) Fixed blocks mined through an Immersive Portals portal turning into the block from the other dimension when you stop mining.
 (NeoForge) Fixed mobs from spawners sometimes not being recognised as spawner mobs when another mod changes how spawners work.
 (1.20.1 / 1.21.1) Fixed a startup crash with some Forge mods that change items, such as Everlasting Abilities.

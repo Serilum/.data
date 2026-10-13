@@ -3,6 +3,17 @@ Followers Teleport Too
 https://curseforge.com/minecraft/mc-mods/followers-teleport-too
 
 =========
+v3.0: Followers now also teleport along when you are teleported by other mods, like Waystones, warps and tpa commands!
+The mount you are riding now teleports along too, with you still on it.
+Allays that like you now teleport along as well.
+Fixed followers being left in the old dimension when teleporting to another dimension.
+Leashed followers and followers ordered to sit now stay behind.
+Pets from Alex's Mobs and Alex's Caves now only teleport along when set to follow.
+Added the 'followerTypesThatStayBehind' config option, which keeps nautiluses behind by default.
+Added the 'followerSearchRadiusInBlocks', 'followersFollowIntoOtherDimensions', 'allaysTeleportToo' and 'mountTeleportsToo' config options.
+(NeoForge) Fixed snowballs and eggs not knocking back mobs, and armadillos not taking damage.
+
+=========
 v2.9: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

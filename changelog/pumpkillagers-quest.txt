@@ -3,6 +3,15 @@ Pumpkillager's Quest
 https://curseforge.com/minecraft/mc-mods/pumpkillagers-quest
 
 =========
+v5.7: Fixed a chance of the final boss not dying, dropping his rewards or removing his health bar after being defeated.
+Fixed items in a chest being lost when the Pumpkillager's platform appeared where the chest was.
+Fixed a pumpkin stem next to the broken pumpkin not coming back after the Pumpkillager left.
+Fixed the Pumpkillager not spawning while carrying a quest book from the /pumpkillager book command.
+Fixed blocks placed during the ritual preview turning invisible.
+Fixed an incompatibility with Tetra causing thrown weapons to disappear when caught.
+(26.2+ NeoForge) Fixed a crash when breaking blocks.
+
+=========
 v5.6: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

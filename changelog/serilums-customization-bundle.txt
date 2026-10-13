@@ -3,6 +3,9 @@ Serilum's Customization Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-customization-bundle
 
 =========
+v3.1: Difficulty Lock: v5.0 -> v5.1
+
+=========
 v3.0: Altered Damage: v3.7 -> v3.8
 Alternative World Save Location: v3.7 -> v3.8
 Biome Spawn Point: v2.5 -> v2.6
