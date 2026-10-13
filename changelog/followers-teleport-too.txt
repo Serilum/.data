@@ -3,6 +3,9 @@ Followers Teleport Too
 https://curseforge.com/minecraft/mc-mods/followers-teleport-too
 
 =========
+v3.1: (26.2+ Forge) Hotfix after v3.0, fixed an error on startup that prevented the mod from loading.
+
+=========
 v3.0: Followers now also teleport along when you are teleported by other mods, like Waystones, warps and tpa commands!
 The mount you are riding now teleports along too, with you still on it.
 Allays that like you now teleport along as well.
