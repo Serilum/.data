@@ -3,6 +3,20 @@ Biome Spawn Point
 https://curseforge.com/minecraft/mc-mods/biome-spawn-point
 
 =========
+v3.0: Big 3.0 update of Biome Spawn Point! :) Various fixes and features added.
+Fixed the spawn biome not being found when the game language isn't English.
+Fixed players spawning just outside of the chosen biome, or in a different biome than the one that was found.
+Fixed Village Spawn Point moving the spawn to a village outside of the chosen biome.
+Players now spawn on land instead of in water when the chosen biome continues underwater, like beaches.
+The spawn biome is now picked using the world seed, so the same seed gives the same spawn point.
+Added the /biomespawnpoint reload command, with /bsp as a shorter alias.
+Added the /biomespawnpoint enable and disable commands, which enable or disable a spawn biome in the config file.
+Added the /biomespawnpoint repick command, which moves the world spawn point to a random new spot in one of the spawn biomes.
+Added the /biomespawnpoint reset command, which moves the world spawn point back to where a new world with the same seed would place it.
+Added the 'biomeSearchRadius', 'minimumDistanceFromBiomeEdge' and 'preferSpawningOnLand' config options.
+Biome tags can now be used in spawnbiomes.txt, e.g. '#minecraft:is_forest'.
+
+=========
 v2.6: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

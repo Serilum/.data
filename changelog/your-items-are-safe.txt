@@ -3,6 +3,18 @@ Your Items Are Safe
 https://curseforge.com/minecraft/mc-mods/your-items-are-safe
 
 =========
+v5.0: Items from other mods, like Curios, Trinkets and Accessories, are now also placed in the death chest.
+Added the 'nameChestWithPlayerName' config option, which names the death chest after the player.
+Added the 'dimensionsToIgnore' and 'playerNamesToIgnore' config options.
+Fixed the keepInventory gamerule being ignored.
+Fixed items sometimes ending up both in the chest and on the ground.
+Fixed items disappearing when dying above the build limit, the chest is now placed just below it.
+Fixed the chest and sign replacing blocks at the death location, like nether portals and backpacks. They are now placed next to them.
+Fixed worn armor dropping on the ground when the inventory was empty.
+Fixed items disappearing when the chest could not be placed, they now drop on the ground instead.
+(Fabric) Fixed the chest being created when a Totem of Undying from another mod's slot saved the player.
+
+=========
 v4.8: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.
