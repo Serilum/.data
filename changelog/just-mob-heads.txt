@@ -3,6 +3,17 @@ Just Mob Heads
 https://www.curseforge.com/minecraft/mc-mods/just-mob-heads
 
 =========
+v9.6: Piglins now drop the vanilla Piglin Head.
+Creepers, Skeletons and Zombies now have their own drop chance.
+Fixed the Vindicator head looking like the Evoker head.
+Fixed the Villager and Pufferfish heads not making a sound on note blocks.
+A drop chance of 0 now stops that mob from dropping its head, also with Looting.
+The 'overallDropChance' and 'creeperSkeletonZombieDropChance' config options can now be set to 0.
+Fixed mob heads renamed on pickup showing a translation key when Collective is only installed on the server.
+(1.21.1+) Fixed Trader Llamas and pale Wolves not dropping their head.
+(26.2+) Fixed Villagers, Zombie Villagers, Cats, some Wolves and some Rabbits not dropping their head.
+
+=========
 v9.5: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.
