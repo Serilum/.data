@@ -1,2 +1,5 @@
 .git
+.gitattributes
+.wrangler
 README.md
+wrangler.toml
