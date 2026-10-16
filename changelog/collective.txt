@@ -3,6 +3,22 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.55-8.56: Moved all Serilum mod configs into the `./config/serilum/...` folder, to keep the config folder tidy!
+Existing configs and mod folders are moved automatically.
+Config files placed in the old `./config/...` location, take priority, and are copied over.
+Added a single-id option to the config list pickers, for settings that pick one block.
+
+=========
+v8.54: Rewrote the config system. Configs are now .json files, existing .json5 are converted automatically.
+Improved the in-game config screen, with search, tooltips, a GUI scale button and a reset button per option!
+Added list pickers to the config screen, with search and suggestions.
+Added a colour picker and option buttons to the config screen.
+Added an 'Enable <mod name>' option to the top of every mod's config, which turns the whole mod off after a restart.
+Added the /collective config command, which allows changing and viewing the config of every mod (with cheat access).
+An invalid value in a config file now only resets that option, instead of the whole config.
+Added a config changed callback for dependent mods.
+
+=========
 v8.53: (Fabric) Added a living entity drops event, which gives mods the items dropped on death and is compatible with other mods.
 
 =========
