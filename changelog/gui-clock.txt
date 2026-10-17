@@ -3,6 +3,10 @@ GUI Clock
 https://www.curseforge.com/minecraft/mc-mods/gui-clock
 
 =========
+v4.9: The clock position is now one 'clockPosition' setting (Left, Center or Right) instead of three toggles. Your existing choice is kept.
+Merged the colour configs into one 'RGB' setting, with a colour picker in the in-game config. Your existing colour is kept.
+
+=========
 v4.8: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

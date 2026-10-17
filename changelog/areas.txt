@@ -3,6 +3,9 @@ Areas
 https://www.curseforge.com/minecraft/mc-mods/areas
 
 =========
+v6.6: Merged the colour configs into one 'HUD_RGB' setting, with a colour picker in the in-game config. Your existing colour is kept.
+
+=========
 v6.5: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

@@ -3,6 +3,9 @@ Sleep Sooner
 https://www.curseforge.com/minecraft/mc-mods/sleep-sooner
 
 =========
+v5.2: Removed the 'enableSleepSooner' setting. Use the 'Enable Sleep Sooner' setting at the top of the config instead. If you had the mod turned off, it is turned off there from the next start.
+
+=========
 v5.1: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

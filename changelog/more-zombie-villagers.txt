@@ -3,6 +3,9 @@ More Zombie Villagers
 https://www.curseforge.com/minecraft/mc-mods/more-zombie-villagers
 
 =========
+v3.8: Config changes made in-game now apply right away, without a restart.
+
+=========
 v3.7: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

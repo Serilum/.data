@@ -3,6 +3,9 @@ Pumpkillager's Quest
 https://curseforge.com/minecraft/mc-mods/pumpkillagers-quest
 
 =========
+v5.8: Changes to the 'finalBossMaxHealth' setting made in-game now apply right away, without a restart.
+
+=========
 v5.7: Fixed a chance of the final boss not dying, dropping his rewards or removing his health bar after being defeated.
 Fixed items in a chest being lost when the Pumpkillager's platform appeared where the chest was.
 Fixed a pumpkin stem next to the broken pumpkin not coming back after the Pumpkillager left.

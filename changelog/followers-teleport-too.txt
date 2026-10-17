@@ -3,6 +3,9 @@ Followers Teleport Too
 https://curseforge.com/minecraft/mc-mods/followers-teleport-too
 
 =========
+v3.2: The 'followerTypesThatStayBehind' list can now be picked from a list in the in-game config.
+
+=========
 v3.1: (26.2+ Forge) Hotfix after v3.0, fixed an error on startup that prevented the mod from loading.
 
 =========

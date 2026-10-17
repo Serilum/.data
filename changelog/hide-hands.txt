@@ -3,6 +3,10 @@ Hide Hands
 https://www.curseforge.com/minecraft/mc-mods/hide-hands
 
 =========
+v4.8: The 'hideMainHandWithItems' and 'hideOffhandWithItems' lists can now be picked from a list in the in-game config.
+The item lists now match whole item ids, so listing an item no longer also hides the hand for items whose id is part of it.
+
+=========
 v4.7: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

@@ -3,6 +3,9 @@ Difficulty Lock
 https://www.curseforge.com/minecraft/mc-mods/difficulty-lock
 
 =========
+v5.2: Merged the 'forcePeaceful', 'forceEasy', 'forceNormal' and 'forceHard' settings into one 'forcedDifficulty' setting (Disabled, Peaceful, Easy, Normal or Hard). Your existing choice is kept.
+
+=========
 v5.1: Fixed a possible crash when opening the world creation screen.
 Fixed the world creation screen showing incorrect difficulty and cheats values, and not updating them when switching game modes.
 Fixed Creative mode briefly showing when switching game modes with 'disableCreativeModeSelection' enabled.

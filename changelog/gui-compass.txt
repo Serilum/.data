@@ -3,6 +3,10 @@ GUI Compass
 https://www.curseforge.com/minecraft/mc-mods/gui-compass
 
 =========
+v5.1: The compass position is now one 'compassPosition' setting (Left, Center or Right) instead of three toggles. Your existing choice is kept.
+Merged the colour configs into one 'RGB' setting, with a colour picker in the in-game config. Your existing colour is kept.
+
+=========
 v5.0: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

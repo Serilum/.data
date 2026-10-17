@@ -3,6 +3,9 @@ Your Items Are Safe
 https://curseforge.com/minecraft/mc-mods/your-items-are-safe
 
 =========
+v5.1: The 'dimensionsToIgnore' list can now be picked from a list in the in-game config.
+
+=========
 v5.0: Items from other mods, like Curios, Trinkets and Accessories, are now also placed in the death chest.
 Added the 'nameChestWithPlayerName' config option, which names the death chest after the player.
 Added the 'dimensionsToIgnore' and 'playerNamesToIgnore' config options.

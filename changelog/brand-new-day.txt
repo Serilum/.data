@@ -3,6 +3,9 @@ Brand New Day
 https://curseforge.com/minecraft/mc-mods/brand-new-day
 
 =========
+v1.2: Merged the colour configs into one setting per colour ('dayTextRGB', 'statsKeyTextRGB' and 'statsValueTextRGB'), with a colour picker in the in-game config. Your existing colours are kept.
+
+=========
 v1.1: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

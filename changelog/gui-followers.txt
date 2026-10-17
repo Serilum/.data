@@ -3,6 +3,11 @@ GUI Followers
 https://curseforge.com/minecraft/mc-mods/gui-followers
 
 =========
+v5.1: The follower list position is now one 'followerListPosition' setting (Left, Center or Right) instead of three toggles. Your existing choice is kept.
+Merged the colour configs into one 'RGB' setting, with a colour picker in the in-game config. Your existing colour is kept.
+The 'entityTypesToIgnore' entities can now be picked from a list in the in-game config. Ids without a mod id and '*' anywhere in an id now work there too.
+
+=========
 v5.0: Added the '/guifollowers hide' and '/guifollowers unhide' client commands, used to hide the pet you're looking at.
 Added the 'entityTypesToIgnore' config option, added the Villager Workers mod by default.
 Added the 'followerListWidthOffset' and 'followerListTextScale' config options.

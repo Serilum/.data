@@ -3,6 +3,10 @@ Easy Elevators
 https://curseforge.com/minecraft/mc-mods/easy-elevators
 
 =========
+v1.5: The 'elevatorBlocks' and 'elevatorChains' lists can now be picked from a list in the in-game config.
+Config changes made in-game now apply right away, without a restart.
+
+=========
 v1.4: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

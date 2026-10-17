@@ -3,6 +3,10 @@ Giant Spawn
 https://www.curseforge.com/minecraft/mc-mods/giant-spawn
 
 =========
+v5.5: Fixed the 'onlySpawnGiantOnSurface' setting being ignored (giants always spawned on the surface only).
+Config changes made in-game now apply right away, without a restart.
+
+=========
 v5.4: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

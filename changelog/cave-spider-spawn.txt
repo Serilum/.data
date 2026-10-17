@@ -3,6 +3,9 @@ Cave Spider Spawn
 https://curseforge.com/minecraft/mc-mods/cave-spider-spawn
 
 =========
+v1.4: Config changes made in-game now apply right away, without a restart.
+
+=========
 v1.3: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

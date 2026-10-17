@@ -3,6 +3,9 @@ Ore Harvester
 https://curseforge.com/minecraft/mc-mods/ore-harvester
 
 =========
+v2.1: The 'oreBlockWhitelist', 'oreBlockBlacklist' and 'pickaxeWhitelist' lists can now be picked from a list in the in-game config.
+
+=========
 v2.0: Version 2.0! A big update with lots of bug fixes and improvements! See below.
 
 Added the 'oreBlockWhitelist' and 'oreBlockBlacklist' config options.
