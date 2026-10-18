@@ -3,6 +3,15 @@ Infinite Trading
 https://www.curseforge.com/minecraft/mc-mods/infinite-trading
 
 =========
+v6.0: Traders from other mods, like the goblins from Goblin Traders, now have infinite trades too.
+Added optional trade loop prevention via the 'preventTradeLoops' config option, disabled by default.
+'preventTradeLoops' is an attempt to fix infinite emeralds. When a player earns more emeralds by selling an item than they spent on buying it or related items, their trades selling that item fall back to vanilla limits for a while.
+Added the 'minimumVillagerLevel', 'tradeUsesMultiplier' and 'removeTradeDemand' config options.
+Renamed the 'fallbackInfiniteTrades' config option to 'moddedTraderInfiniteTrades'.
+Fixed villager trades showing a much higher price, up to 64, until the trade was clicked.
+Fixed an incompatibility with Easy Villagers causing the auto trader's trades to lock up.
+
+=========
 v5.1: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.
