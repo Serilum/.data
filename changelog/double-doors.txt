@@ -3,6 +3,12 @@ Double Doors
 https://www.curseforge.com/minecraft/mc-mods/double-doors
 
 =========
+v7.5: Double doors now open at the same moment when the mod is also installed on the client.
+Added support for modded doors with their own opening logic, such as the Sliding Doors mod.
+Added the 'doorBlockBlacklist' config option.
+(26.2+) Fixed the second door not closing again when opened with a button or lever.
+
+=========
 v7.4: Fix the mod compatibility check with the new './config/serilum/' folder.
 
 =========

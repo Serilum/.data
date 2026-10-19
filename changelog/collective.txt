@@ -3,6 +3,13 @@ Collective
 https://www.curseforge.com/minecraft/mc-mods/collective
 
 =========
+v8.59: Added dimension and biome filters to the spawn replacement system, for the upcoming spawn mod updates.
+Added a biome picker and an optional amount per entry to the config list pickers.
+Fixed zombie villagers from the spawn mods always looking like plains villagers, instead of matching the biome they spawn in.
+Fixed baby zombies turning into adult husks or zombie villagers, or into giants, with the spawn mods installed.
+Fixed a crash when opening Starter Kit's kit screen with a kit that has an unknown equipment slot.
+
+=========
 v8.58: Fixed the game being slowed down due to the config screen code doing a check every frame.
 
 =========

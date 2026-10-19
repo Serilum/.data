@@ -3,6 +3,19 @@ Starter Kit
 https://www.curseforge.com/minecraft/mc-mods/starter-kit
 
 =========
+v9.0: Added Curios and Trinkets support! Kits now save and give items automatically in their slots.
+Added kit commands, which run when a kit is given. They can be set in './config/serilum/starterkit/commands/'.
+Added the 'giveStarterKitOnRespawn', 'giveStarterKitOnFirstJoin', 'lockKitChoiceScreen' and 'randomKitWeights' config options.
+Kits can now be ordered by starting their name with a number, such as '1_Warrior'.
+Kit names, descriptions and the choose kit text can now be translation keys.
+Fixed players joining a hosted singleplayer world, such as via Essential, not receiving a starter kit.
+Fixed kit tracking being incorrect or undone after a server restart.
+Fixed some cases where items could be duplicated, lost or shown incorrectly when receiving a kit.
+Fixed several issues with the kit selection screen.
+Fixed some commands behaving incorrectly, and kit choices are now validated by the server.
+(26.2+) Fixed the admin commands not working in command blocks and datapack functions.
+
+=========
 v8.4: New kit description files now name the new './config/serilum/starterkit/' folder. Existing description files keep working.
 
 =========
