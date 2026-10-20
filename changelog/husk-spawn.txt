@@ -3,6 +3,11 @@ Husk Spawn
 https://www.curseforge.com/minecraft/mc-mods/husk-spawn
 
 =========
+v3.9: Added the 'dimensionsToSpawnIn' and 'biomesToSpawnIn' config options, to choose where husks can spawn. Biome tags work too.
+Added the 'onlySpawnHusksOnSurface' config option.
+Baby zombies now stay babies when they turn into a husk.
+
+=========
 v3.8: Config changes made in-game now apply right away, without a restart.
 
 =========

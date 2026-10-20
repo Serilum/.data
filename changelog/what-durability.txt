@@ -3,6 +3,14 @@ What Durability
 https://www.curseforge.com/minecraft/mc-mods/what-durability
 
 =========
+v2.1: Fixed Tinkers' Construct tools still losing durability.
+
+=========
+v2.0: Added the 'itemsWithDurability' config option, to choose items that keep their durability. Item tags work too.
+Fixed items showing full durability on servers without the mod when it is only installed on the client.
+Fixed items keeping some durability damage once the mod is removed from a world.
+
+=========
 v1.3-1.4: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

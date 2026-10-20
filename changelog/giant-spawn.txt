@@ -3,6 +3,16 @@ Giant Spawn
 https://www.curseforge.com/minecraft/mc-mods/giant-spawn
 
 =========
+v5.6: Added the 'dimensionsToSpawnIn' and 'biomesToSpawnIn' config options, to choose where giants can spawn. Biome tags work too.
+Added the 'giantDropItems' config option, an item picker with an amount per item. Giants drop 4 to 20 rotten flesh by default.
+Added the 'chanceGiantSpawnsWithEquipment' config option: giants can now spawn with armor and a sword or shovel.
+Added config options for the giant's experience, max health, knockback resistance and follow range.
+Added the 'preventGiantDespawning' config option.
+Giants now make zombie sounds, at a lower pitch. Can be disabled with 'giantsUseZombieSounds'.
+Giants are now undead: Smite works on them, the Wither leaves them alone, and healing potions hurt them.
+Baby zombies no longer turn into giants.
+
+=========
 v5.5: Fixed the 'onlySpawnGiantOnSurface' setting being ignored (giants always spawned on the surface only).
 Config changes made in-game now apply right away, without a restart.
 

@@ -3,6 +3,11 @@ Serilum's Extra Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-extra-bundle
 
 =========
+v3.1: Easy Elevators: v1.4 -> v1.5
+Infinite Trading: v5.1 -> v6.0
+Random Bone Meal Flowers: v4.8 -> v4.9
+
+=========
 v3.0: All Loot Drops: v3.7 -> v3.8
 
 =========

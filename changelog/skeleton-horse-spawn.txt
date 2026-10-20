@@ -3,6 +3,12 @@ Skeleton Horse Spawn
 https://www.curseforge.com/minecraft/mc-mods/skeleton-horse-spawn
 
 =========
+v4.5: Added the 'skeletonHorsesCanDespawn' config option, so the skeleton horses the mod spawns despawn when no player is near.
+
+=========
+v4.4: Added the 'dimensionsToSpawnIn' and 'biomesToSpawnIn' config options, to choose where skeleton horses can spawn. Biome tags work too.
+
+=========
 v4.3: Config changes made in-game now apply right away, without a restart.
 
 =========

@@ -3,6 +3,16 @@ Serilum's RPG Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-rpg-bundle
 
 =========
+v3.2: Areas: v6.5 -> v6.6
+Double Doors: v7.3 -> v7.5
+Eroding Stone Entities: v4.8 -> v4.9
+Flower Mimics: v2.3 -> v2.4
+Just Mob Heads: v9.5 -> v9.6
+Nether Portal Spread: v8.5 -> v8.6
+Pumpkillager's Quest: v5.6 -> v5.8
+Villager Names: v8.7 -> v8.8
+
+=========
 v3.1: Anvil Restoration: v2.5 -> v2.6
 Areas: v6.3 -> v6.5
 Bareback Horse Riding: v2.4 -> v2.5

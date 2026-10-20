@@ -3,6 +3,14 @@ Serilum's Client Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-client-bundle
 
 =========
+v2.7: Current Game Music Track: v2.6 -> v2.7
+Full Brightness Toggle: v4.7 -> v4.9
+GUI Clock: v4.8 -> v4.9
+GUI Compass: v5.0 -> v5.1
+GUI Followers: v4.5 -> v5.1
+Hide Hands: v4.7 -> v4.8
+
+=========
 v2.6: Advancement Screenshot: v5.2 -> v5.3
 Beautified Chat Client: v2.9 -> v3.0
 Current Game Music Track: v2.5 -> v2.6

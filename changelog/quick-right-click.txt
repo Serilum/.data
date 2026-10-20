@@ -3,6 +3,17 @@ Quick Right-Click
 https://curseforge.com/minecraft/mc-mods/quick-right-click
 
 =========
+v3.0: Shulker boxes now open directly from the item, without placing a temporary box above you, which fixes various issues with them.
+Fixed a crash when opening shulker boxes from other mods, like Reinforced Shulker Boxes and Enderite.
+Fixex/improved quick bed placement.
+Fixed enlarged ender chests from other mods not showing all rows.
+Fixed crafting tables not opening with Visual Workbench installed.
+(Fabric) Fixed ghost beds during quick use.
+(Forge & Neo) Fixed shulker boxes being equipped by an inventory slot instead of opening.
+(1.20 / 1.21) Fixed fletching tables opening a crafting table.
+(26.3) Added straw bed support.
+
+=========
 v2.0: Changed the mod's Java package to com.serilum.*.
 Updated mod information in the mods.toml and fabric.mod.json files.
 No functional changes.

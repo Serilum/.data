@@ -3,6 +3,15 @@ Serilum's QoL Bundle
 https://curseforge.com/minecraft/mc-mods/serilums-qol-bundle
 
 =========
+v3.1: Compact Help Command: v3.0 -> v3.1
+Followers Teleport Too: v2.9 -> v3.2
+Ore Harvester: v1.7 -> v2.1
+Sleep Sooner: v5.1 -> v5.2
+Stack Refill: v5.1 -> v6.1
+Tree Harvester: v10.1 -> v10.3
+Your Items Are Safe: v4.8 -> v5.1
+
+=========
 v3.0: Enchanting Commands: v3.7 -> v3.8
 Followers Teleport Too: None -> v2.9
 Tree Harvester: v9.5 -> v10.1
