@@ -3,6 +3,11 @@ Villager Names
 https://www.curseforge.com/minecraft/mc-mods/villager-names
 
 =========
+v8.9: Added the 'extraEntityTypesToName' and 'entityTypesToIgnore' config options.
+Improved the modded villager detection, which finds more villagers and traders to name that aren't on the list.
+Added compatibility with Visiting Villagers, Villager Workers, Villager Golem Healer and Millager.
+
+=========
 v8.8: Updated the config description to the new './config/serilum/villagernames/' folder.
 
 =========
